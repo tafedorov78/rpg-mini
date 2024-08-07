@@ -79,55 +79,629 @@
       "uuid": "95bda204-fdf7-4b3d-924d-3dcd5b3384e8"
     },
     "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/Scripts": {
-      "time": 1723045092701.9429,
+      "time": 1723001540988.233,
       "uuid": "de33f1e7-5b36-4b21-b1dc-94678ded94be"
     },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/scenes": {
+      "time": 1722996962608.094,
+      "uuid": "87b30fe0-b112-4669-9d0c-5595742ae2db"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/Scripts/scenes": {
+      "time": 1722995450983.9949,
+      "uuid": "b66eb66d-2480-45f2-bc7f-6b9abf925dcc"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/Scripts/scenes/GameScene.ts": {
+      "time": 1722995366776.8835,
+      "uuid": "95bda204-fdf7-4b3d-924d-3dcd5b3384e8"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/Scripts/scenes/LoadingScene.ts": {
+      "time": 1722996091016.0288,
+      "uuid": "a01f0b1c-156b-4ba0-8ff6-0c69e7ef7437"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/Scripts/scenes/MainMenuScene.ts": {
+      "time": 1722996214051.5234,
+      "uuid": "7924076f-54a7-4045-9fa0-53988178828a"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/Scripts/scenes/SplashScene.ts": {
+      "time": 1722995308439.8037,
+      "uuid": "8d52a9f1-f50b-401e-8f75-134da717401f"
+    },
     "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/Scripts.meta": {
-      "time": 1723045092701.4453
+      "time": 1722995212668.4822
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/scenes.meta": {
+      "time": 1722994207595.82
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/Scripts/scenes.meta": {
+      "time": 1722995225510.234
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/Scripts/scenes/GameScene.ts.meta": {
+      "time": 1722995342611.4941
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/Scripts/scenes/LoadingScene.ts.meta": {
+      "time": 1722995237694.0876
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/Scripts/scenes/MainMenuScene.ts.meta": {
+      "time": 1722995312549.6047
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/Scripts/scenes/SplashScene.ts.meta": {
+      "time": 1722995281182.3118
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/scenes/GameScene.scene": {
+      "time": 1723002660437.9307,
+      "uuid": "6eee9438-993f-40ed-9527-5c8877905d3e"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/scenes/LoadingScene.scene": {
+      "time": 1723042652362.9749,
+      "uuid": "54d1f9e3-8212-4bd0-8f2b-c71890d84453"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/scenes/MainMenuScene.scene": {
+      "time": 1723042761080.725,
+      "uuid": "b31e9165-ac58-4bf8-a353-af2180cb1dbe"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/scenes/SplashScreenScene.scene": {
+      "time": 1723042673065.9458,
+      "uuid": "6d83f52c-2473-4b4b-9d63-f688d14dc9bd"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/scenes/SplashScreenScene.scene.meta": {
+      "time": 1722994380821.765
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/scenes/MainMenuScene.scene.meta": {
+      "time": 1722994421984.234
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/scenes/GameScene.scene.meta": {
+      "time": 1722994405525.8577
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/scenes/LoadingScene.scene.meta": {
+      "time": 1722994217479.5613
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art.meta": {
+      "time": 1722996362349.8362
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art": {
+      "time": 1722999865644.7297,
+      "uuid": "8064fa4e-56db-405e-af78-9790c14e3e3b"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/Splash.meta": {
+      "time": 1722996662108.361
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/Splash": {
+      "time": 1722998148174.5164,
+      "uuid": "87fb3f97-04b2-4c13-860c-cac58e853b05"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/Splash/SplashScreen.png.meta": {
+      "time": 1722996675982.0837
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/Splash/SplashScreen.png": {
+      "time": 1722996675893.6057,
+      "uuid": "7b399d64-44f9-48ef-b84f-4c08d6538ba7"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/MainMenu.meta": {
+      "time": 1722997061996.966
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/MainMenu": {
+      "time": 1722997066675.3176,
+      "uuid": "95981a41-3820-4e9c-b306-35df21c0e43f"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/MainMenu/LvlMap01.png.meta": {
+      "time": 1722997066723.9004
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/MainMenu/LvlMap01.png": {
+      "time": 1722997066674.612,
+      "uuid": "44714fb1-6ee1-4313-986f-c8814c133436"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces.meta": {
+      "time": 1722998144510.4475
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces": {
+      "time": 1722998144503.7146,
+      "uuid": "dd2249f5-8ebf-4c64-a59a-4c63f4762663"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Arena_icon.png.meta": {
+      "time": 1722998144538.5874
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Arena_icon.png": {
+      "time": 1722998144468.9788,
+      "uuid": "c727af82-2109-41fd-9599-f68f79b8848b"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Barrack_box.png.meta": {
+      "time": 1722998144528.5525
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Barrack_box.png": {
+      "time": 1722998144467.2422,
+      "uuid": "cdb8fc78-ef6e-49f3-ac4d-548051d47b5a"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Background-Screen-01.png.meta": {
+      "time": 1722998144536.8909
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Background-Screen-01.png": {
+      "time": 1722998144468.4565,
+      "uuid": "ef82227f-748c-4e32-b8cc-58b50bfbf8e1"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Background-Screen-03.png.meta": {
+      "time": 1722998144531.4001
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Background-Screen-03.png": {
+      "time": 1722998144467.6204,
+      "uuid": "500f1e73-15f4-4b9f-a523-92b75d6c961d"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Background-Screen-02.png.meta": {
+      "time": 1722998144533.5955
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Background-Screen-02.png": {
+      "time": 1722998144468.0876,
+      "uuid": "2761ccd6-6810-48a5-bacf-2aee00c32e38"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Btn_orange_active.png.meta": {
+      "time": 1722998144548.331
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Btn_orange_active.png": {
+      "time": 1722998144466.9307,
+      "uuid": "1a5e4688-3d42-4fde-8340-b4e0b495153a"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Btn_orange_inactive.png.meta": {
+      "time": 1722998144549.1785
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Btn_orange_inactive.png": {
+      "time": 1722998144466.5771,
+      "uuid": "e1b191bf-2371-4e32-b6be-40ecc6770248"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/CheckList.png.meta": {
+      "time": 1722998144556.2637
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/CheckList.png": {
+      "time": 1722998144460.5923,
+      "uuid": "23e3d618-1fc0-4829-94ac-7723ce6eec95"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Close_btn.png.meta": {
+      "time": 1722998144550.3972
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Close_btn.png": {
+      "time": 1722998144460.3044,
+      "uuid": "f116e448-4a8c-4ced-bf40-4a5ff686a335"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/CoinPack_box.png.meta": {
+      "time": 1722998144551.461
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/CoinPack_box.png": {
+      "time": 1722998144459.954,
+      "uuid": "aeefed1e-f20a-4523-a4ef-888d755aa550"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Cs02.png.meta": {
+      "time": 1722998144564.2473
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Cs02.png": {
+      "time": 1722998144459.1643,
+      "uuid": "bac11375-44c2-4f09-9678-9692916fdf46"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Cs01.png.meta": {
+      "time": 1722998144563.6353
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Cs01.png": {
+      "time": 1722998144459.6343,
+      "uuid": "8f94c354-436e-47d5-81fd-8ae5ce755da0"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/EmptyChecklist_box.png.meta": {
+      "time": 1722998144565.529
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/EmptyChecklist_box.png": {
+      "time": 1722998144458.824,
+      "uuid": "5113c992-e2a9-4ce0-80a7-2419859df5d1"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Facebook_btn.png.meta": {
+      "time": 1722998144566.0789
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Facebook_btn.png": {
+      "time": 1722998144458.4966,
+      "uuid": "8fd8393b-ca2b-48f0-b88a-d5094d5b29be"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Gold01.png.meta": {
+      "time": 1722998144570.032
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Gold01.png": {
+      "time": 1722998144457.7231,
+      "uuid": "43457cb2-8671-43ba-b072-4daac7cb10ba"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Gold02.png.meta": {
+      "time": 1722998144580.7454
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Gold02.png": {
+      "time": 1722998144457.3494,
+      "uuid": "c0e815cb-31bf-4809-bd0d-e5ba40beba4f"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Gold03.png.meta": {
+      "time": 1722998144578.1387
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Gold03.png": {
+      "time": 1722998144456.997,
+      "uuid": "0b2d2a25-f78d-4a69-b2fb-aa41ed83a018"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/GoldBar.png.meta": {
+      "time": 1722998144579.438
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/GoldBar.png": {
+      "time": 1722998144456.4282,
+      "uuid": "0ff0ad5a-cd13-4f19-9410-f81d19534486"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/GooglePlayBtn.png.meta": {
+      "time": 1722998144579.151
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/GooglePlayBtn.png": {
+      "time": 1722998144455.8716,
+      "uuid": "878a5f03-097c-4c8a-a548-189532e2cb1a"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Green_Bar.png.meta": {
+      "time": 1722998144584.6196
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Green_Bar.png": {
+      "time": 1722998144455.229,
+      "uuid": "549d76ae-3b01-4e8d-a5f2-9776cee42ffd"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Green_Btn1.png.meta": {
+      "time": 1722998144593.9731
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Green_Btn1.png": {
+      "time": 1722998144453.7773,
+      "uuid": "c10d108e-23d5-4ef0-b7d3-4be8db816737"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Green_Bar_Bg.png.meta": {
+      "time": 1722998144589.1643
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Green_Bar_Bg.png": {
+      "time": 1722998144454.3364,
+      "uuid": "26daa52c-5f07-47f4-a98f-b040027eb8b4"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Green_Btn2.png.meta": {
+      "time": 1722998144592.2876
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Green_Btn2.png": {
+      "time": 1722998144453.4517,
+      "uuid": "08260502-7507-42a2-82a4-a2635acf2b1d"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Heroes_Level_bar01.png.meta": {
+      "time": 1722998144593.0996
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Heroes_Level_bar01.png": {
+      "time": 1722998144453.1782,
+      "uuid": "3287fbd3-9d78-4841-9e27-c33def330151"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Heroes_Level_bar02.png.meta": {
+      "time": 1722998144595.6116
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Heroes_Level_bar02.png": {
+      "time": 1722998144452.623,
+      "uuid": "d653015d-22ee-48f2-88ef-c422220f4886"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Heroes_empty_images.png.meta": {
+      "time": 1722998144599.991
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Heroes_empty_images.png": {
+      "time": 1722998144452.2703,
+      "uuid": "c97352f1-4f6d-4036-89c4-a9c2b22d2ce9"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Heroes_icon.png.meta": {
+      "time": 1722998144601.0527
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Heroes_icon.png": {
+      "time": 1722998144451.9277,
+      "uuid": "5b0411a7-8582-42df-a4f0-e93921cd0859"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/LvlMap0Star.png.meta": {
+      "time": 1722998144608.6816
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/LvlMap0Star.png": {
+      "time": 1722998144443.9106,
+      "uuid": "4f56c5ee-0495-423c-ab30-0207575b72f2"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/LvlMap1Star.png.meta": {
+      "time": 1722998144609.8457
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/LvlMap1Star.png": {
+      "time": 1722998144443.5366,
+      "uuid": "4bbf5319-b0d0-4375-8dfb-8bdfb3d4ffe8"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/LvlMap2Star.png.meta": {
+      "time": 1722998144640.9414
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/LvlMap2Star.png": {
+      "time": 1722998144442.988,
+      "uuid": "a3ef27af-9f50-44d7-a223-814ae0d99a93"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/LvlMap3Star.png.meta": {
+      "time": 1722998144644.3306
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/LvlMap3Star.png": {
+      "time": 1722998144442.6538,
+      "uuid": "d49f19fe-ed8c-4ace-b5c2-bce0450331dd"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/LvlMap01.png.meta": {
+      "time": 1722998144665.062
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/LvlMap01.png": {
+      "time": 1722998144451.421,
+      "uuid": "6bc5daaa-6a3f-4ace-893f-7912a8e88946"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/LvlMapAvailable.png.meta": {
+      "time": 1722998144650.3013
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/LvlMapAvailable.png": {
+      "time": 1722998144442.3738,
+      "uuid": "b7d021a2-3656-4242-9262-caf0f601310f"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/LvlMap02.png.meta": {
+      "time": 1722998144664.0754
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/LvlMap02.png": {
+      "time": 1722998144449.585,
+      "uuid": "700d12ff-0789-4328-b618-42abdbcb3710"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/LvlMap03.png.meta": {
+      "time": 1722998144627.2927
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/LvlMap03.png": {
+      "time": 1722998144446.01,
+      "uuid": "91739b6e-5024-4f84-b4e5-379444541728"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/LvlMapLock.png.meta": {
+      "time": 1722998144670.7341
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/LvlMapLock.png": {
+      "time": 1722998144442.0452,
+      "uuid": "bb9fef1a-b096-45a4-912e-8ca8f91f2533"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Map_icon.png.meta": {
+      "time": 1722998144676.0732
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Map_icon.png": {
+      "time": 1722998144441.7825,
+      "uuid": "d934255c-feb4-4b46-bebf-72eee4a61bc9"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Option_icon.png.meta": {
+      "time": 1722998144679.505
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Option_icon.png": {
+      "time": 1722998144441.1594,
+      "uuid": "331f7ccc-eb14-463c-901a-77504d058ba9"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Options_box.png.meta": {
+      "time": 1722998144694.9153
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Options_box.png": {
+      "time": 1722998144440.6072,
+      "uuid": "2fa073de-cc27-4adb-bf6a-baed4bb82411"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Orange_btn.png.meta": {
+      "time": 1722998144692.4636
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Orange_btn.png": {
+      "time": 1722998144440.04,
+      "uuid": "f30b0bc8-0dde-41b2-afa5-1e2d6ac6f7f0"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Orange_btn2.png.meta": {
+      "time": 1722998144695.3687
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Orange_btn2.png": {
+      "time": 1722998144439.6565,
+      "uuid": "7b6cdbfb-73cf-4f4e-bbb1-32e3a38cd53c"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Party_box.png.meta": {
+      "time": 1722998144698.5305
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Party_box.png": {
+      "time": 1722998144439.0933,
+      "uuid": "f275a25f-a6a8-4b49-8c88-8f58c77e415d"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Scroll_bar01.png.meta": {
+      "time": 1722998144706.1113
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Scroll_bar01.png": {
+      "time": 1722998144435.5244,
+      "uuid": "b7a9fe29-b8cd-4e03-a209-84da14a5699f"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Red_Bar_Bg.png.meta": {
+      "time": 1722998144707.1367
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Red_Bar_Bg.png": {
+      "time": 1722998144438.2317,
+      "uuid": "9c33f5f4-d522-40de-ae66-30e2dca7e6fb"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Scroll_bar02.png.meta": {
+      "time": 1722998144703.8772
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Scroll_bar02.png": {
+      "time": 1722998144434.9927,
+      "uuid": "5b6141ea-5c4c-40c7-ab98-cde75d8d1d52"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Red_Bar.png.meta": {
+      "time": 1722998144699.6462
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Red_Bar.png": {
+      "time": 1722998144438.6335,
+      "uuid": "7300b404-7c68-4855-b7a6-9b5e54a18c66"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Shop_icon.png.meta": {
+      "time": 1722998144708.2786
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Shop_icon.png": {
+      "time": 1722998144433.9893,
+      "uuid": "9bbabead-3dd3-4c5c-adfc-8194cfccfc96"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Text_Status_box.png.meta": {
+      "time": 1722998144717.2803
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Text_Status_box.png": {
+      "time": 1722998144430.7437,
+      "uuid": "480af05a-3b3a-459c-a0c0-6a6426a31c9c"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Special_Deal_box_empty.png.meta": {
+      "time": 1722998144719.5195
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Special_Deal_box_empty.png": {
+      "time": 1722998144431.1152,
+      "uuid": "1df7bee8-e0d5-463b-ae47-c23c235204f0"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Shopping_Box.png.meta": {
+      "time": 1722998144707.386
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Shopping_Box.png": {
+      "time": 1722998144433.578,
+      "uuid": "c139e659-96e6-441f-bc8a-778a8f500403"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Special_Deal_box.png.meta": {
+      "time": 1722998144728.9014
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Special_Deal_box.png": {
+      "time": 1722998144433.1047,
+      "uuid": "c4390066-c4d1-4aa6-8603-fdf18d0b0e6f"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/VideoAds_icon.png.meta": {
+      "time": 1722998144718.6917
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/VideoAds_icon.png": {
+      "time": 1722998144430.25,
+      "uuid": "8e12a40f-e107-4ba1-b5f0-2e289efabe6d"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Upgrade_popUp_box.png.meta": {
+      "time": 1722998144722.691
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Upgrade_popUp_box.png": {
+      "time": 1722998144430.49,
+      "uuid": "a6c8c807-44e5-4929-b8da-9eb0c7bd5ed3"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Vs.png.meta": {
+      "time": 1722998144728.4695
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Vs.png": {
+      "time": 1722998144429.9084,
+      "uuid": "782e379d-8e1b-4e17-9bfb-6da011dd0034"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/ui_prefabs.meta": {
+      "time": 1722998230716.7837
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/ui_prefabs": {
+      "time": 1723001619962.6917,
+      "uuid": "4f31c8b0-0635-4805-a708-2ef9a7ba69c8"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/ui_prefabs/MenuButton.prefab.meta": {
+      "time": 1722998350937.3518
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/ui_prefabs/MenuButton.prefab": {
+      "time": 1723000945752.3708,
+      "uuid": "69cf2b25-a500-4208-afa1-0ac8ae08ccb8"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/Fonts.meta": {
+      "time": 1722999810881.9963
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/Fonts": {
+      "time": 1722999938916.844,
+      "uuid": "aea89a43-c0e1-4a53-ae69-0d51022c931d"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/Fonts/GROBOLD.ttf.meta": {
+      "time": 1722999827168.212
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/Fonts/GROBOLD.ttf": {
+      "time": 1722999827163.206,
+      "uuid": "e5ec2dce-9d17-4465-b82a-91af2f43a92c"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/Fonts/PassionOne-Black.ttf.meta": {
+      "time": 1722999860791.9763
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/Fonts/PassionOne-Black.ttf": {
+      "time": 1722999860787.7156,
+      "uuid": "6cf8358a-349b-4d77-8d81-99d0618fa6e0"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/Fonts/PassionOne-Bold.ttf.meta": {
+      "time": 1722999860795.455
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/Fonts/PassionOne-Bold.ttf": {
+      "time": 1722999860787.9207,
+      "uuid": "88cea8e5-ceca-49e1-a92c-d0687d109915"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/Fonts/PassionOne-Regular.ttf.meta": {
+      "time": 1722999860798.0325
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/Fonts/PassionOne-Regular.ttf": {
+      "time": 1722999860789.5981,
+      "uuid": "952973c2-0589-4054-a0f2-8d2532368a8c"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/Fonts/Pocket-Monk.ttf.meta": {
+      "time": 1722999933064.953
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/Fonts/Pocket-Monk.ttf": {
+      "time": 1722999933059.1948,
+      "uuid": "f55bc2fb-2952-4348-8828-c75e98f01a59"
     },
     "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/Scripts/customComponents.meta": {
-      "time": 1723045092702.0215
+      "time": 1723001540989.1826
     },
     "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/Scripts/customComponents": {
       "time": 1723001633942.5894,
       "uuid": "6d105ae5-de65-4b6d-9446-6dd6a9d77c4c"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/ui_prefabs/components.meta": {
+      "time": 1723001612516.3027
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/ui_prefabs/components": {
+      "time": 1723001631302.5164,
+      "uuid": "e8c27b53-846e-4e1a-9f9e-95aedd993d39"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/ui_prefabs/components/ImageSwitcher.meta": {
+      "time": 1723001631303.1746
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/ui_prefabs/components/ImageSwitcher": {
+      "time": 1723001649972.7217,
+      "uuid": "ac2ac9b2-c3a0-4f5f-818f-f376ae5f6ab4"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/ui_prefabs/components/ImageSwitcher/ImageSwitcher.ts.meta": {
+      "time": 1723001552852.8867
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/ui_prefabs/components/ImageSwitcher/ImageSwitcher.ts": {
+      "time": 1723003330783.8833,
+      "uuid": "a82d9cef-da18-4549-b42c-8b84510fb18c"
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/ui_prefabs/components/ImageSwitcher/ImageSwitcher.prefab.meta": {
+      "time": 1723001649974.7766
+    },
+    "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/ui_prefabs/components/ImageSwitcher/ImageSwitcher.prefab": {
+      "time": 1723001682573.67,
+      "uuid": "c28d6993-6612-46fd-b56b-d37157b3046c"
     }
   },
   "missing": {
     "54d1f9e3-8212-4bd0-8f2b-c71890d84453": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/scenes/LoadingScene.scene",
-      "time": 1723042652362.9749,
-      "removeTime": 1723045092613
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/NewProject/assets/scenes/Loading.scene",
+      "time": 1722994352629.3208,
+      "removeTime": 1722994466505
     },
     "b31e9165-ac58-4bf8-a353-af2180cb1dbe": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/scenes/MainMenuScene.scene",
-      "time": 1723042761080.725,
-      "removeTime": 1723045092613
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/NewProject/assets/scenes/Main.scene",
+      "time": 1722994421982.6074,
+      "removeTime": 1722994458770
     },
     "6eee9438-993f-40ed-9527-5c8877905d3e": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/scenes/GameScene.scene",
-      "time": 1723002660437.9307,
-      "removeTime": 1723045092613
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/NewProject/assets/scenes/Game.scene",
+      "time": 1722994405524.4185,
+      "removeTime": 1722994473314
     },
     "6d83f52c-2473-4b4b-9d63-f688d14dc9bd": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/scenes/SplashScreenScene.scene",
-      "time": 1723042673065.9458,
-      "removeTime": 1723045092613
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/NewProject/assets/scenes/Splash.scene",
+      "time": 1722994380820.5059,
+      "removeTime": 1722994481438
     },
     "8d52a9f1-f50b-401e-8f75-134da717401f": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/Scripts/scenes/SplashScene.ts",
-      "time": 1722995308439.8037,
-      "removeTime": 1723045092613
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/NewProject/assets/Scripts/scenes/Scene.ts",
+      "time": 1722995281182.6196,
+      "removeTime": 1722995295553
     },
     "7924076f-54a7-4045-9fa0-53988178828a": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/Scripts/scenes/MainMenuScene.ts",
-      "time": 1722996214051.5234,
-      "removeTime": 1723045092613
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/NewProject/assets/Scripts/scenes/SplashScene-001.ts",
+      "time": 1722995312550.2917,
+      "removeTime": 1722995322557
     },
     "95bda204-fdf7-4b3d-924d-3dcd5b3384e8": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/Scripts/scenes/GameScene.ts",
-      "time": 1722995366776.8835,
-      "removeTime": 1723045092613
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/NewProject/assets/Scripts/scenes/SplashScene-001.ts",
+      "time": 1722995342612.1865,
+      "removeTime": 1722995350509
     },
     "07209447-b2a0-445e-9f94-3d5b97e73053": {
       "path": "/Users/artemfedorov/Documents/dev/rpg-mini/NewProject/assets/Scripts/scenes/NewProject.code-workspace",
@@ -140,304 +714,304 @@
       "removeTime": 1722996962609
     },
     "95981a41-3820-4e9c-b306-35df21c0e43f": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/MainMenu",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/Splash/MainMenu",
       "time": 1722997066675.3176,
-      "removeTime": 1723045092614
+      "removeTime": 1722998148175
     },
     "44714fb1-6ee1-4313-986f-c8814c133436": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/MainMenu/LvlMap01.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/Splash/MainMenu/LvlMap01.png",
       "time": 1722997066674.612,
-      "removeTime": 1723045092614
+      "removeTime": 1722998148176
     },
     "dd2249f5-8ebf-4c64-a59a-4c63f4762663": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces",
       "time": 1722998144503.7146,
-      "removeTime": 1723045092614
+      "removeTime": 1722998160796
     },
     "c727af82-2109-41fd-9599-f68f79b8848b": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Arena_icon.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Arena_icon.png",
       "time": 1722998144468.9788,
-      "removeTime": 1723045092614
+      "removeTime": 1722998160796
     },
     "ef82227f-748c-4e32-b8cc-58b50bfbf8e1": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Background-Screen-01.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Background-Screen-01.png",
       "time": 1722998144468.4565,
-      "removeTime": 1723045092614
+      "removeTime": 1722998160797
     },
     "2761ccd6-6810-48a5-bacf-2aee00c32e38": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Background-Screen-02.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Background-Screen-02.png",
       "time": 1722998144468.0876,
-      "removeTime": 1723045092614
+      "removeTime": 1722998160797
     },
     "500f1e73-15f4-4b9f-a523-92b75d6c961d": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Background-Screen-03.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Background-Screen-03.png",
       "time": 1722998144467.6204,
-      "removeTime": 1723045092614
+      "removeTime": 1722998160797
     },
     "cdb8fc78-ef6e-49f3-ac4d-548051d47b5a": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Barrack_box.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Barrack_box.png",
       "time": 1722998144467.2422,
-      "removeTime": 1723045092614
+      "removeTime": 1722998160797
     },
     "1a5e4688-3d42-4fde-8340-b4e0b495153a": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Btn_orange_active.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Btn_orange_active.png",
       "time": 1722998144466.9307,
-      "removeTime": 1723045092614
+      "removeTime": 1722998160798
     },
     "e1b191bf-2371-4e32-b6be-40ecc6770248": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Btn_orange_inactive.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Btn_orange_inactive.png",
       "time": 1722998144466.5771,
-      "removeTime": 1723045092614
+      "removeTime": 1722998160798
     },
     "23e3d618-1fc0-4829-94ac-7723ce6eec95": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/CheckList.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/CheckList.png",
       "time": 1722998144460.5923,
-      "removeTime": 1723045092614
+      "removeTime": 1722998160798
     },
     "f116e448-4a8c-4ced-bf40-4a5ff686a335": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Close_btn.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Close_btn.png",
       "time": 1722998144460.3044,
-      "removeTime": 1723045092614
+      "removeTime": 1722998160798
     },
     "aeefed1e-f20a-4523-a4ef-888d755aa550": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/CoinPack_box.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/CoinPack_box.png",
       "time": 1722998144459.954,
-      "removeTime": 1723045092614
+      "removeTime": 1722998160798
     },
     "8f94c354-436e-47d5-81fd-8ae5ce755da0": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Cs01.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Cs01.png",
       "time": 1722998144459.6343,
-      "removeTime": 1723045092614
+      "removeTime": 1722998160799
     },
     "bac11375-44c2-4f09-9678-9692916fdf46": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Cs02.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Cs02.png",
       "time": 1722998144459.1643,
-      "removeTime": 1723045092614
+      "removeTime": 1722998160799
     },
     "5113c992-e2a9-4ce0-80a7-2419859df5d1": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/EmptyChecklist_box.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/EmptyChecklist_box.png",
       "time": 1722998144458.824,
-      "removeTime": 1723045092614
+      "removeTime": 1722998160800
     },
     "8fd8393b-ca2b-48f0-b88a-d5094d5b29be": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Facebook_btn.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Facebook_btn.png",
       "time": 1722998144458.4966,
-      "removeTime": 1723045092614
+      "removeTime": 1722998160800
     },
     "43457cb2-8671-43ba-b072-4daac7cb10ba": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Gold01.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Gold01.png",
       "time": 1722998144457.7231,
-      "removeTime": 1723045092614
+      "removeTime": 1722998160800
     },
     "c0e815cb-31bf-4809-bd0d-e5ba40beba4f": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Gold02.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Gold02.png",
       "time": 1722998144457.3494,
-      "removeTime": 1723045092614
+      "removeTime": 1722998160800
     },
     "0b2d2a25-f78d-4a69-b2fb-aa41ed83a018": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Gold03.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Gold03.png",
       "time": 1722998144456.997,
-      "removeTime": 1723045092614
+      "removeTime": 1722998160800
     },
     "0ff0ad5a-cd13-4f19-9410-f81d19534486": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/GoldBar.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/GoldBar.png",
       "time": 1722998144456.4282,
-      "removeTime": 1723045092614
+      "removeTime": 1722998160800
     },
     "878a5f03-097c-4c8a-a548-189532e2cb1a": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/GooglePlayBtn.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/GooglePlayBtn.png",
       "time": 1722998144455.8716,
-      "removeTime": 1723045092614
+      "removeTime": 1722998160801
     },
     "549d76ae-3b01-4e8d-a5f2-9776cee42ffd": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Green_Bar.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Green_Bar.png",
       "time": 1722998144455.229,
-      "removeTime": 1723045092614
+      "removeTime": 1722998160801
     },
     "26daa52c-5f07-47f4-a98f-b040027eb8b4": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Green_Bar_Bg.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Green_Bar_Bg.png",
       "time": 1722998144454.3364,
-      "removeTime": 1723045092614
+      "removeTime": 1722998160801
     },
     "c10d108e-23d5-4ef0-b7d3-4be8db816737": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Green_Btn1.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Green_Btn1.png",
       "time": 1722998144453.7773,
-      "removeTime": 1723045092614
+      "removeTime": 1722998160801
     },
     "08260502-7507-42a2-82a4-a2635acf2b1d": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Green_Btn2.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Green_Btn2.png",
       "time": 1722998144453.4517,
-      "removeTime": 1723045092614
+      "removeTime": 1722998160802
     },
     "3287fbd3-9d78-4841-9e27-c33def330151": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Heroes_Level_bar01.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Heroes_Level_bar01.png",
       "time": 1722998144453.1782,
-      "removeTime": 1723045092614
+      "removeTime": 1722998160802
     },
     "d653015d-22ee-48f2-88ef-c422220f4886": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Heroes_Level_bar02.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Heroes_Level_bar02.png",
       "time": 1722998144452.623,
-      "removeTime": 1723045092614
+      "removeTime": 1722998160802
     },
     "c97352f1-4f6d-4036-89c4-a9c2b22d2ce9": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Heroes_empty_images.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Heroes_empty_images.png",
       "time": 1722998144452.2703,
-      "removeTime": 1723045092614
+      "removeTime": 1722998160803
     },
     "5b0411a7-8582-42df-a4f0-e93921cd0859": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Heroes_icon.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Heroes_icon.png",
       "time": 1722998144451.9277,
-      "removeTime": 1723045092614
+      "removeTime": 1722998160803
     },
     "6bc5daaa-6a3f-4ace-893f-7912a8e88946": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/LvlMap01.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/LvlMap01.png",
       "time": 1722998144451.421,
-      "removeTime": 1723045092614
+      "removeTime": 1722998160803
     },
     "700d12ff-0789-4328-b618-42abdbcb3710": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/LvlMap02.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/LvlMap02.png",
       "time": 1722998144449.585,
-      "removeTime": 1723045092614
+      "removeTime": 1722998160803
     },
     "91739b6e-5024-4f84-b4e5-379444541728": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/LvlMap03.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/LvlMap03.png",
       "time": 1722998144446.01,
-      "removeTime": 1723045092614
+      "removeTime": 1722998160803
     },
     "4f56c5ee-0495-423c-ab30-0207575b72f2": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/LvlMap0Star.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/LvlMap0Star.png",
       "time": 1722998144443.9106,
-      "removeTime": 1723045092614
+      "removeTime": 1722998160803
     },
     "4bbf5319-b0d0-4375-8dfb-8bdfb3d4ffe8": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/LvlMap1Star.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/LvlMap1Star.png",
       "time": 1722998144443.5366,
-      "removeTime": 1723045092615
+      "removeTime": 1722998160804
     },
     "a3ef27af-9f50-44d7-a223-814ae0d99a93": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/LvlMap2Star.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/LvlMap2Star.png",
       "time": 1722998144442.988,
-      "removeTime": 1723045092615
+      "removeTime": 1722998160804
     },
     "d49f19fe-ed8c-4ace-b5c2-bce0450331dd": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/LvlMap3Star.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/LvlMap3Star.png",
       "time": 1722998144442.6538,
-      "removeTime": 1723045092615
+      "removeTime": 1722998160804
     },
     "b7d021a2-3656-4242-9262-caf0f601310f": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/LvlMapAvailable.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/LvlMapAvailable.png",
       "time": 1722998144442.3738,
-      "removeTime": 1723045092615
+      "removeTime": 1722998160804
     },
     "bb9fef1a-b096-45a4-912e-8ca8f91f2533": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/LvlMapLock.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/LvlMapLock.png",
       "time": 1722998144442.0452,
-      "removeTime": 1723045092615
+      "removeTime": 1722998160804
     },
     "d934255c-feb4-4b46-bebf-72eee4a61bc9": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Map_icon.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Map_icon.png",
       "time": 1722998144441.7825,
-      "removeTime": 1723045092615
+      "removeTime": 1722998160805
     },
     "331f7ccc-eb14-463c-901a-77504d058ba9": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Option_icon.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Option_icon.png",
       "time": 1722998144441.1594,
-      "removeTime": 1723045092615
+      "removeTime": 1722998160805
     },
     "2fa073de-cc27-4adb-bf6a-baed4bb82411": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Options_box.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Options_box.png",
       "time": 1722998144440.6072,
-      "removeTime": 1723045092615
+      "removeTime": 1722998160805
     },
     "f30b0bc8-0dde-41b2-afa5-1e2d6ac6f7f0": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Orange_btn.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Orange_btn.png",
       "time": 1722998144440.04,
-      "removeTime": 1723045092615
+      "removeTime": 1722998160806
     },
     "7b6cdbfb-73cf-4f4e-bbb1-32e3a38cd53c": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Orange_btn2.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Orange_btn2.png",
       "time": 1722998144439.6565,
-      "removeTime": 1723045092615
+      "removeTime": 1722998160806
     },
     "f275a25f-a6a8-4b49-8c88-8f58c77e415d": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Party_box.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Party_box.png",
       "time": 1722998144439.0933,
-      "removeTime": 1723045092615
+      "removeTime": 1722998160806
     },
     "7300b404-7c68-4855-b7a6-9b5e54a18c66": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Red_Bar.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Red_Bar.png",
       "time": 1722998144438.6335,
-      "removeTime": 1723045092615
+      "removeTime": 1722998160806
     },
     "9c33f5f4-d522-40de-ae66-30e2dca7e6fb": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Red_Bar_Bg.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Red_Bar_Bg.png",
       "time": 1722998144438.2317,
-      "removeTime": 1723045092615
+      "removeTime": 1722998160807
     },
     "b7a9fe29-b8cd-4e03-a209-84da14a5699f": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Scroll_bar01.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Scroll_bar01.png",
       "time": 1722998144435.5244,
-      "removeTime": 1723045092615
+      "removeTime": 1722998160807
     },
     "5b6141ea-5c4c-40c7-ab98-cde75d8d1d52": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Scroll_bar02.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Scroll_bar02.png",
       "time": 1722998144434.9927,
-      "removeTime": 1723045092615
+      "removeTime": 1722998160807
     },
     "9bbabead-3dd3-4c5c-adfc-8194cfccfc96": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Shop_icon.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Shop_icon.png",
       "time": 1722998144433.9893,
-      "removeTime": 1723045092615
+      "removeTime": 1722998160807
     },
     "c139e659-96e6-441f-bc8a-778a8f500403": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Shopping_Box.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Shopping_Box.png",
       "time": 1722998144433.578,
-      "removeTime": 1723045092615
+      "removeTime": 1722998160807
     },
     "c4390066-c4d1-4aa6-8603-fdf18d0b0e6f": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Special_Deal_box.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Special_Deal_box.png",
       "time": 1722998144433.1047,
-      "removeTime": 1723045092615
+      "removeTime": 1722998160807
     },
     "1df7bee8-e0d5-463b-ae47-c23c235204f0": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Special_Deal_box_empty.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Special_Deal_box_empty.png",
       "time": 1722998144431.1152,
-      "removeTime": 1723045092615
+      "removeTime": 1722998160808
     },
     "480af05a-3b3a-459c-a0c0-6a6426a31c9c": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Text_Status_box.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Text_Status_box.png",
       "time": 1722998144430.7437,
-      "removeTime": 1723045092615
+      "removeTime": 1722998160808
     },
     "a6c8c807-44e5-4929-b8da-9eb0c7bd5ed3": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Upgrade_popUp_box.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Upgrade_popUp_box.png",
       "time": 1722998144430.49,
-      "removeTime": 1723045092615
+      "removeTime": 1722998160808
     },
     "8e12a40f-e107-4ba1-b5f0-2e289efabe6d": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/VideoAds_icon.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/VideoAds_icon.png",
       "time": 1722998144430.25,
-      "removeTime": 1723045092615
+      "removeTime": 1722998160808
     },
     "782e379d-8e1b-4e17-9bfb-6da011dd0034": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/UserInterfaces/Vs.png",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/User interfaces/Vs.png",
       "time": 1722998144429.9084,
-      "removeTime": 1723045092615
+      "removeTime": 1722998160808
     },
     "6cf8358a-349b-4d77-8d81-99d0618fa6e0": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/Fonts/PassionOne-Black.ttf",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/PassionOne-Black.ttf",
       "time": 1722999860787.7156,
-      "removeTime": 1723045092615
+      "removeTime": 1722999865645
     },
     "88cea8e5-ceca-49e1-a92c-d0687d109915": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/Fonts/PassionOne-Bold.ttf",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/PassionOne-Bold.ttf",
       "time": 1722999860787.9207,
-      "removeTime": 1723045092615
+      "removeTime": 1722999865645
     },
     "952973c2-0589-4054-a0f2-8d2532368a8c": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/Fonts/PassionOne-Regular.ttf",
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/PassionOne-Regular.ttf",
       "time": 1722999860789.5981,
-      "removeTime": 1723045092615
+      "removeTime": 1722999865645
     },
     "fed9fccf-beec-40a4-a9ee-22f39577113a": {
       "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/Fonts/Pocket Monk.otf",
@@ -450,79 +1024,14 @@
       "removeTime": 1723001083869
     },
     "e8c27b53-846e-4e1a-9f9e-95aedd993d39": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/ui_prefabs/components",
-      "time": 1723001631302.5164,
-      "removeTime": 1723045092615
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/components",
+      "time": 1723001612513.6677,
+      "removeTime": 1723001619963
     },
     "a82d9cef-da18-4549-b42c-8b84510fb18c": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/ui_prefabs/components/ImageSwitcher/ImageSwitcher.ts",
-      "time": 1723003330783.8833,
-      "removeTime": 1723045092615
-    },
-    "87b30fe0-b112-4669-9d0c-5595742ae2db": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/scenes",
-      "time": 1722996962608.094,
-      "removeTime": 1723045092613
-    },
-    "b66eb66d-2480-45f2-bc7f-6b9abf925dcc": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/Scripts/scenes",
-      "time": 1722995450983.9949,
-      "removeTime": 1723045092613
-    },
-    "a01f0b1c-156b-4ba0-8ff6-0c69e7ef7437": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/Scripts/scenes/LoadingScene.ts",
-      "time": 1722996091016.0288,
-      "removeTime": 1723045092613
-    },
-    "8064fa4e-56db-405e-af78-9790c14e3e3b": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art",
-      "time": 1722999865644.7297,
-      "removeTime": 1723045092614
-    },
-    "87fb3f97-04b2-4c13-860c-cac58e853b05": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/Splash",
-      "time": 1722998148174.5164,
-      "removeTime": 1723045092614
-    },
-    "7b399d64-44f9-48ef-b84f-4c08d6538ba7": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/Splash/SplashScreen.png",
-      "time": 1722996675893.6057,
-      "removeTime": 1723045092614
-    },
-    "4f31c8b0-0635-4805-a708-2ef9a7ba69c8": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/ui_prefabs",
-      "time": 1723001619962.6917,
-      "removeTime": 1723045092615
-    },
-    "69cf2b25-a500-4208-afa1-0ac8ae08ccb8": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/ui_prefabs/MenuButton.prefab",
-      "time": 1723000945752.3708,
-      "removeTime": 1723045092615
-    },
-    "aea89a43-c0e1-4a53-ae69-0d51022c931d": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/Fonts",
-      "time": 1722999938916.844,
-      "removeTime": 1723045092615
-    },
-    "e5ec2dce-9d17-4465-b82a-91af2f43a92c": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/Fonts/GROBOLD.ttf",
-      "time": 1722999827163.206,
-      "removeTime": 1723045092615
-    },
-    "f55bc2fb-2952-4348-8828-c75e98f01a59": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/art/Fonts/Pocket-Monk.ttf",
-      "time": 1722999933059.1948,
-      "removeTime": 1723045092615
-    },
-    "ac2ac9b2-c3a0-4f5f-818f-f376ae5f6ab4": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/ui_prefabs/components/ImageSwitcher",
-      "time": 1723001649972.7217,
-      "removeTime": 1723045092615
-    },
-    "c28d6993-6612-46fd-b56b-d37157b3046c": {
-      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/ui_prefabs/components/ImageSwitcher/ImageSwitcher.prefab",
-      "time": 1723001682573.67,
-      "removeTime": 1723045092615
+      "path": "/Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/Scripts/customComponents/ImageSwitcher.ts",
+      "time": 1723001572578.3225,
+      "removeTime": 1723001633943
     }
   }
 }

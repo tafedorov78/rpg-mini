@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Special_Deal_box_empty",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 375,
+      "height": 606
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 375,
+      "height": 606
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -187.5,
+        -303,
+        0,
+        187.5,
+        -303,
+        0,
+        -187.5,
+        303,
+        0,
+        187.5,
+        303,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        606,
+        375,
+        606,
+        0,
+        0,
+        375,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -187.5,
+        "y": -303,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 187.5,
+        "y": 303,
+        "z": 0
+      }
+    },
+    "texture": "1df7bee8-e0d5-463b-ae47-c23c235204f0@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}
