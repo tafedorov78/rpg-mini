@@ -1,0 +1,1450 @@
+{
+  "87b30fe0-b112-4669-9d0c-5595742ae2db": {
+    "url": "db://assets/scenes",
+    "value": {},
+    "versionCode": 0
+  },
+  "54d1f9e3-8212-4bd0-8f2b-c71890d84453": {
+    "url": "db://assets/scenes/LoadingScene.scene",
+    "value": {},
+    "versionCode": 0
+  },
+  "6d83f52c-2473-4b4b-9d63-f688d14dc9bd": {
+    "url": "db://assets/scenes/SplashScreenScene.scene",
+    "value": {},
+    "versionCode": 0
+  },
+  "6eee9438-993f-40ed-9527-5c8877905d3e": {
+    "url": "db://assets/scenes/GameScene.scene",
+    "value": {},
+    "versionCode": 0
+  },
+  "b31e9165-ac58-4bf8-a353-af2180cb1dbe": {
+    "url": "db://assets/scenes/MainMenuScene.scene",
+    "value": {},
+    "versionCode": 0
+  },
+  "de33f1e7-5b36-4b21-b1dc-94678ded94be": {
+    "url": "db://assets/Scripts",
+    "value": {},
+    "versionCode": 0
+  },
+  "b66eb66d-2480-45f2-bc7f-6b9abf925dcc": {
+    "url": "db://assets/Scripts/scenes",
+    "value": {},
+    "versionCode": 0
+  },
+  "a01f0b1c-156b-4ba0-8ff6-0c69e7ef7437": {
+    "url": "db://assets/Scripts/scenes/LoadingScene.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "8d52a9f1-f50b-401e-8f75-134da717401f": {
+    "url": "db://assets/Scripts/scenes/SplashScene.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "7924076f-54a7-4045-9fa0-53988178828a": {
+    "url": "db://assets/Scripts/scenes/MainMenuScene.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "95bda204-fdf7-4b3d-924d-3dcd5b3384e8": {
+    "url": "db://assets/Scripts/scenes/GameScene.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "07209447-b2a0-445e-9f94-3d5b97e73053": {
+    "url": "db://assets/Scripts/scenes/NewProject.code-workspace",
+    "value": {},
+    "versionCode": 0
+  },
+  "8064fa4e-56db-405e-af78-9790c14e3e3b": {
+    "url": "db://assets/art",
+    "value": {},
+    "versionCode": 0
+  },
+  "87fb3f97-04b2-4c13-860c-cac58e853b05": {
+    "url": "db://assets/art/Splash",
+    "value": {},
+    "versionCode": 0
+  },
+  "7b399d64-44f9-48ef-b84f-4c08d6538ba7": {
+    "url": "db://assets/art/Splash/SplashScreen.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "7b399d64-44f9-48ef-b84f-4c08d6538ba7@6c48a": {
+    "url": "db://assets/art/Splash/SplashScreen.png@6c48a",
+    "value": {
+      "depends": [
+        "7b399d64-44f9-48ef-b84f-4c08d6538ba7"
+      ]
+    },
+    "versionCode": 0
+  },
+  "7b399d64-44f9-48ef-b84f-4c08d6538ba7@f9941": {
+    "url": "db://assets/art/Splash/SplashScreen.png@f9941",
+    "value": {
+      "depends": [
+        "7b399d64-44f9-48ef-b84f-4c08d6538ba7@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "2accfea3-5f65-4b78-8e18-c21268cab833": {
+    "url": "db://assets/scenes/SplashScreenScene-001.scene",
+    "value": {},
+    "versionCode": 0
+  },
+  "95981a41-3820-4e9c-b306-35df21c0e43f": {
+    "url": "db://assets/art/MainMenu",
+    "value": {},
+    "versionCode": 0
+  },
+  "44714fb1-6ee1-4313-986f-c8814c133436": {
+    "url": "db://assets/art/MainMenu/LvlMap01.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "44714fb1-6ee1-4313-986f-c8814c133436@6c48a": {
+    "url": "db://assets/art/MainMenu/LvlMap01.png@6c48a",
+    "value": {
+      "depends": [
+        "44714fb1-6ee1-4313-986f-c8814c133436"
+      ]
+    },
+    "versionCode": 0
+  },
+  "44714fb1-6ee1-4313-986f-c8814c133436@f9941": {
+    "url": "db://assets/art/MainMenu/LvlMap01.png@f9941",
+    "value": {
+      "depends": [
+        "44714fb1-6ee1-4313-986f-c8814c133436@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "dd2249f5-8ebf-4c64-a59a-4c63f4762663": {
+    "url": "db://assets/art/UserInterfaces",
+    "value": {},
+    "versionCode": 0
+  },
+  "c727af82-2109-41fd-9599-f68f79b8848b": {
+    "url": "db://assets/art/UserInterfaces/Arena_icon.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "ef82227f-748c-4e32-b8cc-58b50bfbf8e1": {
+    "url": "db://assets/art/UserInterfaces/Background-Screen-01.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "2761ccd6-6810-48a5-bacf-2aee00c32e38": {
+    "url": "db://assets/art/UserInterfaces/Background-Screen-02.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "500f1e73-15f4-4b9f-a523-92b75d6c961d": {
+    "url": "db://assets/art/UserInterfaces/Background-Screen-03.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "cdb8fc78-ef6e-49f3-ac4d-548051d47b5a": {
+    "url": "db://assets/art/UserInterfaces/Barrack_box.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "500f1e73-15f4-4b9f-a523-92b75d6c961d@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Background-Screen-03.png@6c48a",
+    "value": {
+      "depends": [
+        "500f1e73-15f4-4b9f-a523-92b75d6c961d"
+      ]
+    },
+    "versionCode": 0
+  },
+  "2761ccd6-6810-48a5-bacf-2aee00c32e38@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Background-Screen-02.png@6c48a",
+    "value": {
+      "depends": [
+        "2761ccd6-6810-48a5-bacf-2aee00c32e38"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ef82227f-748c-4e32-b8cc-58b50bfbf8e1@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Background-Screen-01.png@6c48a",
+    "value": {
+      "depends": [
+        "ef82227f-748c-4e32-b8cc-58b50bfbf8e1"
+      ]
+    },
+    "versionCode": 0
+  },
+  "cdb8fc78-ef6e-49f3-ac4d-548051d47b5a@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Barrack_box.png@6c48a",
+    "value": {
+      "depends": [
+        "cdb8fc78-ef6e-49f3-ac4d-548051d47b5a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "cdb8fc78-ef6e-49f3-ac4d-548051d47b5a@f9941": {
+    "url": "db://assets/art/UserInterfaces/Barrack_box.png@f9941",
+    "value": {
+      "depends": [
+        "cdb8fc78-ef6e-49f3-ac4d-548051d47b5a@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "1a5e4688-3d42-4fde-8340-b4e0b495153a": {
+    "url": "db://assets/art/UserInterfaces/Btn_orange_active.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "c727af82-2109-41fd-9599-f68f79b8848b@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Arena_icon.png@6c48a",
+    "value": {
+      "depends": [
+        "c727af82-2109-41fd-9599-f68f79b8848b"
+      ]
+    },
+    "versionCode": 0
+  },
+  "500f1e73-15f4-4b9f-a523-92b75d6c961d@f9941": {
+    "url": "db://assets/art/UserInterfaces/Background-Screen-03.png@f9941",
+    "value": {
+      "depends": [
+        "500f1e73-15f4-4b9f-a523-92b75d6c961d@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "e1b191bf-2371-4e32-b6be-40ecc6770248": {
+    "url": "db://assets/art/UserInterfaces/Btn_orange_inactive.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "2761ccd6-6810-48a5-bacf-2aee00c32e38@f9941": {
+    "url": "db://assets/art/UserInterfaces/Background-Screen-02.png@f9941",
+    "value": {
+      "depends": [
+        "2761ccd6-6810-48a5-bacf-2aee00c32e38@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "23e3d618-1fc0-4829-94ac-7723ce6eec95": {
+    "url": "db://assets/art/UserInterfaces/CheckList.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "ef82227f-748c-4e32-b8cc-58b50bfbf8e1@f9941": {
+    "url": "db://assets/art/UserInterfaces/Background-Screen-01.png@f9941",
+    "value": {
+      "depends": [
+        "ef82227f-748c-4e32-b8cc-58b50bfbf8e1@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "f116e448-4a8c-4ced-bf40-4a5ff686a335": {
+    "url": "db://assets/art/UserInterfaces/Close_btn.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "c727af82-2109-41fd-9599-f68f79b8848b@f9941": {
+    "url": "db://assets/art/UserInterfaces/Arena_icon.png@f9941",
+    "value": {
+      "depends": [
+        "c727af82-2109-41fd-9599-f68f79b8848b@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "aeefed1e-f20a-4523-a4ef-888d755aa550": {
+    "url": "db://assets/art/UserInterfaces/CoinPack_box.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "1a5e4688-3d42-4fde-8340-b4e0b495153a@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Btn_orange_active.png@6c48a",
+    "value": {
+      "depends": [
+        "1a5e4688-3d42-4fde-8340-b4e0b495153a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "e1b191bf-2371-4e32-b6be-40ecc6770248@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Btn_orange_inactive.png@6c48a",
+    "value": {
+      "depends": [
+        "e1b191bf-2371-4e32-b6be-40ecc6770248"
+      ]
+    },
+    "versionCode": 0
+  },
+  "f116e448-4a8c-4ced-bf40-4a5ff686a335@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Close_btn.png@6c48a",
+    "value": {
+      "depends": [
+        "f116e448-4a8c-4ced-bf40-4a5ff686a335"
+      ]
+    },
+    "versionCode": 0
+  },
+  "1a5e4688-3d42-4fde-8340-b4e0b495153a@f9941": {
+    "url": "db://assets/art/UserInterfaces/Btn_orange_active.png@f9941",
+    "value": {
+      "depends": [
+        "1a5e4688-3d42-4fde-8340-b4e0b495153a@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "aeefed1e-f20a-4523-a4ef-888d755aa550@6c48a": {
+    "url": "db://assets/art/UserInterfaces/CoinPack_box.png@6c48a",
+    "value": {
+      "depends": [
+        "aeefed1e-f20a-4523-a4ef-888d755aa550"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8f94c354-436e-47d5-81fd-8ae5ce755da0": {
+    "url": "db://assets/art/UserInterfaces/Cs01.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "e1b191bf-2371-4e32-b6be-40ecc6770248@f9941": {
+    "url": "db://assets/art/UserInterfaces/Btn_orange_inactive.png@f9941",
+    "value": {
+      "depends": [
+        "e1b191bf-2371-4e32-b6be-40ecc6770248@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "23e3d618-1fc0-4829-94ac-7723ce6eec95@6c48a": {
+    "url": "db://assets/art/UserInterfaces/CheckList.png@6c48a",
+    "value": {
+      "depends": [
+        "23e3d618-1fc0-4829-94ac-7723ce6eec95"
+      ]
+    },
+    "versionCode": 0
+  },
+  "bac11375-44c2-4f09-9678-9692916fdf46": {
+    "url": "db://assets/art/UserInterfaces/Cs02.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "f116e448-4a8c-4ced-bf40-4a5ff686a335@f9941": {
+    "url": "db://assets/art/UserInterfaces/Close_btn.png@f9941",
+    "value": {
+      "depends": [
+        "f116e448-4a8c-4ced-bf40-4a5ff686a335@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "5113c992-e2a9-4ce0-80a7-2419859df5d1": {
+    "url": "db://assets/art/UserInterfaces/EmptyChecklist_box.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "aeefed1e-f20a-4523-a4ef-888d755aa550@f9941": {
+    "url": "db://assets/art/UserInterfaces/CoinPack_box.png@f9941",
+    "value": {
+      "depends": [
+        "aeefed1e-f20a-4523-a4ef-888d755aa550@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8fd8393b-ca2b-48f0-b88a-d5094d5b29be": {
+    "url": "db://assets/art/UserInterfaces/Facebook_btn.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "23e3d618-1fc0-4829-94ac-7723ce6eec95@f9941": {
+    "url": "db://assets/art/UserInterfaces/CheckList.png@f9941",
+    "value": {
+      "depends": [
+        "23e3d618-1fc0-4829-94ac-7723ce6eec95@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "43457cb2-8671-43ba-b072-4daac7cb10ba": {
+    "url": "db://assets/art/UserInterfaces/Gold01.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "8f94c354-436e-47d5-81fd-8ae5ce755da0@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Cs01.png@6c48a",
+    "value": {
+      "depends": [
+        "8f94c354-436e-47d5-81fd-8ae5ce755da0"
+      ]
+    },
+    "versionCode": 0
+  },
+  "bac11375-44c2-4f09-9678-9692916fdf46@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Cs02.png@6c48a",
+    "value": {
+      "depends": [
+        "bac11375-44c2-4f09-9678-9692916fdf46"
+      ]
+    },
+    "versionCode": 0
+  },
+  "5113c992-e2a9-4ce0-80a7-2419859df5d1@6c48a": {
+    "url": "db://assets/art/UserInterfaces/EmptyChecklist_box.png@6c48a",
+    "value": {
+      "depends": [
+        "5113c992-e2a9-4ce0-80a7-2419859df5d1"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8fd8393b-ca2b-48f0-b88a-d5094d5b29be@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Facebook_btn.png@6c48a",
+    "value": {
+      "depends": [
+        "8fd8393b-ca2b-48f0-b88a-d5094d5b29be"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8f94c354-436e-47d5-81fd-8ae5ce755da0@f9941": {
+    "url": "db://assets/art/UserInterfaces/Cs01.png@f9941",
+    "value": {
+      "depends": [
+        "8f94c354-436e-47d5-81fd-8ae5ce755da0@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "c0e815cb-31bf-4809-bd0d-e5ba40beba4f": {
+    "url": "db://assets/art/UserInterfaces/Gold02.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "bac11375-44c2-4f09-9678-9692916fdf46@f9941": {
+    "url": "db://assets/art/UserInterfaces/Cs02.png@f9941",
+    "value": {
+      "depends": [
+        "bac11375-44c2-4f09-9678-9692916fdf46@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "0b2d2a25-f78d-4a69-b2fb-aa41ed83a018": {
+    "url": "db://assets/art/UserInterfaces/Gold03.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "5113c992-e2a9-4ce0-80a7-2419859df5d1@f9941": {
+    "url": "db://assets/art/UserInterfaces/EmptyChecklist_box.png@f9941",
+    "value": {
+      "depends": [
+        "5113c992-e2a9-4ce0-80a7-2419859df5d1@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "0ff0ad5a-cd13-4f19-9410-f81d19534486": {
+    "url": "db://assets/art/UserInterfaces/GoldBar.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "8fd8393b-ca2b-48f0-b88a-d5094d5b29be@f9941": {
+    "url": "db://assets/art/UserInterfaces/Facebook_btn.png@f9941",
+    "value": {
+      "depends": [
+        "8fd8393b-ca2b-48f0-b88a-d5094d5b29be@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "878a5f03-097c-4c8a-a548-189532e2cb1a": {
+    "url": "db://assets/art/UserInterfaces/GooglePlayBtn.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "43457cb2-8671-43ba-b072-4daac7cb10ba@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Gold01.png@6c48a",
+    "value": {
+      "depends": [
+        "43457cb2-8671-43ba-b072-4daac7cb10ba"
+      ]
+    },
+    "versionCode": 0
+  },
+  "43457cb2-8671-43ba-b072-4daac7cb10ba@f9941": {
+    "url": "db://assets/art/UserInterfaces/Gold01.png@f9941",
+    "value": {
+      "depends": [
+        "43457cb2-8671-43ba-b072-4daac7cb10ba@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "549d76ae-3b01-4e8d-a5f2-9776cee42ffd": {
+    "url": "db://assets/art/UserInterfaces/Green_Bar.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "0b2d2a25-f78d-4a69-b2fb-aa41ed83a018@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Gold03.png@6c48a",
+    "value": {
+      "depends": [
+        "0b2d2a25-f78d-4a69-b2fb-aa41ed83a018"
+      ]
+    },
+    "versionCode": 0
+  },
+  "878a5f03-097c-4c8a-a548-189532e2cb1a@6c48a": {
+    "url": "db://assets/art/UserInterfaces/GooglePlayBtn.png@6c48a",
+    "value": {
+      "depends": [
+        "878a5f03-097c-4c8a-a548-189532e2cb1a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "0ff0ad5a-cd13-4f19-9410-f81d19534486@6c48a": {
+    "url": "db://assets/art/UserInterfaces/GoldBar.png@6c48a",
+    "value": {
+      "depends": [
+        "0ff0ad5a-cd13-4f19-9410-f81d19534486"
+      ]
+    },
+    "versionCode": 0
+  },
+  "c0e815cb-31bf-4809-bd0d-e5ba40beba4f@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Gold02.png@6c48a",
+    "value": {
+      "depends": [
+        "c0e815cb-31bf-4809-bd0d-e5ba40beba4f"
+      ]
+    },
+    "versionCode": 0
+  },
+  "0b2d2a25-f78d-4a69-b2fb-aa41ed83a018@f9941": {
+    "url": "db://assets/art/UserInterfaces/Gold03.png@f9941",
+    "value": {
+      "depends": [
+        "0b2d2a25-f78d-4a69-b2fb-aa41ed83a018@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "26daa52c-5f07-47f4-a98f-b040027eb8b4": {
+    "url": "db://assets/art/UserInterfaces/Green_Bar_Bg.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "878a5f03-097c-4c8a-a548-189532e2cb1a@f9941": {
+    "url": "db://assets/art/UserInterfaces/GooglePlayBtn.png@f9941",
+    "value": {
+      "depends": [
+        "878a5f03-097c-4c8a-a548-189532e2cb1a@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "0ff0ad5a-cd13-4f19-9410-f81d19534486@f9941": {
+    "url": "db://assets/art/UserInterfaces/GoldBar.png@f9941",
+    "value": {
+      "depends": [
+        "0ff0ad5a-cd13-4f19-9410-f81d19534486@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "c10d108e-23d5-4ef0-b7d3-4be8db816737": {
+    "url": "db://assets/art/UserInterfaces/Green_Btn1.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "08260502-7507-42a2-82a4-a2635acf2b1d": {
+    "url": "db://assets/art/UserInterfaces/Green_Btn2.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "549d76ae-3b01-4e8d-a5f2-9776cee42ffd@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Green_Bar.png@6c48a",
+    "value": {
+      "depends": [
+        "549d76ae-3b01-4e8d-a5f2-9776cee42ffd"
+      ]
+    },
+    "versionCode": 0
+  },
+  "c0e815cb-31bf-4809-bd0d-e5ba40beba4f@f9941": {
+    "url": "db://assets/art/UserInterfaces/Gold02.png@f9941",
+    "value": {
+      "depends": [
+        "c0e815cb-31bf-4809-bd0d-e5ba40beba4f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "3287fbd3-9d78-4841-9e27-c33def330151": {
+    "url": "db://assets/art/UserInterfaces/Heroes_Level_bar01.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "549d76ae-3b01-4e8d-a5f2-9776cee42ffd@f9941": {
+    "url": "db://assets/art/UserInterfaces/Green_Bar.png@f9941",
+    "value": {
+      "depends": [
+        "549d76ae-3b01-4e8d-a5f2-9776cee42ffd@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d653015d-22ee-48f2-88ef-c422220f4886": {
+    "url": "db://assets/art/UserInterfaces/Heroes_Level_bar02.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "26daa52c-5f07-47f4-a98f-b040027eb8b4@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Green_Bar_Bg.png@6c48a",
+    "value": {
+      "depends": [
+        "26daa52c-5f07-47f4-a98f-b040027eb8b4"
+      ]
+    },
+    "versionCode": 0
+  },
+  "08260502-7507-42a2-82a4-a2635acf2b1d@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Green_Btn2.png@6c48a",
+    "value": {
+      "depends": [
+        "08260502-7507-42a2-82a4-a2635acf2b1d"
+      ]
+    },
+    "versionCode": 0
+  },
+  "3287fbd3-9d78-4841-9e27-c33def330151@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Heroes_Level_bar01.png@6c48a",
+    "value": {
+      "depends": [
+        "3287fbd3-9d78-4841-9e27-c33def330151"
+      ]
+    },
+    "versionCode": 0
+  },
+  "26daa52c-5f07-47f4-a98f-b040027eb8b4@f9941": {
+    "url": "db://assets/art/UserInterfaces/Green_Bar_Bg.png@f9941",
+    "value": {
+      "depends": [
+        "26daa52c-5f07-47f4-a98f-b040027eb8b4@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "c97352f1-4f6d-4036-89c4-a9c2b22d2ce9": {
+    "url": "db://assets/art/UserInterfaces/Heroes_empty_images.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "c10d108e-23d5-4ef0-b7d3-4be8db816737@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Green_Btn1.png@6c48a",
+    "value": {
+      "depends": [
+        "c10d108e-23d5-4ef0-b7d3-4be8db816737"
+      ]
+    },
+    "versionCode": 0
+  },
+  "08260502-7507-42a2-82a4-a2635acf2b1d@f9941": {
+    "url": "db://assets/art/UserInterfaces/Green_Btn2.png@f9941",
+    "value": {
+      "depends": [
+        "08260502-7507-42a2-82a4-a2635acf2b1d@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "5b0411a7-8582-42df-a4f0-e93921cd0859": {
+    "url": "db://assets/art/UserInterfaces/Heroes_icon.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "3287fbd3-9d78-4841-9e27-c33def330151@f9941": {
+    "url": "db://assets/art/UserInterfaces/Heroes_Level_bar01.png@f9941",
+    "value": {
+      "depends": [
+        "3287fbd3-9d78-4841-9e27-c33def330151@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d653015d-22ee-48f2-88ef-c422220f4886@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Heroes_Level_bar02.png@6c48a",
+    "value": {
+      "depends": [
+        "d653015d-22ee-48f2-88ef-c422220f4886"
+      ]
+    },
+    "versionCode": 0
+  },
+  "6bc5daaa-6a3f-4ace-893f-7912a8e88946": {
+    "url": "db://assets/art/UserInterfaces/LvlMap01.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "c10d108e-23d5-4ef0-b7d3-4be8db816737@f9941": {
+    "url": "db://assets/art/UserInterfaces/Green_Btn1.png@f9941",
+    "value": {
+      "depends": [
+        "c10d108e-23d5-4ef0-b7d3-4be8db816737@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "700d12ff-0789-4328-b618-42abdbcb3710": {
+    "url": "db://assets/art/UserInterfaces/LvlMap02.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "d653015d-22ee-48f2-88ef-c422220f4886@f9941": {
+    "url": "db://assets/art/UserInterfaces/Heroes_Level_bar02.png@f9941",
+    "value": {
+      "depends": [
+        "d653015d-22ee-48f2-88ef-c422220f4886@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "91739b6e-5024-4f84-b4e5-379444541728": {
+    "url": "db://assets/art/UserInterfaces/LvlMap03.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "c97352f1-4f6d-4036-89c4-a9c2b22d2ce9@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Heroes_empty_images.png@6c48a",
+    "value": {
+      "depends": [
+        "c97352f1-4f6d-4036-89c4-a9c2b22d2ce9"
+      ]
+    },
+    "versionCode": 0
+  },
+  "5b0411a7-8582-42df-a4f0-e93921cd0859@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Heroes_icon.png@6c48a",
+    "value": {
+      "depends": [
+        "5b0411a7-8582-42df-a4f0-e93921cd0859"
+      ]
+    },
+    "versionCode": 0
+  },
+  "91739b6e-5024-4f84-b4e5-379444541728@6c48a": {
+    "url": "db://assets/art/UserInterfaces/LvlMap03.png@6c48a",
+    "value": {
+      "depends": [
+        "91739b6e-5024-4f84-b4e5-379444541728"
+      ]
+    },
+    "versionCode": 0
+  },
+  "c97352f1-4f6d-4036-89c4-a9c2b22d2ce9@f9941": {
+    "url": "db://assets/art/UserInterfaces/Heroes_empty_images.png@f9941",
+    "value": {
+      "depends": [
+        "c97352f1-4f6d-4036-89c4-a9c2b22d2ce9@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "4f56c5ee-0495-423c-ab30-0207575b72f2": {
+    "url": "db://assets/art/UserInterfaces/LvlMap0Star.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "5b0411a7-8582-42df-a4f0-e93921cd0859@f9941": {
+    "url": "db://assets/art/UserInterfaces/Heroes_icon.png@f9941",
+    "value": {
+      "depends": [
+        "5b0411a7-8582-42df-a4f0-e93921cd0859@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "4bbf5319-b0d0-4375-8dfb-8bdfb3d4ffe8": {
+    "url": "db://assets/art/UserInterfaces/LvlMap1Star.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "4f56c5ee-0495-423c-ab30-0207575b72f2@6c48a": {
+    "url": "db://assets/art/UserInterfaces/LvlMap0Star.png@6c48a",
+    "value": {
+      "depends": [
+        "4f56c5ee-0495-423c-ab30-0207575b72f2"
+      ]
+    },
+    "versionCode": 0
+  },
+  "4bbf5319-b0d0-4375-8dfb-8bdfb3d4ffe8@6c48a": {
+    "url": "db://assets/art/UserInterfaces/LvlMap1Star.png@6c48a",
+    "value": {
+      "depends": [
+        "4bbf5319-b0d0-4375-8dfb-8bdfb3d4ffe8"
+      ]
+    },
+    "versionCode": 0
+  },
+  "4f56c5ee-0495-423c-ab30-0207575b72f2@f9941": {
+    "url": "db://assets/art/UserInterfaces/LvlMap0Star.png@f9941",
+    "value": {
+      "depends": [
+        "4f56c5ee-0495-423c-ab30-0207575b72f2@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "a3ef27af-9f50-44d7-a223-814ae0d99a93": {
+    "url": "db://assets/art/UserInterfaces/LvlMap2Star.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "4bbf5319-b0d0-4375-8dfb-8bdfb3d4ffe8@f9941": {
+    "url": "db://assets/art/UserInterfaces/LvlMap1Star.png@f9941",
+    "value": {
+      "depends": [
+        "4bbf5319-b0d0-4375-8dfb-8bdfb3d4ffe8@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d49f19fe-ed8c-4ace-b5c2-bce0450331dd": {
+    "url": "db://assets/art/UserInterfaces/LvlMap3Star.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "91739b6e-5024-4f84-b4e5-379444541728@f9941": {
+    "url": "db://assets/art/UserInterfaces/LvlMap03.png@f9941",
+    "value": {
+      "depends": [
+        "91739b6e-5024-4f84-b4e5-379444541728@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "b7d021a2-3656-4242-9262-caf0f601310f": {
+    "url": "db://assets/art/UserInterfaces/LvlMapAvailable.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "6bc5daaa-6a3f-4ace-893f-7912a8e88946@6c48a": {
+    "url": "db://assets/art/UserInterfaces/LvlMap01.png@6c48a",
+    "value": {
+      "depends": [
+        "6bc5daaa-6a3f-4ace-893f-7912a8e88946"
+      ]
+    },
+    "versionCode": 0
+  },
+  "a3ef27af-9f50-44d7-a223-814ae0d99a93@6c48a": {
+    "url": "db://assets/art/UserInterfaces/LvlMap2Star.png@6c48a",
+    "value": {
+      "depends": [
+        "a3ef27af-9f50-44d7-a223-814ae0d99a93"
+      ]
+    },
+    "versionCode": 0
+  },
+  "700d12ff-0789-4328-b618-42abdbcb3710@6c48a": {
+    "url": "db://assets/art/UserInterfaces/LvlMap02.png@6c48a",
+    "value": {
+      "depends": [
+        "700d12ff-0789-4328-b618-42abdbcb3710"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d49f19fe-ed8c-4ace-b5c2-bce0450331dd@6c48a": {
+    "url": "db://assets/art/UserInterfaces/LvlMap3Star.png@6c48a",
+    "value": {
+      "depends": [
+        "d49f19fe-ed8c-4ace-b5c2-bce0450331dd"
+      ]
+    },
+    "versionCode": 0
+  },
+  "a3ef27af-9f50-44d7-a223-814ae0d99a93@f9941": {
+    "url": "db://assets/art/UserInterfaces/LvlMap2Star.png@f9941",
+    "value": {
+      "depends": [
+        "a3ef27af-9f50-44d7-a223-814ae0d99a93@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "bb9fef1a-b096-45a4-912e-8ca8f91f2533": {
+    "url": "db://assets/art/UserInterfaces/LvlMapLock.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "d49f19fe-ed8c-4ace-b5c2-bce0450331dd@f9941": {
+    "url": "db://assets/art/UserInterfaces/LvlMap3Star.png@f9941",
+    "value": {
+      "depends": [
+        "d49f19fe-ed8c-4ace-b5c2-bce0450331dd@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d934255c-feb4-4b46-bebf-72eee4a61bc9": {
+    "url": "db://assets/art/UserInterfaces/Map_icon.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "b7d021a2-3656-4242-9262-caf0f601310f@6c48a": {
+    "url": "db://assets/art/UserInterfaces/LvlMapAvailable.png@6c48a",
+    "value": {
+      "depends": [
+        "b7d021a2-3656-4242-9262-caf0f601310f"
+      ]
+    },
+    "versionCode": 0
+  },
+  "b7d021a2-3656-4242-9262-caf0f601310f@f9941": {
+    "url": "db://assets/art/UserInterfaces/LvlMapAvailable.png@f9941",
+    "value": {
+      "depends": [
+        "b7d021a2-3656-4242-9262-caf0f601310f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "331f7ccc-eb14-463c-901a-77504d058ba9": {
+    "url": "db://assets/art/UserInterfaces/Option_icon.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "700d12ff-0789-4328-b618-42abdbcb3710@f9941": {
+    "url": "db://assets/art/UserInterfaces/LvlMap02.png@f9941",
+    "value": {
+      "depends": [
+        "700d12ff-0789-4328-b618-42abdbcb3710@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "2fa073de-cc27-4adb-bf6a-baed4bb82411": {
+    "url": "db://assets/art/UserInterfaces/Options_box.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "6bc5daaa-6a3f-4ace-893f-7912a8e88946@f9941": {
+    "url": "db://assets/art/UserInterfaces/LvlMap01.png@f9941",
+    "value": {
+      "depends": [
+        "6bc5daaa-6a3f-4ace-893f-7912a8e88946@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "f30b0bc8-0dde-41b2-afa5-1e2d6ac6f7f0": {
+    "url": "db://assets/art/UserInterfaces/Orange_btn.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "bb9fef1a-b096-45a4-912e-8ca8f91f2533@6c48a": {
+    "url": "db://assets/art/UserInterfaces/LvlMapLock.png@6c48a",
+    "value": {
+      "depends": [
+        "bb9fef1a-b096-45a4-912e-8ca8f91f2533"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d934255c-feb4-4b46-bebf-72eee4a61bc9@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Map_icon.png@6c48a",
+    "value": {
+      "depends": [
+        "d934255c-feb4-4b46-bebf-72eee4a61bc9"
+      ]
+    },
+    "versionCode": 0
+  },
+  "bb9fef1a-b096-45a4-912e-8ca8f91f2533@f9941": {
+    "url": "db://assets/art/UserInterfaces/LvlMapLock.png@f9941",
+    "value": {
+      "depends": [
+        "bb9fef1a-b096-45a4-912e-8ca8f91f2533@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "7b6cdbfb-73cf-4f4e-bbb1-32e3a38cd53c": {
+    "url": "db://assets/art/UserInterfaces/Orange_btn2.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "331f7ccc-eb14-463c-901a-77504d058ba9@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Option_icon.png@6c48a",
+    "value": {
+      "depends": [
+        "331f7ccc-eb14-463c-901a-77504d058ba9"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d934255c-feb4-4b46-bebf-72eee4a61bc9@f9941": {
+    "url": "db://assets/art/UserInterfaces/Map_icon.png@f9941",
+    "value": {
+      "depends": [
+        "d934255c-feb4-4b46-bebf-72eee4a61bc9@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "f275a25f-a6a8-4b49-8c88-8f58c77e415d": {
+    "url": "db://assets/art/UserInterfaces/Party_box.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "331f7ccc-eb14-463c-901a-77504d058ba9@f9941": {
+    "url": "db://assets/art/UserInterfaces/Option_icon.png@f9941",
+    "value": {
+      "depends": [
+        "331f7ccc-eb14-463c-901a-77504d058ba9@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "7300b404-7c68-4855-b7a6-9b5e54a18c66": {
+    "url": "db://assets/art/UserInterfaces/Red_Bar.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "f30b0bc8-0dde-41b2-afa5-1e2d6ac6f7f0@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Orange_btn.png@6c48a",
+    "value": {
+      "depends": [
+        "f30b0bc8-0dde-41b2-afa5-1e2d6ac6f7f0"
+      ]
+    },
+    "versionCode": 0
+  },
+  "2fa073de-cc27-4adb-bf6a-baed4bb82411@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Options_box.png@6c48a",
+    "value": {
+      "depends": [
+        "2fa073de-cc27-4adb-bf6a-baed4bb82411"
+      ]
+    },
+    "versionCode": 0
+  },
+  "7b6cdbfb-73cf-4f4e-bbb1-32e3a38cd53c@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Orange_btn2.png@6c48a",
+    "value": {
+      "depends": [
+        "7b6cdbfb-73cf-4f4e-bbb1-32e3a38cd53c"
+      ]
+    },
+    "versionCode": 0
+  },
+  "f30b0bc8-0dde-41b2-afa5-1e2d6ac6f7f0@f9941": {
+    "url": "db://assets/art/UserInterfaces/Orange_btn.png@f9941",
+    "value": {
+      "depends": [
+        "f30b0bc8-0dde-41b2-afa5-1e2d6ac6f7f0@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "9c33f5f4-d522-40de-ae66-30e2dca7e6fb": {
+    "url": "db://assets/art/UserInterfaces/Red_Bar_Bg.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "2fa073de-cc27-4adb-bf6a-baed4bb82411@f9941": {
+    "url": "db://assets/art/UserInterfaces/Options_box.png@f9941",
+    "value": {
+      "depends": [
+        "2fa073de-cc27-4adb-bf6a-baed4bb82411@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "f275a25f-a6a8-4b49-8c88-8f58c77e415d@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Party_box.png@6c48a",
+    "value": {
+      "depends": [
+        "f275a25f-a6a8-4b49-8c88-8f58c77e415d"
+      ]
+    },
+    "versionCode": 0
+  },
+  "7b6cdbfb-73cf-4f4e-bbb1-32e3a38cd53c@f9941": {
+    "url": "db://assets/art/UserInterfaces/Orange_btn2.png@f9941",
+    "value": {
+      "depends": [
+        "7b6cdbfb-73cf-4f4e-bbb1-32e3a38cd53c@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "b7a9fe29-b8cd-4e03-a209-84da14a5699f": {
+    "url": "db://assets/art/UserInterfaces/Scroll_bar01.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "5b6141ea-5c4c-40c7-ab98-cde75d8d1d52": {
+    "url": "db://assets/art/UserInterfaces/Scroll_bar02.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "7300b404-7c68-4855-b7a6-9b5e54a18c66@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Red_Bar.png@6c48a",
+    "value": {
+      "depends": [
+        "7300b404-7c68-4855-b7a6-9b5e54a18c66"
+      ]
+    },
+    "versionCode": 0
+  },
+  "f275a25f-a6a8-4b49-8c88-8f58c77e415d@f9941": {
+    "url": "db://assets/art/UserInterfaces/Party_box.png@f9941",
+    "value": {
+      "depends": [
+        "f275a25f-a6a8-4b49-8c88-8f58c77e415d@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "9bbabead-3dd3-4c5c-adfc-8194cfccfc96": {
+    "url": "db://assets/art/UserInterfaces/Shop_icon.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "7300b404-7c68-4855-b7a6-9b5e54a18c66@f9941": {
+    "url": "db://assets/art/UserInterfaces/Red_Bar.png@f9941",
+    "value": {
+      "depends": [
+        "7300b404-7c68-4855-b7a6-9b5e54a18c66@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "c139e659-96e6-441f-bc8a-778a8f500403": {
+    "url": "db://assets/art/UserInterfaces/Shopping_Box.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "5b6141ea-5c4c-40c7-ab98-cde75d8d1d52@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Scroll_bar02.png@6c48a",
+    "value": {
+      "depends": [
+        "5b6141ea-5c4c-40c7-ab98-cde75d8d1d52"
+      ]
+    },
+    "versionCode": 0
+  },
+  "b7a9fe29-b8cd-4e03-a209-84da14a5699f@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Scroll_bar01.png@6c48a",
+    "value": {
+      "depends": [
+        "b7a9fe29-b8cd-4e03-a209-84da14a5699f"
+      ]
+    },
+    "versionCode": 0
+  },
+  "9c33f5f4-d522-40de-ae66-30e2dca7e6fb@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Red_Bar_Bg.png@6c48a",
+    "value": {
+      "depends": [
+        "9c33f5f4-d522-40de-ae66-30e2dca7e6fb"
+      ]
+    },
+    "versionCode": 0
+  },
+  "c139e659-96e6-441f-bc8a-778a8f500403@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Shopping_Box.png@6c48a",
+    "value": {
+      "depends": [
+        "c139e659-96e6-441f-bc8a-778a8f500403"
+      ]
+    },
+    "versionCode": 0
+  },
+  "5b6141ea-5c4c-40c7-ab98-cde75d8d1d52@f9941": {
+    "url": "db://assets/art/UserInterfaces/Scroll_bar02.png@f9941",
+    "value": {
+      "depends": [
+        "5b6141ea-5c4c-40c7-ab98-cde75d8d1d52@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "c4390066-c4d1-4aa6-8603-fdf18d0b0e6f": {
+    "url": "db://assets/art/UserInterfaces/Special_Deal_box.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "9bbabead-3dd3-4c5c-adfc-8194cfccfc96@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Shop_icon.png@6c48a",
+    "value": {
+      "depends": [
+        "9bbabead-3dd3-4c5c-adfc-8194cfccfc96"
+      ]
+    },
+    "versionCode": 0
+  },
+  "b7a9fe29-b8cd-4e03-a209-84da14a5699f@f9941": {
+    "url": "db://assets/art/UserInterfaces/Scroll_bar01.png@f9941",
+    "value": {
+      "depends": [
+        "b7a9fe29-b8cd-4e03-a209-84da14a5699f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "1df7bee8-e0d5-463b-ae47-c23c235204f0": {
+    "url": "db://assets/art/UserInterfaces/Special_Deal_box_empty.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "9c33f5f4-d522-40de-ae66-30e2dca7e6fb@f9941": {
+    "url": "db://assets/art/UserInterfaces/Red_Bar_Bg.png@f9941",
+    "value": {
+      "depends": [
+        "9c33f5f4-d522-40de-ae66-30e2dca7e6fb@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "c139e659-96e6-441f-bc8a-778a8f500403@f9941": {
+    "url": "db://assets/art/UserInterfaces/Shopping_Box.png@f9941",
+    "value": {
+      "depends": [
+        "c139e659-96e6-441f-bc8a-778a8f500403@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "480af05a-3b3a-459c-a0c0-6a6426a31c9c": {
+    "url": "db://assets/art/UserInterfaces/Text_Status_box.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "a6c8c807-44e5-4929-b8da-9eb0c7bd5ed3": {
+    "url": "db://assets/art/UserInterfaces/Upgrade_popUp_box.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "9bbabead-3dd3-4c5c-adfc-8194cfccfc96@f9941": {
+    "url": "db://assets/art/UserInterfaces/Shop_icon.png@f9941",
+    "value": {
+      "depends": [
+        "9bbabead-3dd3-4c5c-adfc-8194cfccfc96@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8e12a40f-e107-4ba1-b5f0-2e289efabe6d": {
+    "url": "db://assets/art/UserInterfaces/VideoAds_icon.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "480af05a-3b3a-459c-a0c0-6a6426a31c9c@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Text_Status_box.png@6c48a",
+    "value": {
+      "depends": [
+        "480af05a-3b3a-459c-a0c0-6a6426a31c9c"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8e12a40f-e107-4ba1-b5f0-2e289efabe6d@6c48a": {
+    "url": "db://assets/art/UserInterfaces/VideoAds_icon.png@6c48a",
+    "value": {
+      "depends": [
+        "8e12a40f-e107-4ba1-b5f0-2e289efabe6d"
+      ]
+    },
+    "versionCode": 0
+  },
+  "1df7bee8-e0d5-463b-ae47-c23c235204f0@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Special_Deal_box_empty.png@6c48a",
+    "value": {
+      "depends": [
+        "1df7bee8-e0d5-463b-ae47-c23c235204f0"
+      ]
+    },
+    "versionCode": 0
+  },
+  "480af05a-3b3a-459c-a0c0-6a6426a31c9c@f9941": {
+    "url": "db://assets/art/UserInterfaces/Text_Status_box.png@f9941",
+    "value": {
+      "depends": [
+        "480af05a-3b3a-459c-a0c0-6a6426a31c9c@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "782e379d-8e1b-4e17-9bfb-6da011dd0034": {
+    "url": "db://assets/art/UserInterfaces/Vs.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "8e12a40f-e107-4ba1-b5f0-2e289efabe6d@f9941": {
+    "url": "db://assets/art/UserInterfaces/VideoAds_icon.png@f9941",
+    "value": {
+      "depends": [
+        "8e12a40f-e107-4ba1-b5f0-2e289efabe6d@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "1df7bee8-e0d5-463b-ae47-c23c235204f0@f9941": {
+    "url": "db://assets/art/UserInterfaces/Special_Deal_box_empty.png@f9941",
+    "value": {
+      "depends": [
+        "1df7bee8-e0d5-463b-ae47-c23c235204f0@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "a6c8c807-44e5-4929-b8da-9eb0c7bd5ed3@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Upgrade_popUp_box.png@6c48a",
+    "value": {
+      "depends": [
+        "a6c8c807-44e5-4929-b8da-9eb0c7bd5ed3"
+      ]
+    },
+    "versionCode": 0
+  },
+  "c4390066-c4d1-4aa6-8603-fdf18d0b0e6f@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Special_Deal_box.png@6c48a",
+    "value": {
+      "depends": [
+        "c4390066-c4d1-4aa6-8603-fdf18d0b0e6f"
+      ]
+    },
+    "versionCode": 0
+  },
+  "a6c8c807-44e5-4929-b8da-9eb0c7bd5ed3@f9941": {
+    "url": "db://assets/art/UserInterfaces/Upgrade_popUp_box.png@f9941",
+    "value": {
+      "depends": [
+        "a6c8c807-44e5-4929-b8da-9eb0c7bd5ed3@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "782e379d-8e1b-4e17-9bfb-6da011dd0034@6c48a": {
+    "url": "db://assets/art/UserInterfaces/Vs.png@6c48a",
+    "value": {
+      "depends": [
+        "782e379d-8e1b-4e17-9bfb-6da011dd0034"
+      ]
+    },
+    "versionCode": 0
+  },
+  "782e379d-8e1b-4e17-9bfb-6da011dd0034@f9941": {
+    "url": "db://assets/art/UserInterfaces/Vs.png@f9941",
+    "value": {
+      "depends": [
+        "782e379d-8e1b-4e17-9bfb-6da011dd0034@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "c4390066-c4d1-4aa6-8603-fdf18d0b0e6f@f9941": {
+    "url": "db://assets/art/UserInterfaces/Special_Deal_box.png@f9941",
+    "value": {
+      "depends": [
+        "c4390066-c4d1-4aa6-8603-fdf18d0b0e6f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "4f31c8b0-0635-4805-a708-2ef9a7ba69c8": {
+    "url": "db://assets/ui_prefabs",
+    "value": {},
+    "versionCode": 0
+  },
+  "69cf2b25-a500-4208-afa1-0ac8ae08ccb8": {
+    "url": "db://assets/ui_prefabs/MenuButton.prefab",
+    "value": {},
+    "versionCode": 0
+  },
+  "aea89a43-c0e1-4a53-ae69-0d51022c931d": {
+    "url": "db://assets/art/Fonts",
+    "value": {},
+    "versionCode": 0
+  },
+  "e5ec2dce-9d17-4465-b82a-91af2f43a92c": {
+    "url": "db://assets/art/Fonts/GROBOLD.ttf",
+    "value": {},
+    "versionCode": 0
+  },
+  "6cf8358a-349b-4d77-8d81-99d0618fa6e0": {
+    "url": "db://assets/art/Fonts/PassionOne-Black.ttf",
+    "value": {},
+    "versionCode": 0
+  },
+  "88cea8e5-ceca-49e1-a92c-d0687d109915": {
+    "url": "db://assets/art/Fonts/PassionOne-Bold.ttf",
+    "value": {},
+    "versionCode": 0
+  },
+  "952973c2-0589-4054-a0f2-8d2532368a8c": {
+    "url": "db://assets/art/Fonts/PassionOne-Regular.ttf",
+    "value": {},
+    "versionCode": 0
+  },
+  "fed9fccf-beec-40a4-a9ee-22f39577113a": {
+    "url": "db://assets/art/Fonts/Pocket Monk.otf",
+    "value": {},
+    "versionCode": 0
+  },
+  "f55bc2fb-2952-4348-8828-c75e98f01a59": {
+    "url": "db://assets/art/Fonts/Pocket-Monk.ttf",
+    "value": {},
+    "versionCode": 0
+  },
+  "54557f0a-4682-4b38-9c34-0deace620a89": {
+    "url": "db://assets/ui_prefabs/animation.anim",
+    "value": {},
+    "versionCode": 0
+  },
+  "6d105ae5-de65-4b6d-9446-6dd6a9d77c4c": {
+    "url": "db://assets/Scripts/customComponents",
+    "value": {},
+    "versionCode": 0
+  },
+  "a82d9cef-da18-4549-b42c-8b84510fb18c": {
+    "url": "db://assets/ui_prefabs/components/ImageSwitcher/ImageSwitcher.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "e8c27b53-846e-4e1a-9f9e-95aedd993d39": {
+    "url": "db://assets/ui_prefabs/components",
+    "value": {},
+    "versionCode": 0
+  },
+  "ac2ac9b2-c3a0-4f5f-818f-f376ae5f6ab4": {
+    "url": "db://assets/ui_prefabs/components/ImageSwitcher",
+    "value": {},
+    "versionCode": 0
+  },
+  "c28d6993-6612-46fd-b56b-d37157b3046c": {
+    "url": "db://assets/ui_prefabs/components/ImageSwitcher/ImageSwitcher.prefab",
+    "value": {},
+    "versionCode": 0
+  }
+}
