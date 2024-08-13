@@ -5416,3 +5416,17 @@ Class ID: "e84c3cuf2FJpJOzqgjyEwaM"
 8-13-2024 08:23:28 - log: [Scene] Cocos Creator v3.8.3
 8-13-2024 08:23:28 - info: [Scene] Forward render pipeline initialized.
 8-13-2024 08:23:28 - log: [Scene] [PHYSICS2D]: switch from box2d-wasm to box2d.
+8-13-2024 14:20:08 - log: web-mobile Building template generated successfully!({link(/Users/artemfedorov/Documents/dev/rpg-mini/build-templates/web-mobile)})
+8-13-2024 14:20:19 - info: [Window] Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools
+8-13-2024 14:20:19 - info: [Window] You are running Vue in development mode.
+Make sure to turn on production mode when deploying for production.
+See more tips at https://vuejs.org/guide/deployment.html
+8-13-2024 14:20:42 - error: Failed to load import map at project://: Error: EISDIR: illegal operation on a directory, read
+8-13-2024 14:22:29 - error: Failed to load import map at project://: Error: EISDIR: illegal operation on a directory, read
+8-13-2024 14:23:10 - info: [Window] Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools
+8-13-2024 14:23:10 - info: [Window] You are running Vue in development mode.
+Make sure to turn on production mode when deploying for production.
+See more tips at https://vuejs.org/guide/deployment.html
+8-13-2024 14:23:29 - error: Failed to load import map at project://: Error: EISDIR: illegal operation on a directory, read
