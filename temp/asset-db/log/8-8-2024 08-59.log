@@ -27988,3 +27988,489 @@
 8-13-2024 14:39:46-debug: [Build Memory track]: builder:build-project-total start:179.21MB, end 243.13MB, increase: 63.92MB
 8-13-2024 14:39:46-debug: ================================ build Task (web-mobile) Finished in (10 s)ms ================================
 8-13-2024 14:39:46-debug: Stop record console. {file(/Users/artemfedorov/Documents/dev/rpg-mini/temp/builder/log/web-mobile8-13-2024 14-39.log)}
+8-13-2024 14:48:00-debug: refresh db internal success
+8-13-2024 14:48:00-debug: refresh db assets success
+8-13-2024 14:48:00-debug: Run asset db hook engine-extends:afterRefresh ...
+8-13-2024 14:48:00-debug: Run asset db hook engine-extends:afterRefresh success!
+8-13-2024 14:48:00-debug: asset-db:refresh-all-database (64ms)
+8-13-2024 14:48:00-debug: asset-db:worker-effect-data-processing (1ms)
+8-13-2024 14:48:00-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+8-13-2024 14:48:18-debug: start refresh asset from /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/LoadingScene.scene...
+8-13-2024 14:48:18-debug: %cImport%c: /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/LoadingScene.scenebackground: #aaff85; color: #000;color: #000;
+8-13-2024 14:48:18-debug: refresh asset /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes success
+8-13-2024 14:48:19-debug: start refresh asset from /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/LoadingScene.scene...
+8-13-2024 14:48:19-debug: %cImport%c: /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/LoadingScene.scenebackground: #aaff85; color: #000;color: #000;
+8-13-2024 14:48:19-debug: refresh asset /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes success
+8-13-2024 14:48:19-debug: start refresh asset from /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/LoadingScene.scene...
+8-13-2024 14:48:19-debug: %cImport%c: /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/LoadingScene.scenebackground: #aaff85; color: #000;color: #000;
+8-13-2024 14:48:19-debug: refresh asset /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes success
+8-13-2024 14:48:19-debug: start refresh asset from /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/LoadingScene.scene...
+8-13-2024 14:48:19-debug: %cImport%c: /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/LoadingScene.scenebackground: #aaff85; color: #000;color: #000;
+8-13-2024 14:48:19-debug: refresh asset /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes success
+8-13-2024 14:48:20-debug: Query all assets info in project
+8-13-2024 14:48:20-debug: init custom config: keepNodeUuid: false, useCache: true
+8-13-2024 14:48:20-debug: Query asset bundle start, progress: 0%
+8-13-2024 14:48:20-debug: // ---- build task Query asset bundle ----
+8-13-2024 14:48:20-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+8-13-2024 14:48:20-debug:   Number of other assets: 1850
+8-13-2024 14:48:20-debug:   Number of all scripts: 24
+8-13-2024 14:48:20-debug:   Number of all scenes: 4
+8-13-2024 14:48:20-debug: // ---- build task Query asset bundle ---- (26ms)
+8-13-2024 14:48:20-debug: run build task Query asset bundle success in 26 ms√, progress: 5%
+8-13-2024 14:48:20-debug: Query asset bundle start, progress: 5%
+8-13-2024 14:48:20-debug: // ---- build task Query asset bundle ----
+8-13-2024 14:48:20-debug: [Build Memory track]: Query asset bundle start:182.80MB, end 183.93MB, increase: 1.13MB
+8-13-2024 14:48:20-debug: // ---- build task Query asset bundle ---- (1ms)
+8-13-2024 14:48:20-debug: // ---- build task Sort some build options to settings.json ----
+8-13-2024 14:48:20-debug: [Build Memory track]: Query asset bundle start:183.94MB, end 184.25MB, increase: 317.31KB
+8-13-2024 14:48:20-debug: Sort some build options to settings.json start, progress: 10%
+8-13-2024 14:48:20-debug: run build task Query asset bundle success in 1 ms√, progress: 10%
+8-13-2024 14:48:20-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+8-13-2024 14:48:20-debug: [Build Memory track]: Sort some build options to settings.json start:184.26MB, end 184.27MB, increase: 12.61KB
+8-13-2024 14:48:20-debug: Fill script data to settings start, progress: 12%
+8-13-2024 14:48:20-debug: run build task Sort some build options to settings.json success in 1 ms√, progress: 12%
+8-13-2024 14:48:20-debug: // ---- build task Fill script data to settings ----
+8-13-2024 14:48:20-debug: run build task Fill script data to settings success in √, progress: 13%
+8-13-2024 14:48:20-debug: Sort some build options to settings.json start, progress: 13%
+8-13-2024 14:48:20-debug: [Build Memory track]: Fill script data to settings start:184.28MB, end 184.50MB, increase: 229.32KB
+8-13-2024 14:48:20-debug: // ---- build task Sort some build options to settings.json ----
+8-13-2024 14:48:20-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+8-13-2024 14:48:20-debug: [Build Memory track]: Sort some build options to settings.json start:184.51MB, end 184.56MB, increase: 55.05KB
+8-13-2024 14:48:20-debug: run build task Sort some build options to settings.json success in 1 ms√, progress: 15%
+8-13-2024 14:48:20-debug: Query all assets info in project
+8-13-2024 14:48:20-debug: init custom config: keepNodeUuid: false, useCache: true
+8-13-2024 14:48:20-debug: Query asset bundle start, progress: 0%
+8-13-2024 14:48:20-debug: // ---- build task Query asset bundle ----
+8-13-2024 14:48:20-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+8-13-2024 14:48:20-debug:   Number of all scenes: 4
+8-13-2024 14:48:20-debug:   Number of all scripts: 24
+8-13-2024 14:48:20-debug:   Number of other assets: 1850
+8-13-2024 14:48:20-debug: // ---- build task Query asset bundle ---- (19ms)
+8-13-2024 14:48:20-debug: Query asset bundle start, progress: 5%
+8-13-2024 14:48:20-debug: [Build Memory track]: Query asset bundle start:184.80MB, end 185.16MB, increase: 368.01KB
+8-13-2024 14:48:20-debug: // ---- build task Query asset bundle ----
+8-13-2024 14:48:20-debug: run build task Query asset bundle success in 19 ms√, progress: 5%
+8-13-2024 14:48:20-debug: // ---- build task Query asset bundle ---- (1ms)
+8-13-2024 14:48:20-debug: [Build Memory track]: Query asset bundle start:185.17MB, end 185.48MB, increase: 318.30KB
+8-13-2024 14:48:20-debug: Sort some build options to settings.json start, progress: 10%
+8-13-2024 14:48:20-debug: // ---- build task Sort some build options to settings.json ----
+8-13-2024 14:48:20-debug: run build task Query asset bundle success in 1 ms√, progress: 10%
+8-13-2024 14:48:20-debug: run build task Sort some build options to settings.json success in √, progress: 12%
+8-13-2024 14:48:20-debug: [Build Memory track]: Sort some build options to settings.json start:185.48MB, end 185.50MB, increase: 10.81KB
+8-13-2024 14:48:20-debug: Fill script data to settings start, progress: 12%
+8-13-2024 14:48:20-debug: // ---- build task Fill script data to settings ----
+8-13-2024 14:48:20-debug: run build task Fill script data to settings success in √, progress: 13%
+8-13-2024 14:48:20-debug: Sort some build options to settings.json start, progress: 13%
+8-13-2024 14:48:20-debug: [Build Memory track]: Fill script data to settings start:185.50MB, end 185.51MB, increase: 9.27KB
+8-13-2024 14:48:20-debug: // ---- build task Sort some build options to settings.json ----
+8-13-2024 14:48:20-debug: run build task Sort some build options to settings.json success in √, progress: 15%
+8-13-2024 14:48:20-debug: [Build Memory track]: Sort some build options to settings.json start:185.52MB, end 185.57MB, increase: 47.45KB
+8-13-2024 14:48:26-debug: start refresh asset from /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/LoadingScene.scene...
+8-13-2024 14:48:26-debug: %cImport%c: /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/LoadingScene.scenebackground: #aaff85; color: #000;color: #000;
+8-13-2024 14:48:26-debug: refresh asset /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes success
+8-13-2024 14:48:26-debug: start refresh asset from /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/LoadingScene.scene...
+8-13-2024 14:48:26-debug: %cImport%c: /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/LoadingScene.scenebackground: #aaff85; color: #000;color: #000;
+8-13-2024 14:48:26-debug: refresh asset /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes success
+8-13-2024 14:48:27-debug: start refresh asset from /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/LoadingScene.scene...
+8-13-2024 14:48:27-debug: %cImport%c: /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/LoadingScene.scenebackground: #aaff85; color: #000;color: #000;
+8-13-2024 14:48:27-debug: refresh asset /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes success
+8-13-2024 14:48:27-debug: start refresh asset from /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/LoadingScene.scene...
+8-13-2024 14:48:27-debug: %cImport%c: /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/LoadingScene.scenebackground: #aaff85; color: #000;color: #000;
+8-13-2024 14:48:27-debug: refresh asset /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes success
+8-13-2024 14:48:28-debug: Query all assets info in project
+8-13-2024 14:48:28-debug: init custom config: keepNodeUuid: false, useCache: true
+8-13-2024 14:48:28-debug: Query asset bundle start, progress: 0%
+8-13-2024 14:48:28-debug: // ---- build task Query asset bundle ----
+8-13-2024 14:48:28-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+8-13-2024 14:48:28-debug:   Number of all scenes: 4
+8-13-2024 14:48:28-debug:   Number of other assets: 1850
+8-13-2024 14:48:28-debug:   Number of all scripts: 24
+8-13-2024 14:48:28-debug: // ---- build task Query asset bundle ---- (19ms)
+8-13-2024 14:48:28-debug: [Build Memory track]: Query asset bundle start:187.58MB, end 187.41MB, increase: -175.27KB
+8-13-2024 14:48:28-debug: // ---- build task Query asset bundle ----
+8-13-2024 14:48:28-debug: Query asset bundle start, progress: 5%
+8-13-2024 14:48:28-debug: run build task Query asset bundle success in 19 ms√, progress: 5%
+8-13-2024 14:48:28-debug: // ---- build task Query asset bundle ---- (1ms)
+8-13-2024 14:48:28-debug: [Build Memory track]: Query asset bundle start:187.42MB, end 187.69MB, increase: 274.75KB
+8-13-2024 14:48:28-debug: // ---- build task Sort some build options to settings.json ----
+8-13-2024 14:48:28-debug: run build task Query asset bundle success in 1 ms√, progress: 10%
+8-13-2024 14:48:28-debug: Sort some build options to settings.json start, progress: 10%
+8-13-2024 14:48:28-debug: run build task Sort some build options to settings.json success in √, progress: 12%
+8-13-2024 14:48:28-debug: [Build Memory track]: Sort some build options to settings.json start:187.70MB, end 187.71MB, increase: 10.93KB
+8-13-2024 14:48:28-debug: Fill script data to settings start, progress: 12%
+8-13-2024 14:48:28-debug: // ---- build task Fill script data to settings ----
+8-13-2024 14:48:28-debug: run build task Fill script data to settings success in √, progress: 13%
+8-13-2024 14:48:28-debug: Sort some build options to settings.json start, progress: 13%
+8-13-2024 14:48:28-debug: // ---- build task Sort some build options to settings.json ----
+8-13-2024 14:48:28-debug: [Build Memory track]: Fill script data to settings start:187.71MB, end 187.72MB, increase: 9.41KB
+8-13-2024 14:48:28-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+8-13-2024 14:48:28-debug: [Build Memory track]: Sort some build options to settings.json start:187.73MB, end 187.78MB, increase: 49.56KB
+8-13-2024 14:48:28-debug: run build task Sort some build options to settings.json success in 1 ms√, progress: 15%
+8-13-2024 14:48:36-debug: start refresh asset from /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/LoadingScene.scene...
+8-13-2024 14:48:36-debug: %cImport%c: /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/LoadingScene.scenebackground: #aaff85; color: #000;color: #000;
+8-13-2024 14:48:36-debug: refresh asset /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes success
+8-13-2024 14:48:36-debug: start refresh asset from /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/LoadingScene.scene...
+8-13-2024 14:48:36-debug: %cImport%c: /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/LoadingScene.scenebackground: #aaff85; color: #000;color: #000;
+8-13-2024 14:48:36-debug: refresh asset /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes success
+8-13-2024 14:48:37-debug: start refresh asset from /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/LoadingScene.scene...
+8-13-2024 14:48:37-debug: %cImport%c: /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/LoadingScene.scenebackground: #aaff85; color: #000;color: #000;
+8-13-2024 14:48:37-debug: refresh asset /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes success
+8-13-2024 14:48:37-debug: start refresh asset from /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/LoadingScene.scene...
+8-13-2024 14:48:37-debug: %cImport%c: /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/LoadingScene.scenebackground: #aaff85; color: #000;color: #000;
+8-13-2024 14:48:37-debug: refresh asset /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes success
+8-13-2024 14:48:37-debug: start refresh asset from /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/LoadingScene.scene...
+8-13-2024 14:48:37-debug: %cImport%c: /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/LoadingScene.scenebackground: #aaff85; color: #000;color: #000;
+8-13-2024 14:48:37-debug: refresh asset /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes success
+8-13-2024 14:48:37-debug: start refresh asset from /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/LoadingScene.scene...
+8-13-2024 14:48:37-debug: %cImport%c: /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/LoadingScene.scenebackground: #aaff85; color: #000;color: #000;
+8-13-2024 14:48:37-debug: refresh asset /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes success
+8-13-2024 14:48:38-debug: Query all assets info in project
+8-13-2024 14:48:38-debug: init custom config: keepNodeUuid: false, useCache: true
+8-13-2024 14:48:38-debug: Query asset bundle start, progress: 0%
+8-13-2024 14:48:38-debug: // ---- build task Query asset bundle ----
+8-13-2024 14:48:38-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+8-13-2024 14:48:38-debug:   Number of all scenes: 4
+8-13-2024 14:48:38-debug:   Number of all scripts: 24
+8-13-2024 14:48:38-debug:   Number of other assets: 1850
+8-13-2024 14:48:38-debug: // ---- build task Query asset bundle ---- (16ms)
+8-13-2024 14:48:38-debug: [Build Memory track]: Query asset bundle start:189.83MB, end 189.45MB, increase: -387.45KB
+8-13-2024 14:48:38-debug: Query asset bundle start, progress: 5%
+8-13-2024 14:48:38-debug: run build task Query asset bundle success in 16 ms√, progress: 5%
+8-13-2024 14:48:38-debug: // ---- build task Query asset bundle ----
+8-13-2024 14:48:38-debug: // ---- build task Query asset bundle ---- (1ms)
+8-13-2024 14:48:38-debug: // ---- build task Sort some build options to settings.json ----
+8-13-2024 14:48:38-debug: [Build Memory track]: Query asset bundle start:189.46MB, end 189.73MB, increase: 274.45KB
+8-13-2024 14:48:38-debug: Sort some build options to settings.json start, progress: 10%
+8-13-2024 14:48:38-debug: run build task Query asset bundle success in 1 ms√, progress: 10%
+8-13-2024 14:48:38-debug: run build task Sort some build options to settings.json success in √, progress: 12%
+8-13-2024 14:48:38-debug: Fill script data to settings start, progress: 12%
+8-13-2024 14:48:38-debug: // ---- build task Fill script data to settings ----
+8-13-2024 14:48:38-debug: [Build Memory track]: Sort some build options to settings.json start:189.73MB, end 189.74MB, increase: 11.18KB
+8-13-2024 14:48:38-debug: run build task Fill script data to settings success in √, progress: 13%
+8-13-2024 14:48:38-debug: [Build Memory track]: Fill script data to settings start:189.75MB, end 189.76MB, increase: 8.99KB
+8-13-2024 14:48:38-debug: // ---- build task Sort some build options to settings.json ----
+8-13-2024 14:48:38-debug: Sort some build options to settings.json start, progress: 13%
+8-13-2024 14:48:38-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+8-13-2024 14:48:38-debug: run build task Sort some build options to settings.json success in 1 ms√, progress: 15%
+8-13-2024 14:48:38-debug: [Build Memory track]: Sort some build options to settings.json start:189.77MB, end 189.83MB, increase: 67.21KB
+8-13-2024 14:48:49-debug: Build with Cocos Creator 3.8.3
+8-13-2024 14:48:49-debug: Start build task, options:{"name":"test","server":"","platform":"web-mobile","buildPath":"project://build","debug":false,"md5Cache":false,"skipCompressTexture":false,"sourceMaps":false,"overwriteProjectSettings":{"includeModules":{"gfx-webgl2":"on","physics":"inherit-project-setting","physics-2d":"inherit-project-setting"},"macroConfig":{"cleanupImageCache":"inherit-project-setting"}},"nativeCodeBundleMode":"both","polyfills":{"asyncFunctions":true},"experimentalEraseModules":false,"startSceneAssetBundle":false,"bundleConfigs":[],"useBuiltinServer":false,"mainBundleIsRemote":false,"mainBundleCompressionType":"merge_dep","useSplashScreen":true,"bundleCommonChunk":false,"packAutoAtlas":true,"startScene":"54d1f9e3-8212-4bd0-8f2b-c71890d84453","outputName":"web-mobile","taskName":"web-mobile","scenes":[{"url":"db://assets/scenes/GameScene.scene","uuid":"6eee9438-993f-40ed-9527-5c8877905d3e"},{"url":"db://assets/scenes/LoadingScene.scene","uuid":"54d1f9e3-8212-4bd0-8f2b-c71890d84453"},{"url":"db://assets/scenes/MainMenuScene.scene","uuid":"b31e9165-ac58-4bf8-a353-af2180cb1dbe"},{"url":"db://assets/scenes/SplashScreenScene.scene","uuid":"6d83f52c-2473-4b4b-9d63-f688d14dc9bd"}],"wasmCompressionMode":false,"packages":{"adsense-h5g-plugin":{"enableAdsense":false,"enableTestAd":false,"__version__":"1.0.1","AFPHostPropertyCode":"ca-host-pub-5396158963872751","AFPHostDomain":"douyougame.com","otherAFPHostPropertyCode":"","otherAFPDomain":""},"cocos-service":{"configID":"c03d7c","services":[],"__version__":"3.0.7"},"web-mobile":{"orientation":"auto","embedWebDebugger":false,"__version__":"1.0.1"}},"__version__":"1.3.8","logDest":"project://temp/builder/log/web-mobile8-13-2024 14-39.log"}
+8-13-2024 14:48:49-debug: =================================== build Task (web-mobile) Start ================================
+8-13-2024 14:48:49-debug: Start record console... {file(/Users/artemfedorov/Documents/dev/rpg-mini/temp/builder/log/web-mobile8-13-2024 14-39.log)}
+8-13-2024 14:48:49-debug: cocos-service:(onBeforeBuild) start..., progress: 0%
+8-13-2024 14:48:49-debug: // ---- build task cocos-service：onBeforeBuild ----
+8-13-2024 14:48:50-debug: // ---- build task cocos-service：onBeforeBuild ---- (579ms)
+8-13-2024 14:48:50-debug: cocos-service:(onBeforeBuild) in 579 ms ✓, progress: 2%
+8-13-2024 14:48:50-debug: scene:(onBeforeBuild) start..., progress: 2%
+8-13-2024 14:48:50-debug: // ---- build task scene：onBeforeBuild ----
+8-13-2024 14:48:50-debug: // ---- build task scene：onBeforeBuild ---- (6ms)
+8-13-2024 14:48:50-log: Asset DB is paused with build!
+8-13-2024 14:48:50-debug: Start lock asset db..., progress: 4%
+8-13-2024 14:48:50-debug: Query all assets info in project
+8-13-2024 14:48:50-debug: scene:(onBeforeBuild) in 6 ms ✓, progress: 4%
+8-13-2024 14:48:50-debug: init custom config: keepNodeUuid: false, useCache: true
+8-13-2024 14:48:50-debug: web-mobile:(onAfterInit) start..., progress: 4%
+8-13-2024 14:48:50-debug: // ---- build task web-mobile：onAfterInit ----
+8-13-2024 14:48:50-debug: // ---- build task web-mobile：onAfterInit ---- (3ms)
+8-13-2024 14:48:50-debug: // ---- build task cocos-service：onAfterInit ----
+8-13-2024 14:48:50-debug: cocos-service:(onAfterInit) start..., progress: 5%
+8-13-2024 14:48:50-debug: web-mobile:(onAfterInit) in 3 ms ✓, progress: 5%
+8-13-2024 14:48:50-debug: // ---- build task cocos-service：onAfterInit ---- (372ms)
+8-13-2024 14:48:50-debug: cocos-service:(onAfterInit) in 372 ms ✓, progress: 7%
+8-13-2024 14:48:50-debug: engine:(onAfterInit) start..., progress: 7%
+8-13-2024 14:48:50-debug: // ---- build task engine：onAfterInit ----
+8-13-2024 14:48:50-debug: // ---- build task engine：onAfterInit ---- (6ms)
+8-13-2024 14:48:50-debug: engine:(onAfterInit) in 6 ms ✓, progress: 9%
+8-13-2024 14:48:50-debug: adsense-h5g-plugin:(onBeforeBundleInit) start..., progress: 9%
+8-13-2024 14:48:50-debug: // ---- build task adsense-h5g-plugin：onBeforeBundleInit ----
+8-13-2024 14:48:50-debug: [adsense-h5g-plugin] remove script success
+8-13-2024 14:48:50-debug: // ---- build task adsense-h5g-plugin：onBeforeBundleInit ---- (4ms)
+8-13-2024 14:48:50-debug: adsense-h5g-plugin:(onBeforeBundleInit) in 4 ms ✓, progress: 9%
+8-13-2024 14:48:50-debug: Init all bundles start..., progress: 9%
+8-13-2024 14:48:50-debug: Num of bundles: 8..., progress: 9%
+8-13-2024 14:48:50-debug: web-mobile:(onAfterBundleInit) start..., progress: 9%
+8-13-2024 14:48:50-debug: // ---- build task web-mobile：onAfterBundleInit ----
+8-13-2024 14:48:50-debug: // ---- build task web-mobile：onAfterBundleInit ---- (6ms)
+8-13-2024 14:48:50-debug: // ---- build task Query asset bundle ----
+8-13-2024 14:48:50-debug: Query asset bundle start, progress: 9%
+8-13-2024 14:48:50-debug: Init bundle root assets start..., progress: 9%
+8-13-2024 14:48:50-debug: web-mobile:(onAfterBundleInit) in 6 ms ✓, progress: 9%
+8-13-2024 14:48:50-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+8-13-2024 14:48:50-debug:   Number of all scripts: 24
+8-13-2024 14:48:50-debug:   Number of all scenes: 4
+8-13-2024 14:48:50-debug: Init bundle root assets success..., progress: 9%
+8-13-2024 14:48:50-debug: reload all scripts.
+8-13-2024 14:48:50-debug:   Number of other assets: 1850
+8-13-2024 14:48:50-debug: Set detail map pack:///resolution-detail-map.json: {}
+8-13-2024 14:48:50-debug: Unregister HeroesTabComponent
+8-13-2024 14:48:50-debug: Unregister BulletComponent
+8-13-2024 14:48:50-debug: Unregister HeroComponent
+8-13-2024 14:48:50-debug: Unregister PoolObjectComponent
+8-13-2024 14:48:50-debug: Unregister TeamsBuilderComponent
+8-13-2024 14:48:50-debug: Unregister GameScene
+8-13-2024 14:48:50-debug: Unregister LoadingScene
+8-13-2024 14:48:50-debug: Unregister MainMenuScene
+8-13-2024 14:48:50-debug: Unregister SplashScene
+8-13-2024 14:48:50-debug: Unregister FrameSwitcher
+8-13-2024 14:48:50-debug: Unregister AuthComponent
+8-13-2024 14:48:50-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+8-13-2024 14:48:50-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+8-13-2024 14:48:50-debug: Invalidating 'pack:///chunks/31/31e3c2f26607ebb67e59edfae1b48b9458089fb9.js'
+8-13-2024 14:48:50-debug: Invalidating 'pack:///chunks/43/43bc543f774c4a99beed58f9b99e51eb37f3cd2b.js'
+8-13-2024 14:48:50-debug: Invalidating 'pack:///chunks/ac/ac29c888d2b3c018f09e63e09d7afe3d09c5c988.js'
+8-13-2024 14:48:50-debug: Invalidating 'pack:///chunks/93/93d422f297ce421b813108716d551ebfda2e1ff0.js'
+8-13-2024 14:48:50-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+8-13-2024 14:48:50-debug: Invalidating 'pack:///chunks/ee/ee1d442b0ea0f99bddd801b4ad63410d5e150a93.js'
+8-13-2024 14:48:50-debug: Invalidating 'pack:///chunks/29/2944b6005af60a5d98ace1312dbf48a85d7a9155.js'
+8-13-2024 14:48:50-debug: Invalidating 'pack:///chunks/4b/4b92c57f6beb6351cf30108b3148ea8aa2523f36.js'
+8-13-2024 14:48:50-debug: Invalidating 'pack:///chunks/56/566a862660f4bda301a34c60526d63ca3f83a237.js'
+8-13-2024 14:48:50-debug: Invalidating 'pack:///chunks/91/918d1937e878890ea34304f711a5a2e7c4ba7612.js'
+8-13-2024 14:48:50-debug: Invalidating 'pack:///chunks/9c/9c1ac6ae1b615a0ea3516444413c58a3e41633e0.js'
+8-13-2024 14:48:50-debug: Invalidating 'pack:///chunks/7a/7a90a80d644192e0774f765a6aefccfc05bcbf02.js'
+8-13-2024 14:48:50-debug: Invalidating 'pack:///chunks/30/30d06e77b734eddeab10f0b4743a735a070cc296.js'
+8-13-2024 14:48:50-debug: Invalidating 'pack:///chunks/6b/6b52bac560769ba5d52043ae1c963113c905ed23.js'
+8-13-2024 14:48:50-debug: Invalidating 'pack:///chunks/4d/4d5562698e441ffb1f9bcaca967797b791f781af.js'
+8-13-2024 14:48:50-debug: Invalidating 'pack:///chunks/10/10a955e015414ccf8ead24087ac20d0823e446f0.js'
+8-13-2024 14:48:50-debug: Invalidating 'pack:///chunks/0f/0f39d870a8bdc819c446eaacb2fccd004d7cf2e5.js'
+8-13-2024 14:48:50-debug: Invalidating 'pack:///chunks/01/01f87aa1846637fae3144b4a7ea197c0d9a24c97.js'
+8-13-2024 14:48:50-debug: Invalidating 'pack:///chunks/16/16a31ff9c1943f1ce1e28af0881cf4c5f8b48d96.js'
+8-13-2024 14:48:50-debug: Invalidating 'pack:///chunks/b4/b49538a528a9e92daf72f9ea5b76e799f5a177df.js'
+8-13-2024 14:48:50-debug: Invalidating 'pack:///chunks/23/2369e8c1c84ac7af95060143548bf4441aeda9fd.js'
+8-13-2024 14:48:50-debug: Invalidating 'pack:///chunks/43/433e03e4504ba52b919b4d68a1acb99327486745.js'
+8-13-2024 14:48:50-debug: Invalidating 'pack:///chunks/5b/5b9fc0aad823670c7031a8bca03be4b944f19e7e.js'
+8-13-2024 14:48:50-debug: Invalidating 'pack:///chunks/db/db0d38c16cba760b922e87a3b681af6dfa625715.js'
+8-13-2024 14:48:50-debug: Invalidating 'pack:///chunks/d4/d408e9d9ae49205507799cf76038b7af1cd30d1d.js'
+8-13-2024 14:48:50-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+8-13-2024 14:48:50-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+8-13-2024 14:48:50-debug: [[Executor]] Register DebugViewRuntimeControl
+8-13-2024 14:48:50-debug: [[Executor]] Module "pack:///chunks/31/31e3c2f26607ebb67e59edfae1b48b9458089fb9.js" loaded.
+8-13-2024 14:48:50-debug: [[Executor]] Module "pack:///chunks/43/43bc543f774c4a99beed58f9b99e51eb37f3cd2b.js" loaded.
+8-13-2024 14:48:50-debug: [[Executor]] Module "pack:///chunks/ac/ac29c888d2b3c018f09e63e09d7afe3d09c5c988.js" loaded.
+8-13-2024 14:48:50-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+8-13-2024 14:48:50-debug: [[Executor]] Module "pack:///chunks/93/93d422f297ce421b813108716d551ebfda2e1ff0.js" loaded.
+8-13-2024 14:48:50-debug: [[Executor]] Module "pack:///chunks/29/2944b6005af60a5d98ace1312dbf48a85d7a9155.js" loaded.
+8-13-2024 14:48:50-debug: [[Executor]] Register BattleComponent
+8-13-2024 14:48:50-debug: [[Executor]] Module "pack:///chunks/ee/ee1d442b0ea0f99bddd801b4ad63410d5e150a93.js" loaded.
+8-13-2024 14:48:50-debug: [[Executor]] Register HeroCardComponent
+8-13-2024 14:48:50-debug: [[Executor]] Module "pack:///chunks/56/566a862660f4bda301a34c60526d63ca3f83a237.js" loaded.
+8-13-2024 14:48:50-debug: [[Executor]] Register HeroesTabComponent
+8-13-2024 14:48:50-debug: [[Executor]] Module "pack:///chunks/4b/4b92c57f6beb6351cf30108b3148ea8aa2523f36.js" loaded.
+8-13-2024 14:48:50-debug: [[Executor]] Register BulletComponent
+8-13-2024 14:48:50-debug: [[Executor]] Module "pack:///chunks/30/30d06e77b734eddeab10f0b4743a735a070cc296.js" loaded.
+8-13-2024 14:48:50-debug: [[Executor]] Register HeroComponent
+8-13-2024 14:48:50-debug: [[Executor]] Module "pack:///chunks/9c/9c1ac6ae1b615a0ea3516444413c58a3e41633e0.js" loaded.
+8-13-2024 14:48:50-debug: [[Executor]] Register PoolObjectComponent
+8-13-2024 14:48:50-debug: [[Executor]] Module "pack:///chunks/7a/7a90a80d644192e0774f765a6aefccfc05bcbf02.js" loaded.
+8-13-2024 14:48:50-debug: [[Executor]] Register TeamsBuilderComponent
+8-13-2024 14:48:50-debug: [[Executor]] Module "pack:///chunks/91/918d1937e878890ea34304f711a5a2e7c4ba7612.js" loaded.
+8-13-2024 14:48:50-debug: [[Executor]] Module "pack:///chunks/6b/6b52bac560769ba5d52043ae1c963113c905ed23.js" loaded.
+8-13-2024 14:48:50-debug: [[Executor]] Register GameScene
+8-13-2024 14:48:50-debug: [[Executor]] Module "pack:///chunks/4d/4d5562698e441ffb1f9bcaca967797b791f781af.js" loaded.
+8-13-2024 14:48:50-debug: [[Executor]] Register LoadingScene
+8-13-2024 14:48:50-debug: [[Executor]] Module "pack:///chunks/10/10a955e015414ccf8ead24087ac20d0823e446f0.js" loaded.
+8-13-2024 14:48:50-debug: [[Executor]] Register MainMenuScene
+8-13-2024 14:48:50-debug: [[Executor]] Module "pack:///chunks/0f/0f39d870a8bdc819c446eaacb2fccd004d7cf2e5.js" loaded.
+8-13-2024 14:48:50-debug: [[Executor]] Register SplashScene
+8-13-2024 14:48:50-debug: [[Executor]] Module "pack:///chunks/01/01f87aa1846637fae3144b4a7ea197c0d9a24c97.js" loaded.
+8-13-2024 14:48:50-debug: [[Executor]] Module "pack:///chunks/16/16a31ff9c1943f1ce1e28af0881cf4c5f8b48d96.js" loaded.
+8-13-2024 14:48:50-debug: [[Executor]] Module "pack:///chunks/b4/b49538a528a9e92daf72f9ea5b76e799f5a177df.js" loaded.
+8-13-2024 14:48:50-debug: [[Executor]] Module "pack:///chunks/43/433e03e4504ba52b919b4d68a1acb99327486745.js" loaded.
+8-13-2024 14:48:50-debug: [[Executor]] Module "pack:///chunks/5b/5b9fc0aad823670c7031a8bca03be4b944f19e7e.js" loaded.
+8-13-2024 14:48:50-debug: [[Executor]] Module "pack:///chunks/23/2369e8c1c84ac7af95060143548bf4441aeda9fd.js" loaded.
+8-13-2024 14:48:50-debug: [[Executor]] Register FrameSwitcher
+8-13-2024 14:48:50-debug: Unregister DebugViewRuntimeControl
+8-13-2024 14:48:50-debug: [[Executor]] Register AuthComponent
+8-13-2024 14:48:50-debug: [[Executor]] Module "pack:///chunks/d4/d408e9d9ae49205507799cf76038b7af1cd30d1d.js" loaded.
+8-13-2024 14:48:50-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+8-13-2024 14:48:50-debug: Incremental keys: 
+8-13-2024 14:48:50-debug: Init bundle share assets start..., progress: 9%
+8-13-2024 14:48:50-debug: Unregister BattleComponent
+8-13-2024 14:48:50-debug: Unregister HeroCardComponent
+8-13-2024 14:48:50-debug: [[Executor]] Module "pack:///chunks/db/db0d38c16cba760b922e87a3b681af6dfa625715.js" loaded.
+8-13-2024 14:48:50-debug: Init bundle share assets success..., progress: 9%
+8-13-2024 14:48:50-debug: handle json group in bundle internal
+8-13-2024 14:48:50-debug: handle json group in bundle Barrack
+8-13-2024 14:48:50-debug: handle json group in bundle resources
+8-13-2024 14:48:50-debug: handle json group in bundle Collision_Fx
+8-13-2024 14:48:50-debug: handle json group in bundle Fx
+8-13-2024 14:48:50-debug: handle json group in bundle HeroesIcon
+8-13-2024 14:48:50-debug: init image compress task 0 in bundle internal
+8-13-2024 14:48:50-debug: handle json group in bundle resources success
+8-13-2024 14:48:50-debug: init image compress task 0 in bundle resources
+8-13-2024 14:48:50-debug: handle json group in bundle Collision_Fx success
+8-13-2024 14:48:50-debug: init image compress task 0 in bundle Collision_Fx
+8-13-2024 14:48:50-debug: handle json group in bundle HeroesIcon success
+8-13-2024 14:48:50-debug: init image compress task 0 in bundle HeroesIcon
+8-13-2024 14:48:50-debug: handle json group in bundle Barrack success
+8-13-2024 14:48:50-debug: init image compress task 0 in bundle Barrack
+8-13-2024 14:48:50-debug: handle json group in bundle Fx success
+8-13-2024 14:48:50-debug: init image compress task 0 in bundle Fx
+8-13-2024 14:48:50-debug: handle json group in bundle main success
+8-13-2024 14:48:50-debug: init image compress task 0 in bundle main
+8-13-2024 14:48:50-debug: handle json group in bundle Characters success
+8-13-2024 14:48:50-debug: init image compress task 0 in bundle Characters
+8-13-2024 14:48:50-debug: handle json group in bundle main
+8-13-2024 14:48:50-debug: handle json group in bundle internal success
+8-13-2024 14:48:50-debug: handle json group in bundle Characters
+8-13-2024 14:48:50-debug: // ---- build task Query asset bundle ---- (52ms)
+8-13-2024 14:48:50-debug: [Build Memory track]: Query asset bundle start:189.58MB, end 193.29MB, increase: 3.71MB
+8-13-2024 14:48:50-debug: Query asset bundle start, progress: 14%
+8-13-2024 14:48:50-debug: // ---- build task Query asset bundle ----
+8-13-2024 14:48:50-debug: run build task Query asset bundle success in 52 ms√, progress: 14%
+8-13-2024 14:48:50-debug: // ---- build task Query asset bundle ---- (6ms)
+8-13-2024 14:48:50-debug: // ---- build task Build script ----
+8-13-2024 14:48:50-debug: [Build Memory track]: Query asset bundle start:193.30MB, end 193.61MB, increase: 323.04KB
+8-13-2024 14:48:50-debug: Build script start, progress: 19%
+8-13-2024 14:48:50-debug: run build task Query asset bundle success in 6 ms√, progress: 19%
+8-13-2024 14:48:52-debug: Generate systemJs..., progress: 19%
+8-13-2024 14:48:55-debug: Build project script start..., progress: 19%
+8-13-2024 14:48:55-debug: Build script in bundle start, progress: 19%
+8-13-2024 14:48:55-log: Run build task(build-script) in child, see: chrome://inspect/#devices
+8-13-2024 14:48:55-log: [build-script]enter sub process 44404, /Applications/Cocos/Creator/3.8.3/CocosCreator.app/Contents/Frameworks/CocosCreator Helper (Renderer).app/Contents/MacOS/CocosCreator Helper (Renderer),/Applications/Cocos/Creator/3.8.3/CocosCreator.app/Contents/Resources/app.asar/builtin/builder/static/sub-process-index
+8-13-2024 14:48:57-debug: excute-script over with build-script 2047ms
+8-13-2024 14:48:57-debug: Copy externalScripts success!
+8-13-2024 14:48:57-debug: Build script in bundle success, progress: 19%
+8-13-2024 14:48:57-debug: Build project script in (2230 ms) √, progress: 19%
+8-13-2024 14:48:57-debug: Build engine start..., progress: 19%
+8-13-2024 14:48:57-debug: Use cache engine: {link(/var/folders/_3/kzcs79157js42p60spn4jz_40000gn/T/CocosCreator/3.8.3/builder/engine/122eb8f2c65a96a89f0862d534883a84)}
+8-13-2024 14:48:57-debug: {"debug":false,"sourceMaps":false,"includeModules":["2d","animation","audio","base","dragon-bones","gfx-webgl","gfx-webgl2","intersection-2d","meshopt","particle-2d","physics-2d-box2d","profiler","spine","tiled-map","tween","ui","video","webview"],"engineVersion":"3.8.3","md5Map":[],"engineName":"cocos-js","platform":"HTML5","useCache":true,"isNative":false,"nativeCodeBundleMode":"both","wasmCompressionMode":false,"split":false,"assetURLFormat":"runtime-resolved","output":"/Users/artemfedorov/Documents/dev/rpg-mini/build/web-mobile/cocos-js","flags":{"DEBUG":false},"entry":"/Applications/Cocos/Creator/3.8.3/CocosCreator.app/Contents/Resources/resources/3d/engine"}
+8-13-2024 14:48:57-debug: Build engine in (31 ms) √, progress: 19%
+8-13-2024 14:48:57-debug: Copy plugin script ..., progress: 19%
+8-13-2024 14:48:57-debug: Generate import-map..., progress: 19%
+8-13-2024 14:48:57-debug: // ---- build task Build script ---- (6768ms)
+8-13-2024 14:48:57-debug: // ---- build task Build Assets ----
+8-13-2024 14:48:57-debug: Build bundles..., progress: 24%
+8-13-2024 14:48:57-debug: Pack Images start, progress: 24%
+8-13-2024 14:48:57-debug: run build task Build script success in 6 s√, progress: 24%
+8-13-2024 14:48:57-debug: [Build Memory track]: Build script start:193.78MB, end 235.43MB, increase: 41.65MB
+8-13-2024 14:48:57-debug: Build Assets start, progress: 24%
+8-13-2024 14:48:57-debug: builder:pack-auto-atlas-image (8ms)
+8-13-2024 14:48:57-debug: Num of all image compress task 0, really: 0, configTasks: 0
+8-13-2024 14:48:57-debug: No image need to compress
+8-13-2024 14:48:57-debug: Compress image success..., progress: 24%
+8-13-2024 14:48:57-debug: Output asset in bundles start, progress: 24%
+8-13-2024 14:48:57-debug: Handle all json groups in bundle internal
+8-13-2024 14:48:57-debug: handle json group
+8-13-2024 14:48:57-debug: Pack Images success, progress: 24%
+8-13-2024 14:48:57-debug: handle json group
+8-13-2024 14:48:57-debug: handle single json
+8-13-2024 14:48:57-debug: Handle all json groups in bundle resources
+8-13-2024 14:48:57-debug: handle json group
+8-13-2024 14:48:57-debug: sort compress task {}
+8-13-2024 14:48:57-debug: Handle all json groups in bundle main
+8-13-2024 14:48:57-debug: Compress image start..., progress: 24%
+8-13-2024 14:48:57-debug: Handle all json groups in bundle Barrack
+8-13-2024 14:48:57-debug: handle json group
+8-13-2024 14:48:57-debug: Handle all json groups in bundle Characters
+8-13-2024 14:48:57-debug: handle json group
+8-13-2024 14:48:57-debug: Handle all json groups in bundle Collision_Fx
+8-13-2024 14:48:57-debug: handle json group
+8-13-2024 14:48:57-debug: Handle all json groups in bundle Fx
+8-13-2024 14:48:57-debug: handle json group
+8-13-2024 14:48:57-debug: Handle all json groups in bundle HeroesIcon
+8-13-2024 14:48:57-debug: handle json group
+8-13-2024 14:48:57-debug: handle single json
+8-13-2024 14:48:57-debug: handle single json
+8-13-2024 14:48:57-debug: handle single json
+8-13-2024 14:48:57-debug: handle single json
+8-13-2024 14:48:57-debug: handle single json
+8-13-2024 14:48:57-debug: Json group(0c553e060) compile success，json number: 6
+8-13-2024 14:48:57-debug: Json group(0450e5f30) compile success，json number: 6
+8-13-2024 14:48:57-debug: Json group(0ca60d3e4) compile success，json number: 6
+8-13-2024 14:48:57-debug: handle single json
+8-13-2024 14:48:57-debug: Json group(0d52377f6) compile success，json number: 6
+8-13-2024 14:48:57-debug: Json group(0c09bba96) compile success，json number: 6
+8-13-2024 14:48:57-debug: handle single json
+8-13-2024 14:48:57-debug: Output asset in bundles success, progress: 24%
+8-13-2024 14:48:57-debug: Output asset in bundles start, progress: 24%
+8-13-2024 14:48:57-debug: compress config of bundle resources success
+8-13-2024 14:48:57-debug: compress config of bundle main...
+8-13-2024 14:48:57-debug: compress config of bundle main success
+8-13-2024 14:48:57-debug: compress config of bundle Barrack...
+8-13-2024 14:48:57-debug: compress config of bundle Barrack success
+8-13-2024 14:48:57-debug: compress config of bundle Characters...
+8-13-2024 14:48:57-debug: compress config of bundle Characters success
+8-13-2024 14:48:57-debug: compress config of bundle Collision_Fx...
+8-13-2024 14:48:57-debug: compress config of bundle Collision_Fx success
+8-13-2024 14:48:57-debug: compress config of bundle Fx...
+8-13-2024 14:48:57-debug: compress config of bundle Fx success
+8-13-2024 14:48:57-debug: compress config of bundle HeroesIcon...
+8-13-2024 14:48:57-debug: compress config of bundle HeroesIcon success
+8-13-2024 14:48:57-debug: output config of bundle internal
+8-13-2024 14:48:57-debug: compress config of bundle internal success
+8-13-2024 14:48:57-debug: compress config of bundle internal...
+8-13-2024 14:48:57-debug: output config of bundle resources success
+8-13-2024 14:48:57-debug: output config of bundle main
+8-13-2024 14:48:57-debug: output config of bundle main success
+8-13-2024 14:48:57-debug: output config of bundle Barrack
+8-13-2024 14:48:57-debug: output config of bundle Barrack success
+8-13-2024 14:48:57-debug: output config of bundle Characters
+8-13-2024 14:48:57-debug: output config of bundle Characters success
+8-13-2024 14:48:57-debug: output config of bundle Collision_Fx
+8-13-2024 14:48:57-debug: output config of bundle Collision_Fx success
+8-13-2024 14:48:57-debug: output config of bundle Fx
+8-13-2024 14:48:57-debug: output config of bundle Fx success
+8-13-2024 14:48:57-debug: output config of bundle HeroesIcon
+8-13-2024 14:48:57-debug: output config of bundle HeroesIcon success
+8-13-2024 14:48:57-debug: Output asset in bundles success, progress: 24%
+8-13-2024 14:48:57-debug: output config of bundle resources
+8-13-2024 14:48:57-debug: output config of bundle internal success
+8-13-2024 14:48:57-debug: compress config of bundle resources...
+8-13-2024 14:48:57-debug: // ---- build task Build Assets ---- (383ms)
+8-13-2024 14:48:57-debug: // ---- build task Sort some build options to settings.json ----
+8-13-2024 14:48:57-debug: [Build Memory track]: Build Assets start:235.44MB, end 239.88MB, increase: 4.43MB
+8-13-2024 14:48:57-debug: Sort some build options to settings.json start, progress: 29%
+8-13-2024 14:48:57-debug: run build task Build Assets success in 383 ms√, progress: 29%
+8-13-2024 14:48:57-debug: // ---- build task Sort some build options to settings.json ---- (6ms)
+8-13-2024 14:48:57-debug: Fill script data to settings start, progress: 31%
+8-13-2024 14:48:57-debug: // ---- build task Fill script data to settings ----
+8-13-2024 14:48:57-debug: [Build Memory track]: Sort some build options to settings.json start:239.94MB, end 240.00MB, increase: 53.30KB
+8-13-2024 14:48:57-debug: run build task Sort some build options to settings.json success in 6 ms√, progress: 31%
+8-13-2024 14:48:57-debug: // ---- build task Fill script data to settings ---- (5ms)
+8-13-2024 14:48:57-debug: run build task Fill script data to settings success in 5 ms√, progress: 32%
+8-13-2024 14:48:57-debug: [Build Memory track]: Fill script data to settings start:240.01MB, end 240.06MB, increase: 51.55KB
+8-13-2024 14:48:57-debug: Sort some build options to settings.json start, progress: 32%
+8-13-2024 14:48:57-debug: // ---- build task Sort some build options to settings.json ----
+8-13-2024 14:48:59-debug: // ---- build task Sort some build options to settings.json ---- (1260ms)
+8-13-2024 14:48:59-debug: // ---- build task web-mobile：onBeforeCompressSettings ----
+8-13-2024 14:48:59-debug: run build task Sort some build options to settings.json success in 1 s√, progress: 34%
+8-13-2024 14:48:59-debug: web-mobile:(onBeforeCompressSettings) start..., progress: 34%
+8-13-2024 14:48:59-debug: [Build Memory track]: Sort some build options to settings.json start:240.07MB, end 240.31MB, increase: 247.60KB
+8-13-2024 14:48:59-debug: // ---- build task web-mobile：onBeforeCompressSettings ---- (18ms)
+8-13-2024 14:48:59-debug: // ---- build task cocos-service：onBeforeCompressSettings ----
+8-13-2024 14:48:59-debug: cocos-service:(onBeforeCompressSettings) start..., progress: 36%
+8-13-2024 14:48:59-debug: web-mobile:(onBeforeCompressSettings) in 18 ms ✓, progress: 36%
+8-13-2024 14:48:59-debug: // ---- build task cocos-service：onBeforeCompressSettings ---- (387ms)
+8-13-2024 14:48:59-debug: cocos-service:(onBeforeCompressSettings) in 387 ms ✓, progress: 38%
+8-13-2024 14:48:59-debug: Sort build template start, progress: 38%
+8-13-2024 14:48:59-debug: // ---- build task Sort build template ----
+8-13-2024 14:48:59-debug: // ---- build task Sort build template ---- (28ms)
+8-13-2024 14:48:59-debug: // ---- build task cocos-service：onAfterCompressSettings ----
+8-13-2024 14:48:59-debug: [Build Memory track]: Sort build template start:240.47MB, end 238.45MB, increase: -2073.25KB
+8-13-2024 14:48:59-debug: cocos-service:(onAfterCompressSettings) start..., progress: 43%
+8-13-2024 14:48:59-debug: run build task Sort build template success in 28 ms√, progress: 43%
+8-13-2024 14:49:00-debug: // ---- build task cocos-service：onAfterCompressSettings ---- (478ms)
+8-13-2024 14:49:00-debug: web-mobile:(onBeforeCopyBuildTemplate) start..., progress: 45%
+8-13-2024 14:49:00-debug: cocos-service:(onAfterCompressSettings) in 478 ms ✓, progress: 45%
+8-13-2024 14:49:00-debug: // ---- build task web-mobile：onBeforeCopyBuildTemplate ----
+8-13-2024 14:49:00-debug: // ---- build task web-mobile：onBeforeCopyBuildTemplate ---- (18ms)
+8-13-2024 14:49:00-debug: web-mobile:(onBeforeCopyBuildTemplate) in 18 ms ✓, progress: 46%
+8-13-2024 14:49:00-debug: Add md5 suffix to assets start, progress: 46%
+8-13-2024 14:49:00-debug: // ---- build task Add md5 suffix to assets ----
+8-13-2024 14:49:00-debug: // ---- build task Add md5 suffix to assets ---- (4ms)
+8-13-2024 14:49:00-debug: // ---- build task cocos-service：onAfterBuild ----
+8-13-2024 14:49:00-debug: [Build Memory track]: Add md5 suffix to assets start:241.43MB, end 241.47MB, increase: 35.70KB
+8-13-2024 14:49:00-debug: cocos-service:(onAfterBuild) start..., progress: 56%
+8-13-2024 14:49:00-debug: run build task Add md5 suffix to assets success in 4 ms√, progress: 56%
+8-13-2024 14:49:00-debug: // ---- build task cocos-service：onAfterBuild ---- (353ms)
+8-13-2024 14:49:00-debug: cocos-service:(onAfterBuild) in 353 ms ✓, progress: 58%
+8-13-2024 14:49:00-debug: adsense-h5g-plugin:(onAfterBuild) start..., progress: 58%
+8-13-2024 14:49:00-debug: // ---- build task adsense-h5g-plugin：onAfterBuild ----
+8-13-2024 14:49:00-debug: // ---- build task adsense-h5g-plugin：onAfterBuild ---- (5ms)
+8-13-2024 14:49:00-debug: adsense-h5g-plugin:(onAfterBuild) in 5 ms ✓, progress: 60%
+8-13-2024 14:49:00-log: Asset DB is resume!
+8-13-2024 14:49:00-debug: builder:build-project-total (10891ms)
+8-13-2024 14:49:00-debug: build success in 10891!
+8-13-2024 14:49:00-debug: [Build Memory track]: builder:build-project-total start:190.15MB, end 241.57MB, increase: 51.42MB
+8-13-2024 14:49:00-debug: ================================ build Task (web-mobile) Finished in (10 s)ms ================================
+8-13-2024 14:49:00-debug: Stop record console. {file(/Users/artemfedorov/Documents/dev/rpg-mini/temp/builder/log/web-mobile8-13-2024 14-39.log)}
