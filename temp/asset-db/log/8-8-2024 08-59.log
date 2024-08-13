@@ -26633,3 +26633,9 @@
 8-13-2024 14:23:36-debug: [Build Memory track]: builder:build-project-total start:180.52MB, end 184.53MB, increase: 4.01MB
 8-13-2024 14:23:36-debug: ================================ build Task (web-mobile-001) Finished in (11 s)ms ================================
 8-13-2024 14:23:36-debug: Stop record console. {file(/Users/artemfedorov/Documents/dev/rpg-mini/temp/builder/log/web-mobile8-13-2024 14-23.log)}
+8-13-2024 14:24:36-debug: refresh db internal success
+8-13-2024 14:24:36-debug: refresh db assets success
+8-13-2024 14:24:36-debug: Run asset db hook engine-extends:afterRefresh ...
+8-13-2024 14:24:36-debug: Run asset db hook engine-extends:afterRefresh success!
+8-13-2024 14:24:36-debug: asset-db:refresh-all-database (74ms)
+8-13-2024 14:24:36-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
