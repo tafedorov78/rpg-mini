@@ -5430,3 +5430,24 @@ https://github.com/vuejs/vue-devtools
 Make sure to turn on production mode when deploying for production.
 See more tips at https://vuejs.org/guide/deployment.html
 8-13-2024 14:23:29 - error: Failed to load import map at project://: Error: EISDIR: illegal operation on a directory, read
+8-13-2024 14:34:02 - log: web-desktop Building template generated successfully!({link(/Users/artemfedorov/Documents/dev/rpg-mini/build-templates/web-desktop)})
+8-13-2024 14:34:26 - info: [Window] Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools
+8-13-2024 14:34:26 - info: [Window] You are running Vue in development mode.
+Make sure to turn on production mode when deploying for production.
+See more tips at https://vuejs.org/guide/deployment.html
+8-13-2024 14:35:14 - error: Failed to load import map at project://: Error: EISDIR: illegal operation on a directory, read
+8-13-2024 14:36:08 - log: Preview template generated successfully!( /Users/artemfedorov/Documents/dev/rpg-mini/preview-template/index.ejs )
+8-13-2024 14:36:21 - log: Use preview template {link(/Users/artemfedorov/Documents/dev/rpg-mini/preview-template/index.ejs)}
+8-13-2024 14:37:04 - log: [Scene] meshopt wasm decoder initialized
+8-13-2024 14:37:04 - log: [Scene] [bullet]:bullet wasm lib loaded.
+8-13-2024 14:37:04 - log: [Scene] [box2d]:box2d wasm lib loaded.
+8-13-2024 14:37:04 - log: [Scene] [PHYSICS]: using builtin.
+8-13-2024 14:37:04 - log: [Scene] Cocos Creator v3.8.3
+8-13-2024 14:37:04 - info: [Scene] Forward render pipeline initialized.
+8-13-2024 14:37:04 - log: [Scene] [PHYSICS2D]: switch from box2d-wasm to box2d.
+8-13-2024 14:37:13 - log: web-desktop Building template generated successfully!({link(/Users/artemfedorov/Documents/dev/rpg-mini/build-templates/web-desktop)})
+8-13-2024 14:37:19 - log: web-mobile Building template generated successfully!({link(/Users/artemfedorov/Documents/dev/rpg-mini/build-templates/web-mobile)})
+8-13-2024 14:38:02 - error: Failed to load import map at project://: Error: EISDIR: illegal operation on a directory, read
+8-13-2024 14:39:13 - error: Failed to load import map at project://: Error: EISDIR: illegal operation on a directory, read
+8-13-2024 14:39:41 - error: Failed to load import map at project://: Error: EISDIR: illegal operation on a directory, read
