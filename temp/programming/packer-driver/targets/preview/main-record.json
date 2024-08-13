@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 5759.693541049957,
+      "mTimestamp": 3930.2825419999717,
       "chunkId": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b",
       "imports": [
         {
@@ -409,11 +409,11 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 48796506.731333256,
+      "mTimestamp": 449728507.50708395,
       "chunkId": "6d8fd2b0177941b032ddc0733af48a561fb60657",
       "imports": [
         {
-          "value": "file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts",
+          "value": "file:///Applications/Cocos/Creator/3.8.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts",
           "resolved": "__unresolved_0",
           "loc": {
             "start": {
@@ -425,6 +425,328 @@
               "column": 155
             }
           }
+        },
+        {
+          "value": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/ConfigTypes.ts",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 7
+            },
+            "end": {
+              "line": 5,
+              "column": 88
+            }
+          }
+        },
+        {
+          "value": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/Facade.ts",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 7
+            },
+            "end": {
+              "line": 6,
+              "column": 83
+            }
+          }
+        },
+        {
+          "value": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/GameTypes.ts",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 7
+            },
+            "end": {
+              "line": 7,
+              "column": 86
+            }
+          }
+        },
+        {
+          "value": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/BattleComponent.ts",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 7
+            },
+            "end": {
+              "line": 8,
+              "column": 103
+            }
+          }
+        },
+        {
+          "value": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/HeroesTabComponent.ts",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 9,
+              "column": 7
+            },
+            "end": {
+              "line": 9,
+              "column": 106
+            }
+          }
+        },
+        {
+          "value": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/TeamsBuilderComponent.ts",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 10,
+              "column": 7
+            },
+            "end": {
+              "line": 10,
+              "column": 109
+            }
+          }
+        },
+        {
+          "value": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/poolFactory/PoolObjectComponent.ts",
+          "resolved": "__unresolved_7",
+          "loc": {
+            "start": {
+              "line": 11,
+              "column": 7
+            },
+            "end": {
+              "line": 11,
+              "column": 119
+            }
+          }
+        },
+        {
+          "value": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/eventManager/EventManager.ts",
+          "resolved": "__unresolved_8",
+          "loc": {
+            "start": {
+              "line": 12,
+              "column": 7
+            },
+            "end": {
+              "line": 12,
+              "column": 102
+            }
+          }
+        },
+        {
+          "value": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/gameEvents/GameEvents.ts",
+          "resolved": "__unresolved_9",
+          "loc": {
+            "start": {
+              "line": 13,
+              "column": 7
+            },
+            "end": {
+              "line": 13,
+              "column": 98
+            }
+          }
+        },
+        {
+          "value": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/scenes/GameScene.ts",
+          "resolved": "__unresolved_10",
+          "loc": {
+            "start": {
+              "line": 14,
+              "column": 7
+            },
+            "end": {
+              "line": 14,
+              "column": 93
+            }
+          }
+        },
+        {
+          "value": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/scenes/LoadingScene.ts",
+          "resolved": "__unresolved_11",
+          "loc": {
+            "start": {
+              "line": 15,
+              "column": 7
+            },
+            "end": {
+              "line": 15,
+              "column": 96
+            }
+          }
+        },
+        {
+          "value": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/scenes/MainMenuScene.ts",
+          "resolved": "__unresolved_12",
+          "loc": {
+            "start": {
+              "line": 16,
+              "column": 7
+            },
+            "end": {
+              "line": 16,
+              "column": 97
+            }
+          }
+        },
+        {
+          "value": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/scenes/SplashScene.ts",
+          "resolved": "__unresolved_13",
+          "loc": {
+            "start": {
+              "line": 17,
+              "column": 7
+            },
+            "end": {
+              "line": 17,
+              "column": 95
+            }
+          }
+        },
+        {
+          "value": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/state-machine/BaseState.ts",
+          "resolved": "__unresolved_14",
+          "loc": {
+            "start": {
+              "line": 18,
+              "column": 7
+            },
+            "end": {
+              "line": 18,
+              "column": 100
+            }
+          }
+        },
+        {
+          "value": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/state-machine/IStateMachine.ts",
+          "resolved": "__unresolved_15",
+          "loc": {
+            "start": {
+              "line": 19,
+              "column": 7
+            },
+            "end": {
+              "line": 19,
+              "column": 104
+            }
+          }
+        },
+        {
+          "value": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/state-machine/StateMachine.ts",
+          "resolved": "__unresolved_16",
+          "loc": {
+            "start": {
+              "line": 20,
+              "column": 7
+            },
+            "end": {
+              "line": 20,
+              "column": 103
+            }
+          }
+        },
+        {
+          "value": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/state-machine/StateMachineEvents.ts",
+          "resolved": "__unresolved_17",
+          "loc": {
+            "start": {
+              "line": 21,
+              "column": 7
+            },
+            "end": {
+              "line": 21,
+              "column": 109
+            }
+          }
+        },
+        {
+          "value": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/state-machine/events/EventManager.ts",
+          "resolved": "__unresolved_18",
+          "loc": {
+            "start": {
+              "line": 22,
+              "column": 7
+            },
+            "end": {
+              "line": 22,
+              "column": 110
+            }
+          }
+        },
+        {
+          "value": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/prefabs/ImageSwitcher/ImageSwitcher.ts",
+          "resolved": "__unresolved_19",
+          "loc": {
+            "start": {
+              "line": 23,
+              "column": 7
+            },
+            "end": {
+              "line": 23,
+              "column": 104
+            }
+          }
+        },
+        {
+          "value": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/prefabs/auth/scripts/AuthComponent.ts",
+          "resolved": "__unresolved_20",
+          "loc": {
+            "start": {
+              "line": 24,
+              "column": 7
+            },
+            "end": {
+              "line": 24,
+              "column": 103
+            }
+          }
+        },
+        {
+          "value": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/prefabs/bullet/scripts/BulletComponent.ts",
+          "resolved": "__unresolved_21",
+          "loc": {
+            "start": {
+              "line": 25,
+              "column": 7
+            },
+            "end": {
+              "line": 25,
+              "column": 107
+            }
+          }
+        },
+        {
+          "value": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/prefabs/heroCard/scripts/HeroCardComponent.ts",
+          "resolved": "__unresolved_22",
+          "loc": {
+            "start": {
+              "line": 26,
+              "column": 7
+            },
+            "end": {
+              "line": 26,
+              "column": 111
+            }
+          }
+        },
+        {
+          "value": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/prefabs/scripts/HeroComponent.ts",
+          "resolved": "__unresolved_23",
+          "loc": {
+            "start": {
+              "line": 27,
+              "column": 7
+            },
+            "end": {
+              "line": 27,
+              "column": 98
+            }
+          }
         }
       ],
       "type": "esm",
@@ -432,18 +754,179 @@
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts"
+            "url": "file:///Applications/Cocos/Creator/3.8.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/ConfigTypes.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/Facade.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/GameTypes.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/BattleComponent.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/HeroesTabComponent.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/TeamsBuilderComponent.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/poolFactory/PoolObjectComponent.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/eventManager/EventManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/gameEvents/GameEvents.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/scenes/GameScene.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/scenes/LoadingScene.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/scenes/MainMenuScene.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/scenes/SplashScene.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/state-machine/BaseState.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/state-machine/IStateMachine.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/state-machine/StateMachine.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/state-machine/StateMachineEvents.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/state-machine/events/EventManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/prefabs/ImageSwitcher/ImageSwitcher.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/prefabs/auth/scripts/AuthComponent.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/prefabs/bullet/scripts/BulletComponent.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/prefabs/heroCard/scripts/HeroCardComponent.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/prefabs/scripts/HeroComponent.ts"
           },
           "messages": []
         }
       ]
     },
-    "file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": {
+    "file:///Applications/Cocos/Creator/3.8.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": {
       "mTimestamp": {
-        "mtime": 1705012320000,
+        "mtime": 1715411209000,
         "uuid": "b2bd1fa7-8d7c-49c5-a158-df29a6d3a594"
       },
-      "chunkId": "47a1530b86f8dba752d13f037cd555503db82c41",
+      "chunkId": "31e3c2f26607ebb67e59edfae1b48b9458089fb9",
       "imports": [
         {
           "value": "cc"
@@ -490,13 +973,143 @@
         }
       ]
     },
-    "file:///Users/artemfedorov/Documents/dev/rpg-mini/NewProject/assets/Scripts/scenes/LoadingScene.ts": {
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/scenes/GameScene.ts": {
       "mTimestamp": {
-        "mtime": 1722996091016.0288,
+        "mtime": 1723505492616.473,
+        "uuid": "95bda204-fdf7-4b3d-924d-3dcd5b3384e8"
+      },
+      "chunkId": "4d5562698e441ffb1f9bcaca967797b791f781af",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 54
+            },
+            "end": {
+              "line": 1,
+              "column": 58
+            }
+          }
+        },
+        {
+          "value": "../components/TeamsBuilderComponent",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 38
+            },
+            "end": {
+              "line": 2,
+              "column": 75
+            }
+          }
+        },
+        {
+          "value": "../Facade",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 19
+            },
+            "end": {
+              "line": 3,
+              "column": 30
+            }
+          }
+        },
+        {
+          "value": "../eventManager/EventManager",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 25
+            },
+            "end": {
+              "line": 4,
+              "column": 55
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/TeamsBuilderComponent.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/Facade.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/eventManager/EventManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/scenes/LoadingScene.ts": {
+      "mTimestamp": {
+        "mtime": 1723571664967.871,
         "uuid": "a01f0b1c-156b-4ba0-8ff6-0c69e7ef7437"
       },
-      "chunkId": "062d348b19dafb3fb72e8e19196df99b44d50581",
+      "chunkId": "10a955e015414ccf8ead24087ac20d0823e446f0",
       "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
         {
           "value": "cc"
         },
@@ -508,63 +1121,25 @@
           "loc": {
             "start": {
               "line": 1,
-              "column": 48
+              "column": 84
             },
             "end": {
               "line": 1,
-              "column": 52
+              "column": 88
             }
           }
-        }
-      ],
-      "type": "esm",
-      "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
         },
         {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        }
-      ]
-    },
-    "file:///Users/artemfedorov/Documents/dev/rpg-mini/NewProject/assets/Scripts/scenes/LoadingScene-001.ts": {
-      "mTimestamp": {
-        "mtime": 1722995281182.6196,
-        "uuid": "8d52a9f1-f50b-401e-8f75-134da717401f"
-      },
-      "chunkId": "84de111889b3f7371061d6232ac68458c06246e3",
-      "imports": [
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc",
+          "value": "../Facade",
+          "resolved": "__unresolved_1",
           "loc": {
             "start": {
-              "line": 1,
-              "column": 48
+              "line": 2,
+              "column": 19
             },
             "end": {
-              "line": 1,
-              "column": 52
+              "line": 2,
+              "column": 30
             }
           }
         }
@@ -574,7 +1149,7 @@
         {
           "resolved": {
             "type": "module",
-            "url": "cce:/internal/x/cc"
+            "url": "cce:/internal/code-quality/cr.mjs"
           },
           "messages": []
         },
@@ -589,174 +1164,36 @@
           "resolved": {
             "type": "module",
             "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/Facade.ts"
           },
           "messages": []
         }
       ]
     },
-    "file:///Users/artemfedorov/Documents/dev/rpg-mini/NewProject/assets/Scripts/scenes/Scene.ts": {
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/scenes/MainMenuScene.ts": {
       "mTimestamp": {
-        "mtime": 1722995281182.6196,
-        "uuid": "8d52a9f1-f50b-401e-8f75-134da717401f"
-      },
-      "chunkId": "c4e52c4642d1b2c6b774e10c68a9c1869703b247",
-      "imports": [
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc",
-          "loc": {
-            "start": {
-              "line": 1,
-              "column": 48
-            },
-            "end": {
-              "line": 1,
-              "column": 52
-            }
-          }
-        }
-      ],
-      "type": "esm",
-      "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        }
-      ]
-    },
-    "file:///Users/artemfedorov/Documents/dev/rpg-mini/NewProject/assets/Scripts/scenes/SplashScene.ts": {
-      "mTimestamp": {
-        "mtime": 1722995308439.8037,
-        "uuid": "8d52a9f1-f50b-401e-8f75-134da717401f"
-      },
-      "chunkId": "3166bb766800e1aa20d0a1ee18993910bb806296",
-      "imports": [
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc",
-          "loc": {
-            "start": {
-              "line": 1,
-              "column": 48
-            },
-            "end": {
-              "line": 1,
-              "column": 52
-            }
-          }
-        }
-      ],
-      "type": "esm",
-      "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        }
-      ]
-    },
-    "file:///Users/artemfedorov/Documents/dev/rpg-mini/NewProject/assets/Scripts/scenes/SplashScene-001.ts": {
-      "mTimestamp": {
-        "mtime": 1722995342612.1865,
-        "uuid": "95bda204-fdf7-4b3d-924d-3dcd5b3384e8"
-      },
-      "chunkId": "10cc9cbc4f6c5120d03a7dc93dc715bf297bebec",
-      "imports": [
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc",
-          "loc": {
-            "start": {
-              "line": 1,
-              "column": 48
-            },
-            "end": {
-              "line": 1,
-              "column": 52
-            }
-          }
-        }
-      ],
-      "type": "esm",
-      "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        }
-      ]
-    },
-    "file:///Users/artemfedorov/Documents/dev/rpg-mini/NewProject/assets/Scripts/scenes/MainMenuScene.ts": {
-      "mTimestamp": {
-        "mtime": 1722996214051.5234,
+        "mtime": 1723555673526.2976,
         "uuid": "7924076f-54a7-4045-9fa0-53988178828a"
       },
-      "chunkId": "59e7a01739c7256725c549e1179ea02db8c0fe9b",
+      "chunkId": "0f39d870a8bdc819c446eaacb2fccd004d7cf2e5",
       "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
         {
           "value": "cc"
         },
@@ -768,322 +1205,38 @@
           "loc": {
             "start": {
               "line": 1,
-              "column": 56
+              "column": 73
             },
             "end": {
               "line": 1,
-              "column": 60
+              "column": 77
             }
           }
-        }
-      ],
-      "type": "esm",
-      "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
         },
         {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        }
-      ]
-    },
-    "file:///Users/artemfedorov/Documents/dev/rpg-mini/NewProject/assets/Scripts/scenes/GameScene.ts": {
-      "mTimestamp": {
-        "mtime": 1722995366776.8835,
-        "uuid": "95bda204-fdf7-4b3d-924d-3dcd5b3384e8"
-      },
-      "chunkId": "77e38c49b3474c6fb9573f7ea460858db018b74c",
-      "imports": [
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc",
+          "value": "../Facade",
+          "resolved": "__unresolved_1",
           "loc": {
             "start": {
-              "line": 1,
-              "column": 48
+              "line": 2,
+              "column": 19
             },
             "end": {
-              "line": 1,
-              "column": 52
+              "line": 2,
+              "column": 30
             }
           }
-        }
-      ],
-      "type": "esm",
-      "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
         },
         {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        }
-      ]
-    },
-    "file:///Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/Scripts/scenes/GameScene.ts": {
-      "mTimestamp": {
-        "mtime": 1722995366776.8835,
-        "uuid": "95bda204-fdf7-4b3d-924d-3dcd5b3384e8"
-      },
-      "chunkId": "0386325856888b3c4cd77b8671374c7677efa4f2",
-      "imports": [
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc",
+          "value": "../components/HeroesTabComponent",
+          "resolved": "__unresolved_2",
           "loc": {
             "start": {
-              "line": 1,
-              "column": 48
+              "line": 3,
+              "column": 35
             },
             "end": {
-              "line": 1,
-              "column": 52
-            }
-          }
-        }
-      ],
-      "type": "esm",
-      "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        }
-      ]
-    },
-    "file:///Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/Scripts/scenes/LoadingScene.ts": {
-      "mTimestamp": {
-        "mtime": 1722996091016.0288,
-        "uuid": "a01f0b1c-156b-4ba0-8ff6-0c69e7ef7437"
-      },
-      "chunkId": "f7c397cfc0cc51545b17f54ecf2debeea54aae7e",
-      "imports": [
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc",
-          "loc": {
-            "start": {
-              "line": 1,
-              "column": 48
-            },
-            "end": {
-              "line": 1,
-              "column": 52
-            }
-          }
-        }
-      ],
-      "type": "esm",
-      "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        }
-      ]
-    },
-    "file:///Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/Scripts/scenes/MainMenuScene.ts": {
-      "mTimestamp": {
-        "mtime": 1722996214051.5234,
-        "uuid": "7924076f-54a7-4045-9fa0-53988178828a"
-      },
-      "chunkId": "d8d03fe078aa53b3493173d5b3c8bf826bf58dfe",
-      "imports": [
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc",
-          "loc": {
-            "start": {
-              "line": 1,
-              "column": 56
-            },
-            "end": {
-              "line": 1,
-              "column": 60
-            }
-          }
-        }
-      ],
-      "type": "esm",
-      "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        }
-      ]
-    },
-    "file:///Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/Scripts/scenes/SplashScene.ts": {
-      "mTimestamp": {
-        "mtime": 1722995308439.8037,
-        "uuid": "8d52a9f1-f50b-401e-8f75-134da717401f"
-      },
-      "chunkId": "321e33bb40acdc6d14d3d88c39f6ccce1a90fd7f",
-      "imports": [
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc",
-          "loc": {
-            "start": {
-              "line": 1,
-              "column": 48
-            },
-            "end": {
-              "line": 1,
-              "column": 52
-            }
-          }
-        }
-      ],
-      "type": "esm",
-      "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        }
-      ]
-    },
-    "file:///Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/Scripts/customComponents/ImageSwitcher.ts": {
-      "mTimestamp": {
-        "mtime": 1723001572578.3225,
-        "uuid": "a82d9cef-da18-4549-b42c-8b84510fb18c"
-      },
-      "chunkId": "e87da22c77d985e1235881e9d0b179045c500f91",
-      "imports": [
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc",
-          "loc": {
-            "start": {
-              "line": 1,
-              "column": 65
-            },
-            "end": {
-              "line": 1,
+              "line": 3,
               "column": 69
             }
           }
@@ -1094,6 +1247,79 @@
         {
           "resolved": {
             "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/Facade.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/HeroesTabComponent.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/scenes/SplashScene.ts": {
+      "mTimestamp": {
+        "mtime": 1723571554132.8027,
+        "uuid": "8d52a9f1-f50b-401e-8f75-134da717401f"
+      },
+      "chunkId": "01f87aa1846637fae3144b4a7ea197c0d9a24c97",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 48
+            },
+            "end": {
+              "line": 1,
+              "column": 52
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
             "url": "cce:/internal/x/cc"
           },
           "messages": []
@@ -1114,12 +1340,12 @@
         }
       ]
     },
-    "file:///Users/artemfedorov/Documents/dev/rpg-mini/RPG-mini/assets/ui_prefabs/components/ImageSwitcher/ImageSwitcher.ts": {
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/ui_prefabs/components/ImageSwitcher/ImageSwitcher.ts": {
       "mTimestamp": {
-        "mtime": 1723003330783.8833,
+        "mtime": 1723070679366.7646,
         "uuid": "a82d9cef-da18-4549-b42c-8b84510fb18c"
       },
-      "chunkId": "7aa69519d9516c828d2651322746db6d5d70ae0a",
+      "chunkId": "aa4bf434bd8ee5caebbb312e34dc3e3c720ceeb7",
       "imports": [
         {
           "value": "cc"
@@ -1137,6 +1363,4139 @@
             "end": {
               "line": 1,
               "column": 87
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/prefabs/scripts/HeroComponent.ts": {
+      "mTimestamp": {
+        "mtime": 1723555631360.507,
+        "uuid": "e84c372e-7f61-49a4-93b3-aa08f213068c"
+      },
+      "chunkId": "9c1ac6ae1b615a0ea3516444413c58a3e41633e0",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 99
+            },
+            "end": {
+              "line": 1,
+              "column": 103
+            }
+          }
+        },
+        {
+          "value": "../../Scripts/eventManager/EventManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 25
+            },
+            "end": {
+              "line": 5,
+              "column": 66
+            }
+          }
+        },
+        {
+          "value": "../bullet/scripts/BulletComponent",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 32
+            },
+            "end": {
+              "line": 6,
+              "column": 67
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/eventManager/EventManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/prefabs/bullet/scripts/BulletComponent.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "cce:/internal/code-quality/cr.mjs": {
+      "mTimestamp": 1723121940325,
+      "chunkId": "6a5019a719a9014c047e67aa1cf34453ab8392ce",
+      "imports": [],
+      "type": "esm",
+      "resolutions": []
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/Facade.ts": {
+      "mTimestamp": {
+        "mtime": 1723321247819.5127,
+        "uuid": "3541dc23-cac4-4c0a-a00d-e6f7641396c2"
+      },
+      "chunkId": "ac29c888d2b3c018f09e63e09d7afe3d09c5c988",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/managers/BattleManager.ts": {
+      "mTimestamp": {
+        "mtime": 1723220100001.1492,
+        "uuid": "e6820e08-b81b-425a-973d-140369d7a81f"
+      },
+      "chunkId": "e38fb60ad3a3447bce792ce0caead5b089b0e21a",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/BattleManager.ts": {
+      "mTimestamp": {
+        "mtime": 1723220100001.1492,
+        "uuid": "e6820e08-b81b-425a-973d-140369d7a81f"
+      },
+      "chunkId": "c59e196cd0cbcda6e4966d1c1cc0fd3feddc5836",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/BattleComponent.ts": {
+      "mTimestamp": {
+        "mtime": 1723509244396.1504,
+        "uuid": "e6820e08-b81b-425a-973d-140369d7a81f"
+      },
+      "chunkId": "ee1d442b0ea0f99bddd801b4ad63410d5e150a93",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 38
+            },
+            "end": {
+              "line": 1,
+              "column": 42
+            }
+          }
+        },
+        {
+          "value": "../eventManager/EventManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 25
+            },
+            "end": {
+              "line": 3,
+              "column": 55
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/eventManager/EventManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/HeroesTabComponent.ts": {
+      "mTimestamp": {
+        "mtime": 1723331975715.0981,
+        "uuid": "9944aedc-0b62-4243-a800-b4710d26ba37"
+      },
+      "chunkId": "4b92c57f6beb6351cf30108b3148ea8aa2523f36",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 104
+            },
+            "end": {
+              "line": 1,
+              "column": 108
+            }
+          }
+        },
+        {
+          "value": "../Facade",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 19
+            },
+            "end": {
+              "line": 2,
+              "column": 30
+            }
+          }
+        },
+        {
+          "value": "../../prefabs/heroCard/scripts/HeroCardComponent",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 34
+            },
+            "end": {
+              "line": 3,
+              "column": 84
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/Facade.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/prefabs/heroCard/scripts/HeroCardComponent.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/prefabs/heroCard/scripts/HeroCardComponent.ts": {
+      "mTimestamp": {
+        "mtime": 1723327800836.558,
+        "uuid": "7790d43a-08fa-4b16-8695-82e22b88c8e4"
+      },
+      "chunkId": "566a862660f4bda301a34c60526d63ca3f83a237",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 80
+            },
+            "end": {
+              "line": 1,
+              "column": 84
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/Types.ts": {
+      "mTimestamp": {
+        "mtime": 1723320404297.3245,
+        "uuid": "af23e43b-a293-4abc-a277-f58c222b9b51"
+      },
+      "chunkId": "ed750da89ca6bb0c4212055880cc67bdd5412f26",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/ConfigTypes.ts": {
+      "mTimestamp": {
+        "mtime": 1723320957280.5767,
+        "uuid": "f49f1007-c887-4526-9a63-5d46db56fc65"
+      },
+      "chunkId": "43bc543f774c4a99beed58f9b99e51eb37f3cd2b",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/GameTypes.ts": {
+      "mTimestamp": {
+        "mtime": 1723321159274.998,
+        "uuid": "caa7597f-c879-40a6-826c-be0d4d1d6730"
+      },
+      "chunkId": "93d422f297ce421b813108716d551ebfda2e1ff0",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/TeamsBuilderComponent.ts": {
+      "mTimestamp": {
+        "mtime": 1723563655585.4875,
+        "uuid": "e56f1360-85b6-4c4b-95e5-08d066bd710f"
+      },
+      "chunkId": "918d1937e878890ea34304f711a5a2e7c4ba7612",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 75
+            },
+            "end": {
+              "line": 1,
+              "column": 79
+            }
+          }
+        },
+        {
+          "value": "../../prefabs/scripts/HeroComponent",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 30
+            },
+            "end": {
+              "line": 2,
+              "column": 67
+            }
+          }
+        },
+        {
+          "value": "../eventManager/EventManager",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 25
+            },
+            "end": {
+              "line": 5,
+              "column": 55
+            }
+          }
+        },
+        {
+          "value": "./BattleComponent",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 32
+            },
+            "end": {
+              "line": 6,
+              "column": 51
+            }
+          }
+        },
+        {
+          "value": "./poolFactory/PoolObjectComponent",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 36
+            },
+            "end": {
+              "line": 7,
+              "column": 71
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/prefabs/scripts/HeroComponent.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/eventManager/EventManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/BattleComponent.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/poolFactory/PoolObjectComponent.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/eventManager/EventManager.ts": {
+      "mTimestamp": {
+        "mtime": 1723328756853.7263,
+        "uuid": "99aabd07-bcba-4e16-86c0-ea6b8356184d"
+      },
+      "chunkId": "2944b6005af60a5d98ace1312dbf48a85d7a9155",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/state-machine/BaseState.ts": {
+      "mTimestamp": {
+        "mtime": 1723329945279.573,
+        "uuid": "a0b63965-d34c-47bb-8df2-9e8640a87a26"
+      },
+      "chunkId": "16a31ff9c1943f1ce1e28af0881cf4c5f8b48d96",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/state-machine/IStateMachine.ts": {
+      "mTimestamp": {
+        "mtime": 1723329945281.5212,
+        "uuid": "d90a6e80-0555-4a16-b69e-eae7485567ab"
+      },
+      "chunkId": "b49538a528a9e92daf72f9ea5b76e799f5a177df",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/state-machine/StateMachine.ts": {
+      "mTimestamp": {
+        "mtime": 1723329945283.0078,
+        "uuid": "558bc131-0d7c-467b-bc82-0400d5b554fd"
+      },
+      "chunkId": "2369e8c1c84ac7af95060143548bf4441aeda9fd",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "./events/EventManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 25
+            },
+            "end": {
+              "line": 3,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "./StateMachineEvents",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 35
+            },
+            "end": {
+              "line": 4,
+              "column": 57
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/state-machine/events/EventManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/state-machine/StateMachineEvents.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/state-machine/events/EventManager.ts": {
+      "mTimestamp": {
+        "mtime": 1723329945285.974,
+        "uuid": "4af165a8-454f-4da6-a4c9-5ccde03903d2"
+      },
+      "chunkId": "433e03e4504ba52b919b4d68a1acb99327486745",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/state-machine/StateMachineEvents.ts": {
+      "mTimestamp": {
+        "mtime": 1723329945284.3826,
+        "uuid": "56b86136-0b93-4ca9-8887-86b05e079973"
+      },
+      "chunkId": "5b9fc0aad823670c7031a8bca03be4b944f19e7e",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/states/GameStateMachine.ts": {
+      "mTimestamp": {
+        "mtime": 1723330051301.0435,
+        "uuid": "c350efdb-14ea-4c70-b2f5-a928fcde6693"
+      },
+      "chunkId": "0f82cf48145ff7b1cf2d8603711fdb17ccb76272",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "scripts/libs/state-machine/StateMachine",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 29
+            },
+            "end": {
+              "line": 2,
+              "column": 70
+            }
+          }
+        },
+        {
+          "value": "./states/ActionState",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 28
+            },
+            "end": {
+              "line": 3,
+              "column": 50
+            }
+          }
+        },
+        {
+          "value": "./states/PlanningState",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 29
+            },
+            "end": {
+              "line": 4,
+              "column": 53
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Import map null entry touched"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/states/states/ActionState.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/states/states/PlanningState.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/states/states/ActionState.ts": {
+      "mTimestamp": {
+        "mtime": 1723330051302.2844,
+        "uuid": "4e6ca3a0-8efa-4edf-b58e-49b55b4186e1"
+      },
+      "chunkId": "b44f8afb656e7d37106932a89a83630004dd51cc",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "scripts/libs/state-machine/BaseState",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 26
+            },
+            "end": {
+              "line": 1,
+              "column": 64
+            }
+          }
+        },
+        {
+          "value": "../StatesEnum",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 27
+            },
+            "end": {
+              "line": 2,
+              "column": 42
+            }
+          }
+        },
+        {
+          "value": "scripts/gameEvents/GameEvents",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 27
+            },
+            "end": {
+              "line": 3,
+              "column": 58
+            }
+          }
+        },
+        {
+          "value": "scripts/libs/state-machine/events/EventManager",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 25
+            },
+            "end": {
+              "line": 4,
+              "column": 73
+            }
+          }
+        },
+        {
+          "value": "scripts/settings/GameSettings",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 25
+            },
+            "end": {
+              "line": 5,
+              "column": 56
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Import map null entry touched"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/states/StatesEnum.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Import map null entry touched"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Import map null entry touched"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Import map null entry touched"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/states/StatesEnum.ts": {
+      "mTimestamp": {
+        "mtime": 1723330051301.0479,
+        "uuid": "007e116f-d913-4ea8-b2ac-edcb296cc8d8"
+      },
+      "chunkId": "94d3e2fbd83607f60d45ea777153c6396ad0b7c2",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/states/states/PlanningState.ts": {
+      "mTimestamp": {
+        "mtime": 1723330051301.627,
+        "uuid": "38f8ffc7-63a7-42de-8de0-34d8d8eb13a2"
+      },
+      "chunkId": "6d2cab0e073e079322743474a3b710fc0ea49701",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "scripts/libs/state-machine/BaseState",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 26
+            },
+            "end": {
+              "line": 1,
+              "column": 64
+            }
+          }
+        },
+        {
+          "value": "../StatesEnum",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 27
+            },
+            "end": {
+              "line": 2,
+              "column": 42
+            }
+          }
+        },
+        {
+          "value": "scripts/libs/state-machine/events/EventManager",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 25
+            },
+            "end": {
+              "line": 3,
+              "column": 73
+            }
+          }
+        },
+        {
+          "value": "scripts/gameEvents/GameEvents",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 27
+            },
+            "end": {
+              "line": 4,
+              "column": 58
+            }
+          }
+        },
+        {
+          "value": "scripts/settings/GameSettings",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 25
+            },
+            "end": {
+              "line": 5,
+              "column": 56
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Import map null entry touched"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/states/StatesEnum.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Import map null entry touched"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Import map null entry touched"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Import map null entry touched"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/statesMachine/GameStateMachine.ts": {
+      "mTimestamp": {
+        "mtime": 1723330051301.0435,
+        "uuid": "c350efdb-14ea-4c70-b2f5-a928fcde6693"
+      },
+      "chunkId": "448ef7c0fdb32f86413e58301fa8dc5ab2bc6100",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "scripts/libs/state-machine/StateMachine",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 29
+            },
+            "end": {
+              "line": 2,
+              "column": 70
+            }
+          }
+        },
+        {
+          "value": "./states/ActionState",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 28
+            },
+            "end": {
+              "line": 3,
+              "column": 50
+            }
+          }
+        },
+        {
+          "value": "./states/PlanningState",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 29
+            },
+            "end": {
+              "line": 4,
+              "column": 53
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Import map null entry touched"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/statesMachine/states/ActionState.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/statesMachine/states/PlanningState.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/statesMachine/states/ActionState.ts": {
+      "mTimestamp": {
+        "mtime": 1723330051302.2844,
+        "uuid": "4e6ca3a0-8efa-4edf-b58e-49b55b4186e1"
+      },
+      "chunkId": "b8a76b2afa07a1b9f45f23b815cfa0e89f605cca",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "scripts/libs/state-machine/BaseState",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 26
+            },
+            "end": {
+              "line": 1,
+              "column": 64
+            }
+          }
+        },
+        {
+          "value": "../StatesEnum",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 27
+            },
+            "end": {
+              "line": 2,
+              "column": 42
+            }
+          }
+        },
+        {
+          "value": "scripts/gameEvents/GameEvents",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 27
+            },
+            "end": {
+              "line": 3,
+              "column": 58
+            }
+          }
+        },
+        {
+          "value": "scripts/libs/state-machine/events/EventManager",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 25
+            },
+            "end": {
+              "line": 4,
+              "column": 73
+            }
+          }
+        },
+        {
+          "value": "scripts/settings/GameSettings",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 25
+            },
+            "end": {
+              "line": 5,
+              "column": 56
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Import map null entry touched"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/statesMachine/StatesEnum.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Import map null entry touched"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Import map null entry touched"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Import map null entry touched"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/statesMachine/StatesEnum.ts": {
+      "mTimestamp": {
+        "mtime": 1723330051301.0479,
+        "uuid": "007e116f-d913-4ea8-b2ac-edcb296cc8d8"
+      },
+      "chunkId": "570a9792c220cbfa5e7bde1709c9f7354f9280e1",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/statesMachine/states/PlanningState.ts": {
+      "mTimestamp": {
+        "mtime": 1723330051301.627,
+        "uuid": "38f8ffc7-63a7-42de-8de0-34d8d8eb13a2"
+      },
+      "chunkId": "cc7f863bb29a70bea277d9d15be202beb8048c43",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "scripts/libs/state-machine/BaseState",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 26
+            },
+            "end": {
+              "line": 1,
+              "column": 64
+            }
+          }
+        },
+        {
+          "value": "../StatesEnum",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 27
+            },
+            "end": {
+              "line": 2,
+              "column": 42
+            }
+          }
+        },
+        {
+          "value": "scripts/libs/state-machine/events/EventManager",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 25
+            },
+            "end": {
+              "line": 3,
+              "column": 73
+            }
+          }
+        },
+        {
+          "value": "scripts/gameEvents/GameEvents",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 27
+            },
+            "end": {
+              "line": 4,
+              "column": 58
+            }
+          }
+        },
+        {
+          "value": "scripts/settings/GameSettings",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 25
+            },
+            "end": {
+              "line": 5,
+              "column": 56
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Import map null entry touched"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/statesMachine/StatesEnum.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Import map null entry touched"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Import map null entry touched"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Import map null entry touched"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateComponent/GameStateMachine.ts": {
+      "mTimestamp": {
+        "mtime": 1723330051301.0435,
+        "uuid": "c350efdb-14ea-4c70-b2f5-a928fcde6693"
+      },
+      "chunkId": "ab5a7872a9d580d5a3c69d95422b46d1122cb9ed",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "scripts/libs/state-machine/StateMachine",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 29
+            },
+            "end": {
+              "line": 2,
+              "column": 70
+            }
+          }
+        },
+        {
+          "value": "./states/ActionState",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 28
+            },
+            "end": {
+              "line": 3,
+              "column": 50
+            }
+          }
+        },
+        {
+          "value": "./states/PlanningState",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 29
+            },
+            "end": {
+              "line": 4,
+              "column": 53
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Import map null entry touched"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateComponent/states/ActionState.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateComponent/states/PlanningState.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateComponent/states/ActionState.ts": {
+      "erroneous": true,
+      "mTimestamp": 0,
+      "chunkId": "bbc03e1e0444c82c01805a5b3db2595667f9135b"
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateComponent/StatesEnum.ts": {
+      "mTimestamp": {
+        "mtime": 1723330162204.4514,
+        "uuid": "007e116f-d913-4ea8-b2ac-edcb296cc8d8"
+      },
+      "chunkId": "0d465925c021923f10805961c1954c3b98eae067",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateComponent/states/PlanningState.ts": {
+      "erroneous": true,
+      "mTimestamp": 0,
+      "chunkId": "98f18af50a312f01884527eaf765d79c154e4f52"
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateComponent/GameStateComponent.ts": {
+      "mTimestamp": {
+        "mtime": 1723330965698.1917,
+        "uuid": "c350efdb-14ea-4c70-b2f5-a928fcde6693"
+      },
+      "chunkId": "0b9307701a13d3425739d966518d012f7e3fd978",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "../../state-machine/StateMachine",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 29
+            },
+            "end": {
+              "line": 2,
+              "column": 63
+            }
+          }
+        },
+        {
+          "value": "./states/BattleState",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 28
+            },
+            "end": {
+              "line": 3,
+              "column": 50
+            }
+          }
+        },
+        {
+          "value": "./states/BuildState",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 27
+            },
+            "end": {
+              "line": 4,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "./states/FinishState",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 28
+            },
+            "end": {
+              "line": 5,
+              "column": 50
+            }
+          }
+        },
+        {
+          "value": "./states/PositioningState",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 33
+            },
+            "end": {
+              "line": 6,
+              "column": 60
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/state-machine/StateMachine.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateComponent/states/BattleState.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateComponent/states/BuildState.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateComponent/states/FinishState.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateComponent/states/PositioningState.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateComponent/states/BuildState.ts": {
+      "mTimestamp": {
+        "mtime": 1723331296294.02,
+        "uuid": "c71e5063-32e5-4c71-8e10-0ce3312cb3d9"
+      },
+      "chunkId": "6afb0acfb7bc52ada203b713409340b410d212a9",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "../../../eventManager/EventManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 25
+            },
+            "end": {
+              "line": 1,
+              "column": 61
+            }
+          }
+        },
+        {
+          "value": "../../../gameEvents/GameEvents",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 27
+            },
+            "end": {
+              "line": 2,
+              "column": 59
+            }
+          }
+        },
+        {
+          "value": "../../../state-machine/BaseState",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 26
+            },
+            "end": {
+              "line": 3,
+              "column": 60
+            }
+          }
+        },
+        {
+          "value": "../../gameStateMachine/StatesEnum",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 27
+            },
+            "end": {
+              "line": 4,
+              "column": 62
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/eventManager/EventManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/gameEvents/GameEvents.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/state-machine/BaseState.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateMachine/StatesEnum.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateComponent/states/State.ts": {
+      "mTimestamp": {
+        "mtime": 1723330051301.627,
+        "uuid": "38f8ffc7-63a7-42de-8de0-34d8d8eb13a2"
+      },
+      "chunkId": "2ac11eb17362a14a425351558b279f769e8975b2",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "scripts/libs/state-machine/BaseState",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 26
+            },
+            "end": {
+              "line": 1,
+              "column": 64
+            }
+          }
+        },
+        {
+          "value": "../StatesEnum",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 27
+            },
+            "end": {
+              "line": 2,
+              "column": 42
+            }
+          }
+        },
+        {
+          "value": "scripts/libs/state-machine/events/EventManager",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 25
+            },
+            "end": {
+              "line": 3,
+              "column": 73
+            }
+          }
+        },
+        {
+          "value": "scripts/gameEvents/GameEvents",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 27
+            },
+            "end": {
+              "line": 4,
+              "column": 58
+            }
+          }
+        },
+        {
+          "value": "scripts/settings/GameSettings",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 25
+            },
+            "end": {
+              "line": 5,
+              "column": 56
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Import map null entry touched"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateComponent/StatesEnum.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Import map null entry touched"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Import map null entry touched"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Import map null entry touched"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateComponent/states/PositioningState.ts": {
+      "mTimestamp": {
+        "mtime": 1723331285719.0842,
+        "uuid": "c30b8372-86f8-4b9d-afa3-c1b8c4bb6c27"
+      },
+      "chunkId": "75147714357988982eaab2a6998b2be774719f6a",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "../../../eventManager/EventManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 25
+            },
+            "end": {
+              "line": 1,
+              "column": 61
+            }
+          }
+        },
+        {
+          "value": "../../../gameEvents/GameEvents",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 27
+            },
+            "end": {
+              "line": 2,
+              "column": 59
+            }
+          }
+        },
+        {
+          "value": "../../../state-machine/BaseState",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 26
+            },
+            "end": {
+              "line": 3,
+              "column": 60
+            }
+          }
+        },
+        {
+          "value": "../../gameStateMachine/StatesEnum",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 27
+            },
+            "end": {
+              "line": 4,
+              "column": 62
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/eventManager/EventManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/gameEvents/GameEvents.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/state-machine/BaseState.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateMachine/StatesEnum.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateComponent/states/PositioningState-001.ts": {
+      "mTimestamp": {
+        "mtime": 1723330222774.173,
+        "uuid": "36fd6903-2c5c-4dd2-9041-b4587a38dd75"
+      },
+      "chunkId": "88366665067a523decdb3332a370b020c27d8e8e",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "scripts/libs/state-machine/BaseState",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 26
+            },
+            "end": {
+              "line": 1,
+              "column": 64
+            }
+          }
+        },
+        {
+          "value": "../StatesEnum",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 27
+            },
+            "end": {
+              "line": 2,
+              "column": 42
+            }
+          }
+        },
+        {
+          "value": "scripts/libs/state-machine/events/EventManager",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 25
+            },
+            "end": {
+              "line": 3,
+              "column": 73
+            }
+          }
+        },
+        {
+          "value": "scripts/gameEvents/GameEvents",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 27
+            },
+            "end": {
+              "line": 4,
+              "column": 58
+            }
+          }
+        },
+        {
+          "value": "scripts/settings/GameSettings",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 25
+            },
+            "end": {
+              "line": 5,
+              "column": 56
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Import map null entry touched"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateComponent/StatesEnum.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Import map null entry touched"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Import map null entry touched"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Import map null entry touched"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateComponent/states/BattleState.ts": {
+      "mTimestamp": {
+        "mtime": 1723331316512.5137,
+        "uuid": "9d482f10-2963-4459-bd51-cffb2e60c5b7"
+      },
+      "chunkId": "219713ee33ffa2a8f8697d31696a2102e1c7c931",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "../../../eventManager/EventManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 25
+            },
+            "end": {
+              "line": 1,
+              "column": 61
+            }
+          }
+        },
+        {
+          "value": "../../../gameEvents/GameEvents",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 27
+            },
+            "end": {
+              "line": 2,
+              "column": 59
+            }
+          }
+        },
+        {
+          "value": "../../../state-machine/BaseState",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 26
+            },
+            "end": {
+              "line": 3,
+              "column": 60
+            }
+          }
+        },
+        {
+          "value": "../../gameStateMachine/StatesEnum",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 27
+            },
+            "end": {
+              "line": 4,
+              "column": 62
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/eventManager/EventManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/gameEvents/GameEvents.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/state-machine/BaseState.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateMachine/StatesEnum.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateComponent/states/BattleState-001.ts": {
+      "mTimestamp": {
+        "mtime": 1723330237040.745,
+        "uuid": "b97bd236-ccfb-4639-8a08-a1c838d61e9b"
+      },
+      "chunkId": "da00f80463a16eb1cced34511635a8a61614ea44",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "scripts/libs/state-machine/BaseState",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 26
+            },
+            "end": {
+              "line": 1,
+              "column": 64
+            }
+          }
+        },
+        {
+          "value": "../StatesEnum",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 27
+            },
+            "end": {
+              "line": 2,
+              "column": 42
+            }
+          }
+        },
+        {
+          "value": "scripts/libs/state-machine/events/EventManager",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 25
+            },
+            "end": {
+              "line": 3,
+              "column": 73
+            }
+          }
+        },
+        {
+          "value": "scripts/gameEvents/GameEvents",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 27
+            },
+            "end": {
+              "line": 4,
+              "column": 58
+            }
+          }
+        },
+        {
+          "value": "scripts/settings/GameSettings",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 25
+            },
+            "end": {
+              "line": 5,
+              "column": 56
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Import map null entry touched"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateComponent/StatesEnum.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Import map null entry touched"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Import map null entry touched"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Import map null entry touched"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateComponent/states/FinishState.ts": {
+      "mTimestamp": {
+        "mtime": 1723331301440.4578,
+        "uuid": "829cfa54-5458-459b-b706-0c089a725e42"
+      },
+      "chunkId": "3095c90091aa0433c16dea065db3175809080ac9",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "../../../eventManager/EventManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 25
+            },
+            "end": {
+              "line": 1,
+              "column": 61
+            }
+          }
+        },
+        {
+          "value": "../../../gameEvents/GameEvents",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 27
+            },
+            "end": {
+              "line": 2,
+              "column": 59
+            }
+          }
+        },
+        {
+          "value": "../../../state-machine/BaseState",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 26
+            },
+            "end": {
+              "line": 3,
+              "column": 60
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/eventManager/EventManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/gameEvents/GameEvents.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/state-machine/BaseState.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/gameEvents/GameEvents.ts": {
+      "mTimestamp": {
+        "mtime": 1723330428234.812,
+        "uuid": "05963836-55a7-4e28-a2de-65e3d7511fae"
+      },
+      "chunkId": "6b52bac560769ba5d52043ae1c963113c905ed23",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/GameModelComponent.ts": {
+      "mTimestamp": {
+        "mtime": 1723332388513.601,
+        "uuid": "8e5ce18b-db75-4f8d-a227-c56720cbfa07"
+      },
+      "chunkId": "205f14b875337d3aa6d367dbb5a336fa97a634e0",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 38
+            },
+            "end": {
+              "line": 1,
+              "column": 42
+            }
+          }
+        },
+        {
+          "value": "./gameStateMachine/GameStateMachine",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 33
+            },
+            "end": {
+              "line": 2,
+              "column": 70
+            }
+          }
+        },
+        {
+          "value": "./gameStateMachine/StatesEnum",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 27
+            },
+            "end": {
+              "line": 3,
+              "column": 58
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateMachine/GameStateMachine.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateMachine/StatesEnum.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateMachine/GameStateComponent.ts": {
+      "mTimestamp": {
+        "mtime": 1723330965698.1917,
+        "uuid": "c350efdb-14ea-4c70-b2f5-a928fcde6693"
+      },
+      "chunkId": "ceb58731a9538ebf592d9d56f0311b2b1969c8e5",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "../../state-machine/StateMachine",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 29
+            },
+            "end": {
+              "line": 2,
+              "column": 63
+            }
+          }
+        },
+        {
+          "value": "./states/BattleState",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 28
+            },
+            "end": {
+              "line": 3,
+              "column": 50
+            }
+          }
+        },
+        {
+          "value": "./states/BuildState",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 27
+            },
+            "end": {
+              "line": 4,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "./states/FinishState",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 28
+            },
+            "end": {
+              "line": 5,
+              "column": 50
+            }
+          }
+        },
+        {
+          "value": "./states/PositioningState",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 33
+            },
+            "end": {
+              "line": 6,
+              "column": 60
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/state-machine/StateMachine.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateMachine/states/BattleState.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateMachine/states/BuildState.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateMachine/states/FinishState.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateMachine/states/PositioningState.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateMachine/states/BattleState.ts": {
+      "mTimestamp": {
+        "mtime": 1723330773703.3542,
+        "uuid": "36fd6903-2c5c-4dd2-9041-b4587a38dd75"
+      },
+      "chunkId": "b1312ec3848195b9c1dd87fc5e8bfbbea9c056cb",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "../../../eventManager/EventManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 25
+            },
+            "end": {
+              "line": 1,
+              "column": 61
+            }
+          }
+        },
+        {
+          "value": "../../../gameEvents/GameEvents",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 27
+            },
+            "end": {
+              "line": 2,
+              "column": 59
+            }
+          }
+        },
+        {
+          "value": "../../../state-machine/BaseState",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 26
+            },
+            "end": {
+              "line": 3,
+              "column": 60
+            }
+          }
+        },
+        {
+          "value": "../StatesEnum",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 27
+            },
+            "end": {
+              "line": 4,
+              "column": 42
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/eventManager/EventManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/gameEvents/GameEvents.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/state-machine/BaseState.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateMachine/StatesEnum.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateMachine/StatesEnum.ts": {
+      "mTimestamp": {
+        "mtime": 1723331322553.9114,
+        "uuid": "007e116f-d913-4ea8-b2ac-edcb296cc8d8"
+      },
+      "chunkId": "6e0172cf40ca9937762de2e7dcbd2aa9cb24b727",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateMachine/states/BuildState.ts": {
+      "mTimestamp": {
+        "mtime": 1723333341676.1172,
+        "uuid": "4e6ca3a0-8efa-4edf-b58e-49b55b4186e1"
+      },
+      "chunkId": "26c82267b5ab74707500affb5e09100ed7be6ce4",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "../../../eventManager/EventManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 25
+            },
+            "end": {
+              "line": 1,
+              "column": 61
+            }
+          }
+        },
+        {
+          "value": "../../../gameEvents/GameEvents",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 27
+            },
+            "end": {
+              "line": 2,
+              "column": 59
+            }
+          }
+        },
+        {
+          "value": "../../../state-machine/BaseState",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 26
+            },
+            "end": {
+              "line": 3,
+              "column": 60
+            }
+          }
+        },
+        {
+          "value": "../StatesEnum",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 27
+            },
+            "end": {
+              "line": 4,
+              "column": 42
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/eventManager/EventManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/gameEvents/GameEvents.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/state-machine/BaseState.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateMachine/StatesEnum.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateMachine/states/FinishState.ts": {
+      "mTimestamp": {
+        "mtime": 1723330591879.7031,
+        "uuid": "b97bd236-ccfb-4639-8a08-a1c838d61e9b"
+      },
+      "chunkId": "86bdb55b3a41ed7c1342300aa2725e96aada9763",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "../../../eventManager/EventManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 25
+            },
+            "end": {
+              "line": 1,
+              "column": 61
+            }
+          }
+        },
+        {
+          "value": "../../../gameEvents/GameEvents",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 27
+            },
+            "end": {
+              "line": 2,
+              "column": 59
+            }
+          }
+        },
+        {
+          "value": "../../../state-machine/BaseState",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 26
+            },
+            "end": {
+              "line": 3,
+              "column": 60
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/eventManager/EventManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/gameEvents/GameEvents.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/state-machine/BaseState.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateMachine/states/PositioningState.ts": {
+      "mTimestamp": {
+        "mtime": 1723333354394.8347,
+        "uuid": "38f8ffc7-63a7-42de-8de0-34d8d8eb13a2"
+      },
+      "chunkId": "c978ac296a80b732b68a5ee83b0a1fa3b90ecad7",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "../../../eventManager/EventManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 25
+            },
+            "end": {
+              "line": 1,
+              "column": 61
+            }
+          }
+        },
+        {
+          "value": "../../../gameEvents/GameEvents",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 27
+            },
+            "end": {
+              "line": 2,
+              "column": 59
+            }
+          }
+        },
+        {
+          "value": "../../../state-machine/BaseState",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 26
+            },
+            "end": {
+              "line": 3,
+              "column": 60
+            }
+          }
+        },
+        {
+          "value": "../StatesEnum",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 27
+            },
+            "end": {
+              "line": 4,
+              "column": 42
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/eventManager/EventManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/gameEvents/GameEvents.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/state-machine/BaseState.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateMachine/StatesEnum.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateMachine/GameStateMachine.ts": {
+      "mTimestamp": {
+        "mtime": 1723332302423.924,
+        "uuid": "c350efdb-14ea-4c70-b2f5-a928fcde6693"
+      },
+      "chunkId": "5db54178ae21a8abb9037e8f6e79b8f40a23d991",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "../../state-machine/StateMachine",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 29
+            },
+            "end": {
+              "line": 2,
+              "column": 63
+            }
+          }
+        },
+        {
+          "value": "./states/BattleState",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 28
+            },
+            "end": {
+              "line": 3,
+              "column": 50
+            }
+          }
+        },
+        {
+          "value": "./states/BuildState",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 27
+            },
+            "end": {
+              "line": 4,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "./states/FinishState",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 28
+            },
+            "end": {
+              "line": 5,
+              "column": 50
+            }
+          }
+        },
+        {
+          "value": "./states/PositioningState",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 33
+            },
+            "end": {
+              "line": 6,
+              "column": 60
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/state-machine/StateMachine.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateMachine/states/BattleState.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateMachine/states/BuildState.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateMachine/states/FinishState.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/gameStateMachine/states/PositioningState.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/prefabs/ImageSwitcher/ImageSwitcher.ts": {
+      "mTimestamp": {
+        "mtime": 1723070679366.7646,
+        "uuid": "a82d9cef-da18-4549-b42c-8b84510fb18c"
+      },
+      "chunkId": "db0d38c16cba760b922e87a3b681af6dfa625715",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 83
+            },
+            "end": {
+              "line": 1,
+              "column": 87
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/poolFactory/PoolFactory.ts": {
+      "mTimestamp": {
+        "mtime": 1723469208474.1626,
+        "uuid": "8a67cdbd-8ef7-4dbe-acae-94c9ac002a3d"
+      },
+      "chunkId": "33bb4f9d6b03eb6fae13af1e383b3d057482bc3c",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 52
+            },
+            "end": {
+              "line": 1,
+              "column": 56
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/poolFactory/PoolFactoryComponent.ts": {
+      "mTimestamp": {
+        "mtime": 1723469633866.9255,
+        "uuid": "934a5599-5845-4557-8179-9b1689e21c1a"
+      },
+      "chunkId": "74019a8404e6301151290d41aa090676d19c0f6b",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 74
+            },
+            "end": {
+              "line": 1,
+              "column": 78
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/poolFactory/PoolObjectComponent.ts": {
+      "mTimestamp": {
+        "mtime": 1723551457566.306,
+        "uuid": "9efcc17b-af47-483c-94b5-1c0571b810ed"
+      },
+      "chunkId": "7a90a80d644192e0774f765a6aefccfc05bcbf02",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 90
+            },
+            "end": {
+              "line": 1,
+              "column": 94
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/prefabs/bullet/scripts/BulletComponent.ts": {
+      "mTimestamp": {
+        "mtime": 1723555592131.6936,
+        "uuid": "4ba34ec7-9fac-479b-8a2e-f9014f8e72d0"
+      },
+      "chunkId": "30d06e77b734eddeab10f0b4743a735a070cc296",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 61
+            },
+            "end": {
+              "line": 1,
+              "column": 65
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/prefabs/auth/scripts/AuthComponent.ts": {
+      "mTimestamp": {
+        "mtime": 1723571164407.1833,
+        "uuid": "56d7df84-d0b3-4923-8d4f-2dfc49e0666c"
+      },
+      "chunkId": "d408e9d9ae49205507799cf76038b7af1cd30d1d",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 60
+            },
+            "end": {
+              "line": 1,
+              "column": 64
             }
           }
         }

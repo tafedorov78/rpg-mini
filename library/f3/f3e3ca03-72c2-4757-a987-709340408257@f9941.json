@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Lvl2_ori",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 251,
+      "height": 216
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 251,
+      "height": 216
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -125.5,
+        -108,
+        0,
+        125.5,
+        -108,
+        0,
+        -125.5,
+        108,
+        0,
+        125.5,
+        108,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        216,
+        251,
+        216,
+        0,
+        0,
+        251,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -125.5,
+        "y": -108,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 125.5,
+        "y": 108,
+        "z": 0
+      }
+    },
+    "texture": "f3e3ca03-72c2-4757-a987-709340408257@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

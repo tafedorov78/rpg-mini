@@ -11,7 +11,11 @@
     "animationUuid": "",
     "expandLevels": [
       "0",
-      "0_0"
+      "0_0",
+      "0_0_0",
+      "0_0_3",
+      "0_0_4",
+      "0_0_5"
     ]
   },
   "54d1f9e3-8212-4bd0-8f2b-c71890d84453": {
@@ -28,9 +32,15 @@
     "expandLevels": [
       "0",
       "0_0",
-      "0_0_2",
+      "0_0_1",
       "0_0_2_2",
-      "0_0_4"
+      "0_0_3",
+      "0_0_4",
+      "0_0_4_1",
+      "0_0_5",
+      "0_0_5_0",
+      "0_0_5_0_1",
+      "0_0_5_0_1_0"
     ]
   },
   "6d83f52c-2473-4b4b-9d63-f688d14dc9bd": {
@@ -38,7 +48,8 @@
     "animationUuid": "",
     "expandLevels": [
       "0",
-      "0_0"
+      "0_0",
+      "0_0_2"
     ]
   },
   "69cf2b25-a500-4208-afa1-0ac8ae08ccb8": {
@@ -53,6 +64,59 @@
     "animationUuid": "",
     "expandLevels": [
       "0"
+    ]
+  },
+  "bb88e34c-5013-4a9e-8485-475a302253eb": {
+    "assetUuid": "bb88e34c-5013-4a9e-8485-475a302253eb",
+    "animationUuid": "",
+    "expandLevels": [
+      "0",
+      "0_1"
+    ]
+  },
+  "fb55e96b-1032-4cca-8156-c4e7be5eb4d5": {
+    "assetUuid": "fb55e96b-1032-4cca-8156-c4e7be5eb4d5",
+    "animationUuid": "",
+    "expandLevels": [
+      "0",
+      "0_8"
+    ]
+  },
+  "b0903b53-a683-4a9d-8e21-b5b5461d0472": {
+    "assetUuid": "b0903b53-a683-4a9d-8e21-b5b5461d0472",
+    "animationUuid": "",
+    "expandLevels": [
+      "0"
+    ]
+  },
+  "ccdda30d-4dbb-4301-93f7-c56b6fbd6d50": {
+    "assetUuid": "ccdda30d-4dbb-4301-93f7-c56b6fbd6d50",
+    "animationUuid": "",
+    "expandLevels": [
+      "0"
+    ]
+  },
+  "b2e3ed57-c7b2-4d28-9899-595fcebd7dc5": {
+    "assetUuid": "b2e3ed57-c7b2-4d28-9899-595fcebd7dc5",
+    "animationUuid": "",
+    "expandLevels": [
+      "0"
+    ]
+  },
+  "21115bf8-c02a-48a7-8ae2-9b8dac4269fb": {
+    "assetUuid": "21115bf8-c02a-48a7-8ae2-9b8dac4269fb",
+    "animationUuid": "",
+    "expandLevels": [
+      "0"
+    ]
+  },
+  "be327b60-2768-4f82-a0cd-5b99744feb31": {
+    "assetUuid": "be327b60-2768-4f82-a0cd-5b99744feb31",
+    "animationUuid": "",
+    "expandLevels": [
+      "0",
+      "0_1",
+      "0_3"
     ]
   }
 }

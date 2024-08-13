@@ -5,5 +5,7 @@
   "uuid": "8064fa4e-56db-405e-af78-9790c14e3e3b",
   "files": [],
   "subMetas": {},
-  "userData": {}
+  "userData": {
+    "bundleName": "art"
+  }
 }

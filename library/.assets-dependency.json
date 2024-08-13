@@ -1,0 +1,252 @@
+{
+  "path": {
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Collision Fx/Fx01/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Collision Fx/Fx01/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 09/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 09/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 10/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 10/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 11/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 11/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 12/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 12/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 13/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 13/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 14/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 14/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 15/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 15/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 16/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 16/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 17/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 17/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 18/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 18/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 19/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 19/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 20/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 20/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 01/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 01/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 03/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 03/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 06/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 06/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 04/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 04/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 08/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 08/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 05/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 05/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 07/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 07/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character02/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character02/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 02/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 02/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character1/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character1/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character2/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character2/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character3/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character3/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character4/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character4/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character5/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character5/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character6/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character6/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character7/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character7/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character8/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character8/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character9/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character9/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character10/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character10/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character11/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character11/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character12/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character12/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character13/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character13/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character14/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character14/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character15/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character15/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character16/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character16/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character17/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character17/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character18/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character18/skeleton.atlas"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character19/skeleton.json": [
+      "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character19/skeleton.atlas"
+    ]
+  },
+  "uuid": {
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Collision Fx/Fx01/skeleton.json": [
+      "d026356d-73c9-4dc9-89e3-b2c7657b6e1c@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 04/skeleton.json": [
+      "095e4bb8-023e-471f-a464-f19266241c93@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 05/skeleton.json": [
+      "48c2b913-e855-498f-9410-c834b4e6d3ce@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 06/skeleton.json": [
+      "5cae8a19-108a-41c1-94bf-50e3b3d79224@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 07/skeleton.json": [
+      "ae0d7fcc-4d8a-4366-ab6b-0a18e84b466e@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 08/skeleton.json": [
+      "ea7e8c8a-e8f6-4aa3-a464-d2505a548b7d@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 09/skeleton.json": [
+      "baa8d504-da21-4c35-897b-e9a0846eba8b@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 10/skeleton.json": [
+      "6849a2bf-5c9a-46c6-8697-4b837f8a7492@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 11/skeleton.json": [
+      "198bb2ec-98fb-41b6-ba7d-12fe59e26d46@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 12/skeleton.json": [
+      "948c47b9-3d4e-4b0b-ac83-f071ac115489@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 13/skeleton.json": [
+      "c161e78d-10ed-4bb2-87a7-08861b75be14@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 14/skeleton.json": [
+      "0c58c93c-079c-4cf7-84b5-cc9118375042@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 15/skeleton.json": [
+      "ee900846-7436-4d90-abd1-46ddd2f7d514@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 16/skeleton.json": [
+      "702c5611-c0a3-4d7b-9e95-71bbd2b9eef5@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 17/skeleton.json": [
+      "5205c785-5f19-4cb8-8209-8137a22447bd@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 18/skeleton.json": [
+      "79d49e6a-f493-48ee-9742-b44c58aedc89@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 19/skeleton.json": [
+      "11849cf1-6f2f-4aa8-88bb-49edafdf745a@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 20/skeleton.json": [
+      "b73b9d1c-0538-424c-9f17-a65f840573b2@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 01/skeleton.json": [
+      "7fbe4401-8499-42f2-929e-d424b69ecf7b@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 02/skeleton.json": [
+      "48db9bfc-0945-4de1-80b7-f39ef0fd9c56@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character 03/skeleton.json": [
+      "4250b100-944c-4159-8653-56fe1ad5fc86@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character02/skeleton.json": [
+      "48db9bfc-0945-4de1-80b7-f39ef0fd9c56@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character1/skeleton.json": [
+      "7fbe4401-8499-42f2-929e-d424b69ecf7b@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character2/skeleton.json": [
+      "48db9bfc-0945-4de1-80b7-f39ef0fd9c56@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character3/skeleton.json": [
+      "4250b100-944c-4159-8653-56fe1ad5fc86@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character4/skeleton.json": [
+      "095e4bb8-023e-471f-a464-f19266241c93@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character5/skeleton.json": [
+      "48c2b913-e855-498f-9410-c834b4e6d3ce@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character6/skeleton.json": [
+      "5cae8a19-108a-41c1-94bf-50e3b3d79224@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character7/skeleton.json": [
+      "ae0d7fcc-4d8a-4366-ab6b-0a18e84b466e@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character8/skeleton.json": [
+      "ea7e8c8a-e8f6-4aa3-a464-d2505a548b7d@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character9/skeleton.json": [
+      "baa8d504-da21-4c35-897b-e9a0846eba8b@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character10/skeleton.json": [
+      "6849a2bf-5c9a-46c6-8697-4b837f8a7492@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character11/skeleton.json": [
+      "198bb2ec-98fb-41b6-ba7d-12fe59e26d46@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character12/skeleton.json": [
+      "948c47b9-3d4e-4b0b-ac83-f071ac115489@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character13/skeleton.json": [
+      "c161e78d-10ed-4bb2-87a7-08861b75be14@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character14/skeleton.json": [
+      "0c58c93c-079c-4cf7-84b5-cc9118375042@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character15/skeleton.json": [
+      "ee900846-7436-4d90-abd1-46ddd2f7d514@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character16/skeleton.json": [
+      "702c5611-c0a3-4d7b-9e95-71bbd2b9eef5@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character17/skeleton.json": [
+      "5205c785-5f19-4cb8-8209-8137a22447bd@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character18/skeleton.json": [
+      "79d49e6a-f493-48ee-9742-b44c58aedc89@6c48a"
+    ],
+    "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character19/skeleton.json": [
+      "11849cf1-6f2f-4aa8-88bb-49edafdf745a@6c48a"
+    ]
+  }
+}

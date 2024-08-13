@@ -1,0 +1,1 @@
+{"version":3,"sources":["file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/state-machine/StateMachineEvents.ts"],"names":["StateMachineEvents"],"mappings":";;;;;;;;;;;;;;oCAAYA,kB,0BAAAA,kB;AAAAA,QAAAA,kB;eAAAA,kB;;;AAEX","sourcesContent":["export enum StateMachineEvents{\n  STATE_CHANGED = \"STATE_CHANGED\"\n};\n"]}

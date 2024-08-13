@@ -8,6 +8,14 @@
       "browser"
     ],
     "guessCommonJsExports": false,
+    "importMap": {
+      "json": {
+        "imports": {
+          "scripts/": "./assets/Scripts"
+        }
+      },
+      "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/import-map.json"
+    },
     "preserveSymlinks": false
   }
 }

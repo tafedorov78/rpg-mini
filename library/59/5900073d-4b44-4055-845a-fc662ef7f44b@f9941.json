@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Hand-B1",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 17,
+      "height": 43
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 17,
+      "height": 43
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -8.5,
+        -21.5,
+        0,
+        8.5,
+        -21.5,
+        0,
+        -8.5,
+        21.5,
+        0,
+        8.5,
+        21.5,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        43,
+        17,
+        43,
+        0,
+        0,
+        17,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -8.5,
+        "y": -21.5,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 8.5,
+        "y": 21.5,
+        "z": 0
+      }
+    },
+    "texture": "5900073d-4b44-4055-845a-fc662ef7f44b@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

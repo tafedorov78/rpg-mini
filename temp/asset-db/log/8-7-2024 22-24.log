@@ -1,0 +1,136 @@
+8-7-2024 22:25:00-log: Cannot access game frame or container.
+8-7-2024 22:25:00-debug: asset-db:require-engine-code (458ms)
+8-7-2024 22:25:00-log: meshopt wasm decoder initialized
+8-7-2024 22:25:00-log: [box2d]:box2d wasm lib loaded.
+8-7-2024 22:25:00-log: [bullet]:bullet wasm lib loaded.
+8-7-2024 22:25:00-log: Cocos Creator v3.8.3
+8-7-2024 22:25:01-debug: [Assets Memory track]: asset-db-plugin-register: engine-extends start:207.44MB, end 210.30MB, increase: 2.86MB
+8-7-2024 22:25:01-debug: [Assets Memory track]: asset-db-plugin-register: project start:78.80MB, end 210.36MB, increase: 131.56MB
+8-7-2024 22:25:01-debug: [Assets Memory track]: asset-db:worker-init: initPlugin start:78.23MB, end 210.38MB, increase: 132.15MB
+8-7-2024 22:25:01-debug: [Assets Memory track]: asset-db-plugin-register: builder start:80.20MB, end 207.26MB, increase: 127.06MB
+8-7-2024 22:25:00-debug: [Assets Memory track]: asset-db-plugin-register: programming start:78.91MB, end 80.18MB, increase: 1.27MB
+8-7-2024 22:25:00-debug: [Assets Memory track]: asset-db:worker-init: initEngine start:22.89MB, end 78.23MB, increase: 55.34MB
+8-7-2024 22:25:01-debug: run package(taobao-mini-game) handler(enable) start
+8-7-2024 22:25:01-debug: run package(web-desktop) handler(enable) start
+8-7-2024 22:25:01-debug: run package(web-desktop) handler(enable) success!
+8-7-2024 22:25:01-debug: run package(web-mobile) handler(enable) start
+8-7-2024 22:25:01-debug: run package(web-mobile) handler(enable) success!
+8-7-2024 22:25:01-debug: run package(wechatgame) handler(enable) start
+8-7-2024 22:25:01-debug: run package(wechatgame) handler(enable) success!
+8-7-2024 22:25:01-debug: run package(wechatprogram) handler(enable) start
+8-7-2024 22:25:01-debug: run package(wechatprogram) handler(enable) success!
+8-7-2024 22:25:01-debug: run package(windows) handler(enable) start
+8-7-2024 22:25:01-debug: run package(windows) handler(enable) success!
+8-7-2024 22:25:01-debug: run package(xiaomi-quick-game) handler(enable) start
+8-7-2024 22:25:01-debug: run package(xiaomi-quick-game) handler(enable) success!
+8-7-2024 22:25:01-debug: run package(cocos-service) handler(enable) start
+8-7-2024 22:25:01-debug: run package(cocos-service) handler(enable) success!
+8-7-2024 22:25:01-debug: run package(im-plugin) handler(enable) start
+8-7-2024 22:25:01-debug: run package(im-plugin) handler(enable) success!
+8-7-2024 22:25:01-debug: run package(blank-template) handler(enable) success!
+8-7-2024 22:25:01-debug: run package(vivo-mini-game) handler(enable) start
+8-7-2024 22:25:01-debug: run package(placeholder) handler(enable) start
+8-7-2024 22:25:01-debug: run package(placeholder) handler(enable) success!
+8-7-2024 22:25:01-debug: run package(vivo-mini-game) handler(enable) success!
+8-7-2024 22:25:01-debug: run package(taobao-mini-game) handler(enable) success!
+8-7-2024 22:25:01-debug: run package(blank-template) handler(enable) start
+8-7-2024 22:25:01-debug: asset-db:worker-init: initPlugin (1193ms)
+8-7-2024 22:25:01-debug: [Assets Memory track]: asset-db:worker-init start:22.88MB, end 204.53MB, increase: 181.64MB
+8-7-2024 22:25:01-debug: Run asset db hook engine-extends:beforePreStart success!
+8-7-2024 22:25:01-debug: Run asset db hook engine-extends:beforePreStart ...
+8-7-2024 22:25:01-debug: Run asset db hook programming:beforePreStart ...
+8-7-2024 22:25:01-debug: Run asset db hook programming:beforePreStart success!
+8-7-2024 22:25:01-debug: asset-db:worker-init (1959ms)
+8-7-2024 22:25:01-debug: asset-db-hook-programming-beforePreStart (118ms)
+8-7-2024 22:25:01-debug: asset-db-hook-engine-extends-beforePreStart (118ms)
+8-7-2024 22:25:01-debug: Preimport db internal success
+8-7-2024 22:25:01-debug: Preimport db assets success
+8-7-2024 22:25:01-debug: Run asset db hook programming:afterPreStart ...
+8-7-2024 22:25:01-debug: starting packer-driver...
+8-7-2024 22:25:02-debug: initialize scripting environment...
+8-7-2024 22:25:02-debug: Set detail map pack:///resolution-detail-map.json: {}
+8-7-2024 22:25:02-debug: [Assets Memory track]: asset-db:worker-init: preStart start:204.53MB, end 207.39MB, increase: 2.86MB
+8-7-2024 22:25:02-debug: Start up the 'internal' database...
+8-7-2024 22:25:02-debug: %cImport%c: /Applications/Cocos/Creator/3.8.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/primitives.fbxbackground: #aaff85; color: #000;color: #000;
+8-7-2024 22:25:02-debug: Run asset db hook programming:afterPreStart success!
+8-7-2024 22:25:02-debug: Run asset db hook engine-extends:afterPreStart ...
+8-7-2024 22:25:02-debug: Run asset db hook engine-extends:afterPreStart success!
+8-7-2024 22:25:02-debug: asset-db-hook-programming-afterPreStart (536ms)
+8-7-2024 22:25:02-debug: asset-db:worker-effect-data-processing (132ms)
+8-7-2024 22:25:02-debug: asset-db-hook-engine-extends-afterPreStart (132ms)
+8-7-2024 22:25:02-debug: %cImport%c: /Applications/Cocos/Creator/3.8.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_skybox/default_skybox.hdrbackground: #aaff85; color: #000;color: #000;
+8-7-2024 22:25:02-debug: Start to conver asset {asset[d032ac98-05e1-4090-88bb-eb640dcb5fc1](d032ac98-05e1-4090-88bb-eb640dcb5fc1)}
+8-7-2024 22:25:02-error: Importer exec failed: {asset[/Applications/Cocos/Creator/3.8.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_skybox/default_skybox.hdr](d032ac98-05e1-4090-88bb-eb640dcb5fc1)}
+8-7-2024 22:25:02-error: Error: spawn Unknown system error -86    at ChildProcess.spawn (internal/child_process.js:403:11)    at spawn (child_process.js:562:9)    at /Applications/Cocos/Creator/3.8.3/CocosCreator.app/Contents/Resources/app.asar/utils/dist/progress.js:1:454    at new Promise (<anonymous>)    at Object.quickSpawn (/Applications/Cocos/Creator/3.8.3/CocosCreator.app/Contents/Resources/app.asar/utils/dist/progress.js:1:381)    at convertWithCmft (/Applications/Cocos/Creator/3.8.3/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/image/image-mics.ccc:1:2589)    at convertHDROrEXR (/Applications/Cocos/Creator/3.8.3/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/image/image-mics.ccc:1:1935)    at import (/Applications/Cocos/Creator/3.8.3/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/image/index.ccc:1:1523)    at CustomImporter.import (/Applications/Cocos/Creator/3.8.3/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:1212)    at runNextTicks (internal/process/task_queues.js:58:5)
+8-7-2024 22:25:02-error: Importer exec failed: {asset[/Applications/Cocos/Creator/3.8.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/primitives.fbx](1263d74c-8167-4928-91a6-4e2672411f47)}
+8-7-2024 22:25:02-error: Error: Failed to import /Applications/Cocos/Creator/3.8.3/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/primitives.fbx    at getGltfFilePath (/Applications/Cocos/Creator/3.8.3/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/fbx.ccc:1:1773)    at createGlTfReader (/Applications/Cocos/Creator/3.8.3/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/gltf/reader-manager.ccc:1:762)    at GlTfReaderManager.getOrCreate (/Applications/Cocos/Creator/3.8.3/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/gltf/reader-manager.ccc:1:582)    at importSubAssets (/Applications/Cocos/Creator/3.8.3/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/gltf.ccc:1:4719)    at CustomImporter.import (/Applications/Cocos/Creator/3.8.3/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:1206)
+8-7-2024 22:25:02-error: /bin/sh: /Applications/Cocos/Creator/3.8.3/CocosCreator.app/Contents/Resources/app.asar.unpacked/node_modules/@editor/fbx-gltf-conv/bin/darwin/FBX-glTF-conv: Bad CPU type in executable
+8-7-2024 22:25:02-error: glTFConv does not support the current CPU architecture. Please try installing Rosetta. In the command-line tool, type `softwareupdate --install-rosetta`.
+8-7-2024 22:25:02-debug: [Assets Memory track]: asset-db:worker-startup-database[internal] start:204.57MB, end 222.59MB, increase: 18.01MB
+8-7-2024 22:25:02-debug: Start up the 'assets' database...
+8-7-2024 22:25:02-debug: %cImport%c: /Users/artemfedorov/Documents/dev/rpg-mini/assets/prefabs/BaseHero.prefabbackground: #aaff85; color: #000;color: #000;
+8-7-2024 22:25:02-debug: asset-db:worker-startup-database[internal] (1193ms)
+8-7-2024 22:25:02-debug: [Assets Memory track]: asset-db:worker-startup-database[assets] start:208.34MB, end 224.08MB, increase: 15.74MB
+8-7-2024 22:25:02-debug: lazy register asset handler text
+8-7-2024 22:25:02-debug: lazy register asset handler json
+8-7-2024 22:25:02-debug: lazy register asset handler spine-data
+8-7-2024 22:25:02-debug: lazy register asset handler dragonbones
+8-7-2024 22:25:02-debug: lazy register asset handler dragonbones-atlas
+8-7-2024 22:25:02-debug: lazy register asset handler directory
+8-7-2024 22:25:02-debug: lazy register asset handler javascript
+8-7-2024 22:25:02-debug: lazy register asset handler typescript
+8-7-2024 22:25:02-debug: lazy register asset handler terrain
+8-7-2024 22:25:02-debug: lazy register asset handler prefab
+8-7-2024 22:25:02-debug: lazy register asset handler sprite-frame
+8-7-2024 22:25:02-debug: lazy register asset handler tiled-map
+8-7-2024 22:25:02-debug: lazy register asset handler buffer
+8-7-2024 22:25:02-debug: lazy register asset handler image
+8-7-2024 22:25:02-debug: lazy register asset handler sign-image
+8-7-2024 22:25:02-debug: lazy register asset handler alpha-image
+8-7-2024 22:25:02-debug: lazy register asset handler texture
+8-7-2024 22:25:02-debug: lazy register asset handler texture-cube
+8-7-2024 22:25:02-debug: lazy register asset handler erp-texture-cube
+8-7-2024 22:25:02-debug: lazy register asset handler render-texture
+8-7-2024 22:25:02-debug: lazy register asset handler texture-cube-face
+8-7-2024 22:25:02-debug: lazy register asset handler rt-sprite-frame
+8-7-2024 22:25:02-debug: lazy register asset handler gltf
+8-7-2024 22:25:02-debug: lazy register asset handler gltf-mesh
+8-7-2024 22:25:02-debug: lazy register asset handler gltf-animation
+8-7-2024 22:25:02-debug: lazy register asset handler gltf-skeleton
+8-7-2024 22:25:02-debug: lazy register asset handler gltf-material
+8-7-2024 22:25:02-debug: lazy register asset handler gltf-scene
+8-7-2024 22:25:02-debug: lazy register asset handler fbx
+8-7-2024 22:25:02-debug: lazy register asset handler scene
+8-7-2024 22:25:02-debug: lazy register asset handler physics-material
+8-7-2024 22:25:02-debug: lazy register asset handler gltf-embeded-image
+8-7-2024 22:25:02-debug: lazy register asset handler effect
+8-7-2024 22:25:02-debug: lazy register asset handler effect-header
+8-7-2024 22:25:02-debug: lazy register asset handler audio-clip
+8-7-2024 22:25:02-debug: lazy register asset handler animation-clip
+8-7-2024 22:25:02-debug: lazy register asset handler animation-graph
+8-7-2024 22:25:02-debug: lazy register asset handler animation-mask
+8-7-2024 22:25:02-debug: lazy register asset handler ttf-font
+8-7-2024 22:25:02-debug: lazy register asset handler animation-graph-variant
+8-7-2024 22:25:02-debug: lazy register asset handler particle
+8-7-2024 22:25:02-debug: lazy register asset handler sprite-atlas
+8-7-2024 22:25:02-debug: lazy register asset handler bitmap-font
+8-7-2024 22:25:02-debug: lazy register asset handler auto-atlas
+8-7-2024 22:25:02-debug: lazy register asset handler label-atlas
+8-7-2024 22:25:02-debug: [Assets Memory track]: asset-db:worker-init: startup start:207.39MB, end 224.09MB, increase: 16.70MB
+8-7-2024 22:25:02-debug: lazy register asset handler render-stage
+8-7-2024 22:25:02-debug: lazy register asset handler render-flow
+8-7-2024 22:25:02-debug: lazy register asset handler instantiation-material
+8-7-2024 22:25:02-debug: lazy register asset handler instantiation-mesh
+8-7-2024 22:25:02-debug: lazy register asset handler instantiation-skeleton
+8-7-2024 22:25:02-debug: lazy register asset handler instantiation-animation
+8-7-2024 22:25:02-debug: lazy register asset handler video-clip
+8-7-2024 22:25:02-debug: lazy register asset handler material
+8-7-2024 22:25:02-debug: lazy register asset handler render-pipeline
+8-7-2024 22:25:02-debug: lazy register asset handler *
+8-7-2024 22:25:02-debug: asset-db:worker-startup-database[assets] (1109ms)
+8-7-2024 22:25:02-debug: asset-db:start-database (1267ms)
+8-7-2024 22:25:02-debug: asset-db:ready (4687ms)
+8-7-2024 22:25:02-debug: init worker message success
+8-7-2024 22:25:02-debug: programming:execute-script (3ms)
+8-7-2024 22:25:03-debug: [Build Memory track]: builder:worker-init start:228.80MB, end 236.75MB, increase: 7.95MB
+8-7-2024 22:25:03-debug: builder:worker-init (207ms)
