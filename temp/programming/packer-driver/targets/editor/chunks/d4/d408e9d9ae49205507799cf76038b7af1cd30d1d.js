@@ -1,7 +1,7 @@
-System.register(["cc"], function (_export, _context) {
+System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _context) {
   "use strict";
 
-  var _cclegacy, __checkObsolete__, __checkObsoleteInNamespace__, EditBox, Button, _decorator, Component, log, _dec, _dec2, _dec3, _class, _class2, _descriptor, _descriptor2, _descriptor3, _crd, ccclass, property, AuthComponent;
+  var _reporterNs, _cclegacy, __checkObsolete__, __checkObsoleteInNamespace__, EditBox, Button, _decorator, Component, log, Facade, _dec, _dec2, _dec3, _class, _class2, _descriptor, _descriptor2, _descriptor3, _crd, ccclass, property, AuthComponent;
 
   function _initializerDefineProperty(target, property, descriptor, context) { if (!descriptor) return; Object.defineProperty(target, property, { enumerable: descriptor.enumerable, configurable: descriptor.configurable, writable: descriptor.writable, value: descriptor.initializer ? descriptor.initializer.call(context) : void 0 }); }
 
@@ -9,8 +9,14 @@ System.register(["cc"], function (_export, _context) {
 
   function _initializerWarningHelper(descriptor, context) { throw new Error('Decorating class property failed. Please ensure that ' + 'transform-class-properties is enabled and runs after the decorators transform.'); }
 
+  function _reportPossibleCrUseOfFacade(extras) {
+    _reporterNs.report("Facade", "../../../Scripts/Facade", _context.meta, extras);
+  }
+
   return {
-    setters: [function (_cc) {
+    setters: [function (_unresolved_) {
+      _reporterNs = _unresolved_;
+    }, function (_cc) {
       _cclegacy = _cc.cclegacy;
       __checkObsolete__ = _cc.__checkObsolete__;
       __checkObsoleteInNamespace__ = _cc.__checkObsoleteInNamespace__;
@@ -19,6 +25,8 @@ System.register(["cc"], function (_export, _context) {
       _decorator = _cc._decorator;
       Component = _cc.Component;
       log = _cc.log;
+    }, function (_unresolved_2) {
+      Facade = _unresolved_2.default;
     }],
     execute: function () {
       _crd = true;
@@ -41,9 +49,12 @@ System.register(["cc"], function (_export, _context) {
           _initializerDefineProperty(this, "passwordInput", _descriptor2, this);
 
           _initializerDefineProperty(this, "loginButton", _descriptor3, this);
+
+          this.isRegistered = false;
         }
 
         onLoad() {
+          this.isRegistered = this.checkIfRegistered();
           this.loadCredentials();
           this.loginButton.node.on('click', this.onLoginButtonClick, this);
         }
@@ -53,15 +64,37 @@ System.register(["cc"], function (_export, _context) {
           const password = this.passwordInput.string.trim();
 
           if (username && password) {
-            this.saveCredentials(username, password);
-            log('Login successful!');
+            if (this.isRegistered) {
+              if (this.authenticate(username, password)) {
+                log('Login successful!');
+                (_crd && Facade === void 0 ? (_reportPossibleCrUseOfFacade({
+                  error: Error()
+                }), Facade) : Facade).username = username;
+              } else {
+                log('Invalid username or password.');
+              }
+            } else {
+              this.register(username, password);
+              log('Registration successful! You can now log in.');
+            }
           } else {
             log('Please enter both username and password.');
           }
         }
 
+        authenticate(username, password) {
+          const savedUsername = localStorage.getItem('username');
+          const savedPassword = localStorage.getItem('password');
+          return savedUsername === username && savedPassword === password;
+        }
+
+        register(username, password) {
+          this.saveCredentials(username, password);
+          this.isRegistered = true;
+        }
+
         saveCredentials(username, password) {
-          // Сохраняем данные в localStorage
+          // Save credentials to localStorage
           localStorage.setItem('username', username);
           localStorage.setItem('password', password);
         }
@@ -74,6 +107,12 @@ System.register(["cc"], function (_export, _context) {
             this.usernameInput.string = savedUsername;
             this.passwordInput.string = savedPassword;
           }
+        }
+
+        checkIfRegistered() {
+          const savedUsername = localStorage.getItem('username');
+          const savedPassword = localStorage.getItem('password');
+          return !!(savedUsername && savedPassword);
         }
 
       }, (_descriptor = _applyDecoratedDescriptor(_class2.prototype, "usernameInput", [_dec], {

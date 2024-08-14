@@ -8,7 +8,8 @@
     "url": "db://assets/scenes/LoadingScene.scene",
     "value": {
       "depends": [
-        "54d1f9e3-8212-4bd0-8f2b-c71890d84453"
+        "54d1f9e3-8212-4bd0-8f2b-c71890d84453",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941"
       ],
       "dependScripts": [
         "a01f0b1c-156b-4ba0-8ff6-0c69e7ef7437"
@@ -38,6 +39,12 @@
         "6eee9438-993f-40ed-9527-5c8877905d3e",
         "03dd0ca6-eb21-4f7e-a6d9-1c5489372b33@f9941",
         "bb88e34c-5013-4a9e-8485-475a302253eb",
+        "782e379d-8e1b-4e17-9bfb-6da011dd0034@f9941",
+        "7300b404-7c68-4855-b7a6-9b5e54a18c66@f9941",
+        "9c33f5f4-d522-40de-ae66-30e2dca7e6fb@f9941",
+        "549d76ae-3b01-4e8d-a5f2-9776cee42ffd@f9941",
+        "26daa52c-5f07-47f4-a98f-b040027eb8b4@f9941",
+        "f55bc2fb-2952-4348-8828-c75e98f01a59",
         "b2e3ed57-c7b2-4d28-9899-595fcebd7dc5",
         "e5ec2dce-9d17-4465-b82a-91af2f43a92c",
         "c10d108e-23d5-4ef0-b7d3-4be8db816737@f9941",
@@ -60,14 +67,6 @@
         "b31e9165-ac58-4bf8-a353-af2180cb1dbe",
         "44714fb1-6ee1-4313-986f-c8814c133436@f9941",
         "c28d6993-6612-46fd-b56b-d37157b3046c",
-        "4bbf5319-b0d0-4375-8dfb-8bdfb3d4ffe8@f9941",
-        "b7d021a2-3656-4242-9262-caf0f601310f@f9941",
-        "4f56c5ee-0495-423c-ab30-0207575b72f2@f9941",
-        "a3ef27af-9f50-44d7-a223-814ae0d99a93@f9941",
-        "d49f19fe-ed8c-4ace-b5c2-bce0450331dd@f9941",
-        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
-        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
-        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
         "69cf2b25-a500-4208-afa1-0ac8ae08ccb8",
         "9bbabead-3dd3-4c5c-adfc-8194cfccfc96@f9941",
         "5b0411a7-8582-42df-a4f0-e93921cd0859@f9941",
@@ -81,7 +80,10 @@
         "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
         "fb55e96b-1032-4cca-8156-c4e7be5eb4d5",
         "49a977cc-08bb-4707-9793-6f8f5b754c4e",
-        "c707d4ba-37fb-4e71-9c11-abd85aadcaff"
+        "c707d4ba-37fb-4e71-9c11-abd85aadcaff",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941"
       ],
       "dependScripts": [
         "CC3eba29-7abb-723a-f7ab-ae275e2277e8",
@@ -1642,7 +1644,12 @@
   "c28d6993-6612-46fd-b56b-d37157b3046c": {
     "url": "db://assets/prefabs/ImageSwitcher/ImageSwitcher.prefab",
     "value": {
-      "depends": [],
+      "depends": [
+        "b7d021a2-3656-4242-9262-caf0f601310f@f9941",
+        "4bbf5319-b0d0-4375-8dfb-8bdfb3d4ffe8@f9941",
+        "a3ef27af-9f50-44d7-a223-814ae0d99a93@f9941",
+        "d49f19fe-ed8c-4ace-b5c2-bce0450331dd@f9941"
+      ],
       "dependScripts": [
         "a82d9cef-da18-4549-b42c-8b84510fb18c"
       ]

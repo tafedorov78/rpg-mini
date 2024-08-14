@@ -1,9 +1,9 @@
 import { _decorator, assetManager, Component, Label, Node, ProgressBar, sp, tween, v3, Vec3 } from 'cc';
-import { Team } from '../../Scripts/components/BattleComponent';
 import { PoolObjectComponent } from '../../Scripts/components/poolFactory/PoolObjectComponent';
 import { HeroConfig } from '../../Scripts/ConfigTypes';
 import EventManager from '../../Scripts/eventManager/EventManager';
 import { BulletComponent } from '../bullet/scripts/BulletComponent';
+import { Team } from '../../Scripts/components/TeamsBuilderComponent';
 const { ccclass, property } = _decorator;
 
 @ccclass('HeroComponent')
@@ -121,7 +121,7 @@ export class HeroComponent extends Component {
     private applyDamage(value: number): void {
         if (!this.isAlive) return;
 
-        this.hp -= value;
+        this.HP -= value;
         this.HPBar.progress = this.hp / this.heroConfig.hp;
         this.HPLabel.string = this.hp.toFixed(0) + '%';
 
@@ -164,5 +164,15 @@ export class HeroComponent extends Component {
         bullet.getComponent(BulletComponent).animate(targetPosition, bulletName, this.team.isLeft, (bullet) => {
             this.bulletFactory.put(bullet);
         })
+    }
+
+    set HP(value: number) {
+        this.hp = value;
+
+        EventManager.dispatch('hp', this.team)
+    }
+
+    get HP(): number {
+        return this.hp;
     }
 }

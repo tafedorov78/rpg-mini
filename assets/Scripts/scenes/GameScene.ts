@@ -14,7 +14,11 @@ export class GameScene extends Component {
     public TeamsBuilderComponent: TeamsBuilderComponent = null;
 
     protected onLoad(): void {
-        EventManager.add('victory', this.showNavigateButton);
+        EventManager.add('roundEnd', this.showNavigateButton);
+    }
+
+    protected onDestroy(): void {
+        EventManager.remove('roundEnd', this.showNavigateButton);
     }
 
     start() {

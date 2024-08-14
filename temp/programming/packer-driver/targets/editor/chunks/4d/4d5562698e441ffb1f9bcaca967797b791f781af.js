@@ -75,7 +75,13 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
         onLoad() {
           (_crd && EventManager === void 0 ? (_reportPossibleCrUseOfEventManager({
             error: Error()
-          }), EventManager) : EventManager).add('victory', this.showNavigateButton);
+          }), EventManager) : EventManager).add('roundEnd', this.showNavigateButton);
+        }
+
+        onDestroy() {
+          (_crd && EventManager === void 0 ? (_reportPossibleCrUseOfEventManager({
+            error: Error()
+          }), EventManager) : EventManager).remove('roundEnd', this.showNavigateButton);
         }
 
         start() {

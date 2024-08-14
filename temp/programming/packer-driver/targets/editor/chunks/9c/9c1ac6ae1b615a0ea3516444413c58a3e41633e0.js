@@ -9,10 +9,6 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], fu
 
   function _initializerWarningHelper(descriptor, context) { throw new Error('Decorating class property failed. Please ensure that ' + 'transform-class-properties is enabled and runs after the decorators transform.'); }
 
-  function _reportPossibleCrUseOfTeam(extras) {
-    _reporterNs.report("Team", "../../Scripts/components/BattleComponent", _context.meta, extras);
-  }
-
   function _reportPossibleCrUseOfPoolObjectComponent(extras) {
     _reporterNs.report("PoolObjectComponent", "../../Scripts/components/poolFactory/PoolObjectComponent", _context.meta, extras);
   }
@@ -27,6 +23,10 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], fu
 
   function _reportPossibleCrUseOfBulletComponent(extras) {
     _reporterNs.report("BulletComponent", "../bullet/scripts/BulletComponent", _context.meta, extras);
+  }
+
+  function _reportPossibleCrUseOfTeam(extras) {
+    _reporterNs.report("Team", "../../Scripts/components/TeamsBuilderComponent", _context.meta, extras);
   }
 
   return {
@@ -163,7 +163,7 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], fu
 
         applyDamage(value) {
           if (!this.isAlive) return;
-          this.hp -= value;
+          this.HP -= value;
           this.HPBar.progress = this.hp / this.heroConfig.hp;
           this.HPLabel.string = this.hp.toFixed(0) + '%';
 
@@ -208,6 +208,17 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], fu
           }), BulletComponent) : BulletComponent).animate(targetPosition, bulletName, this.team.isLeft, bullet => {
             this.bulletFactory.put(bullet);
           });
+        }
+
+        set HP(value) {
+          this.hp = value;
+          (_crd && EventManager === void 0 ? (_reportPossibleCrUseOfEventManager({
+            error: Error()
+          }), EventManager) : EventManager).dispatch('hp', this.team);
+        }
+
+        get HP() {
+          return this.hp;
         }
 
       }, (_descriptor = _applyDecoratedDescriptor(_class2.prototype, "Spine", [_dec2], {

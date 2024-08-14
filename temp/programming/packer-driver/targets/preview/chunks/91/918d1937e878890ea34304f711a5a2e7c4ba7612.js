@@ -147,8 +147,8 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
 
         createTeam(config) {
           var team = {
-            name: config.name,
-            isLeft: config.name === 'player',
+            id: config.id,
+            isLeft: config.id === 1,
             currentHero: null,
             currentIndexHero: 0,
             targetTeam: null,

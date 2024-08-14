@@ -15,7 +15,11 @@ System.register(["cc"], function (_export, _context) {
       _export("default", {
         bundle: null,
         json: null,
-        battleData: null
+        battleData: null,
+        levelid: null,
+        levelsData: null,
+        team: null,
+        username: null
       });
 
       _cclegacy._RF.pop();

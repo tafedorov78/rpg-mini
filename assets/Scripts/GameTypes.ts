@@ -7,6 +7,21 @@ export type BattleData = {
 }
 
 export type TeamData = {
-    name: string;
+    id: number;
     heroes: HeroConfig[];
+}
+
+export type GameLevel = {
+    id: number;
+    complete: boolean;
+    score: Score;
+    available: boolean;
+    data: any
+}
+
+export enum Score {
+    NOT_AVAILABLE = 0,
+    BAD = 1,
+    AVERAGE = 1,
+    EXELLENT = 3
 }

@@ -640,7 +640,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 449728476.426375,
+      "mTimestamp": 529880615.90337497,
       "chunkId": "6d8fd2b0177941b032ddc0733af48a561fb60657",
       "imports": [
         {
@@ -1206,7 +1206,7 @@
     },
     "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/scenes/GameScene.ts": {
       "mTimestamp": {
-        "mtime": 1723505492616.473,
+        "mtime": 1723649420146.496,
         "uuid": "95bda204-fdf7-4b3d-924d-3dcd5b3384e8"
       },
       "chunkId": "4d5562698e441ffb1f9bcaca967797b791f781af",
@@ -1416,7 +1416,7 @@
     },
     "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/scenes/MainMenuScene.ts": {
       "mTimestamp": {
-        "mtime": 1723555673526.2976,
+        "mtime": 1723650778147.5999,
         "uuid": "7924076f-54a7-4045-9fa0-53988178828a"
       },
       "chunkId": "0f39d870a8bdc819c446eaacb2fccd004d7cf2e5",
@@ -1436,25 +1436,25 @@
           "loc": {
             "start": {
               "line": 1,
-              "column": 73
+              "column": 90
             },
             "end": {
               "line": 1,
-              "column": 77
+              "column": 94
             }
           }
         },
         {
-          "value": "../Facade",
+          "value": "../../prefabs/ImageSwitcher/ImageSwitcher",
           "resolved": "__unresolved_1",
           "loc": {
             "start": {
               "line": 2,
-              "column": 19
+              "column": 30
             },
             "end": {
               "line": 2,
-              "column": 30
+              "column": 73
             }
           }
         },
@@ -1463,12 +1463,40 @@
           "resolved": "__unresolved_2",
           "loc": {
             "start": {
-              "line": 3,
+              "line": 4,
               "column": 35
             },
             "end": {
-              "line": 3,
+              "line": 4,
               "column": 69
+            }
+          }
+        },
+        {
+          "value": "../Facade",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 19
+            },
+            "end": {
+              "line": 6,
+              "column": 30
+            }
+          }
+        },
+        {
+          "value": "../GameTypes",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 33
+            },
+            "end": {
+              "line": 7,
+              "column": 47
             }
           }
         }
@@ -1506,7 +1534,7 @@
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/Facade.ts"
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/prefabs/ImageSwitcher/ImageSwitcher.ts"
           },
           "messages": []
         },
@@ -1514,6 +1542,20 @@
           "resolved": {
             "type": "module",
             "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/HeroesTabComponent.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/Facade.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/GameTypes.ts"
           },
           "messages": []
         }
@@ -1625,7 +1667,7 @@
     },
     "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/prefabs/scripts/HeroComponent.ts": {
       "mTimestamp": {
-        "mtime": 1723555631360.507,
+        "mtime": 1723650183336.8752,
         "uuid": "e84c372e-7f61-49a4-93b3-aa08f213068c"
       },
       "chunkId": "9c1ac6ae1b615a0ea3516444413c58a3e41633e0",
@@ -1658,11 +1700,11 @@
           "resolved": "__unresolved_1",
           "loc": {
             "start": {
-              "line": 5,
+              "line": 4,
               "column": 25
             },
             "end": {
-              "line": 5,
+              "line": 4,
               "column": 66
             }
           }
@@ -1672,11 +1714,11 @@
           "resolved": "__unresolved_2",
           "loc": {
             "start": {
-              "line": 6,
+              "line": 5,
               "column": 32
             },
             "end": {
-              "line": 6,
+              "line": 5,
               "column": 67
             }
           }
@@ -1737,7 +1779,7 @@
     },
     "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/Facade.ts": {
       "mTimestamp": {
-        "mtime": 1723321247819.5127,
+        "mtime": 1723646218766.2568,
         "uuid": "3541dc23-cac4-4c0a-a00d-e6f7641396c2"
       },
       "chunkId": "ac29c888d2b3c018f09e63e09d7afe3d09c5c988",
@@ -1863,7 +1905,7 @@
     },
     "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/BattleComponent.ts": {
       "mTimestamp": {
-        "mtime": 1723509244396.1504,
+        "mtime": 1723650647865.4639,
         "uuid": "e6820e08-b81b-425a-973d-140369d7a81f"
       },
       "chunkId": "ee1d442b0ea0f99bddd801b4ad63410d5e150a93",
@@ -1883,11 +1925,11 @@
           "loc": {
             "start": {
               "line": 1,
-              "column": 38
+              "column": 57
             },
             "end": {
               "line": 1,
-              "column": 42
+              "column": 61
             }
           }
         },
@@ -1902,6 +1944,20 @@
             "end": {
               "line": 3,
               "column": 55
+            }
+          }
+        },
+        {
+          "value": "../Facade",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 19
+            },
+            "end": {
+              "line": 4,
+              "column": 30
             }
           }
         }
@@ -1940,6 +1996,13 @@
           "resolved": {
             "type": "module",
             "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/eventManager/EventManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/Facade.ts"
           },
           "messages": []
         }
@@ -2159,7 +2222,7 @@
     },
     "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/GameTypes.ts": {
       "mTimestamp": {
-        "mtime": 1723321159274.998,
+        "mtime": 1723646013388.8064,
         "uuid": "caa7597f-c879-40a6-826c-be0d4d1d6730"
       },
       "chunkId": "93d422f297ce421b813108716d551ebfda2e1ff0",
@@ -2192,7 +2255,7 @@
     },
     "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/TeamsBuilderComponent.ts": {
       "mTimestamp": {
-        "mtime": 1723563655585.4875,
+        "mtime": 1723645045016.2554,
         "uuid": "e56f1360-85b6-4c4b-95e5-08d066bd710f"
       },
       "chunkId": "918d1937e878890ea34304f711a5a2e7c4ba7612",
@@ -5706,11 +5769,15 @@
     },
     "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/prefabs/auth/scripts/AuthComponent.ts": {
       "mTimestamp": {
-        "mtime": 1723571164407.1833,
+        "mtime": 1723639827352.4927,
         "uuid": "56d7df84-d0b3-4923-8d4f-2dfc49e0666c"
       },
       "chunkId": "d408e9d9ae49205507799cf76038b7af1cd30d1d",
       "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
         {
           "value": "cc"
         },
@@ -5729,6 +5796,20 @@
               "column": 64
             }
           }
+        },
+        {
+          "value": "../../../Scripts/Facade",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 19
+            },
+            "end": {
+              "line": 2,
+              "column": 44
+            }
+          }
         }
       ],
       "type": "esm",
@@ -5736,7 +5817,7 @@
         {
           "resolved": {
             "type": "module",
-            "url": "cce:/internal/x/cc"
+            "url": "cce:/internal/code-quality/cr.mjs"
           },
           "messages": []
         },
@@ -5751,6 +5832,20 @@
           "resolved": {
             "type": "module",
             "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/Facade.ts"
           },
           "messages": []
         }

@@ -9,7 +9,7 @@ const { ccclass, property } = _decorator;
 
 
 export type Team = {
-    name: string;
+    id: number;
     isLeft: boolean;
     currentHero: HeroComponent;
     currentIndexHero: number;
@@ -64,8 +64,8 @@ export class TeamsBuilderComponent extends Component {
 
     private createTeam(config: TeamData): Team {
         const team: Team = {
-            name: config.name,
-            isLeft: config.name === 'player',
+            id: config.id,
+            isLeft: config.id === 1,
             currentHero: null,
             currentIndexHero: 0,
             targetTeam: null,

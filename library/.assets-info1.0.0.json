@@ -699,7 +699,7 @@
       "uuid": "dd2249f5-8ebf-4c64-a59a-4c63f4762663"
     },
     "/Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/scenes/GameScene.ts": {
-      "time": 1723505492616.473,
+      "time": 1723649420146.496,
       "uuid": "95bda204-fdf7-4b3d-924d-3dcd5b3384e8"
     },
     "/Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/scenes/LoadingScene.ts": {
@@ -707,7 +707,7 @@
       "uuid": "a01f0b1c-156b-4ba0-8ff6-0c69e7ef7437"
     },
     "/Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/scenes/MainMenuScene.ts": {
-      "time": 1723555673526.2976,
+      "time": 1723650778147.5999,
       "uuid": "7924076f-54a7-4045-9fa0-53988178828a"
     },
     "/Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/scenes/SplashScene.ts": {
@@ -754,15 +754,15 @@
       "time": 1723071727374.4587
     },
     "/Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/GameScene.scene": {
-      "time": 1723571010967.305,
+      "time": 1723649460501.8872,
       "uuid": "6eee9438-993f-40ed-9527-5c8877905d3e"
     },
     "/Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/LoadingScene.scene": {
-      "time": 1723574917876.9236,
+      "time": 1723640155450.704,
       "uuid": "54d1f9e3-8212-4bd0-8f2b-c71890d84453"
     },
     "/Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/MainMenuScene.scene": {
-      "time": 1723301415696.1204,
+      "time": 1723644868722.7603,
       "uuid": "b31e9165-ac58-4bf8-a353-af2180cb1dbe"
     },
     "/Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/SplashScreenScene.scene": {
@@ -2451,14 +2451,14 @@
       "time": 1723122341291.6606
     },
     "/Users/artemfedorov/Documents/dev/rpg-mini/assets/prefabs/scripts/HeroComponent.ts": {
-      "time": 1723555631360.507,
+      "time": 1723650183336.8752,
       "uuid": "e84c372e-7f61-49a4-93b3-aa08f213068c"
     },
     "/Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/Facade.ts.meta": {
       "time": 1723168783460.3289
     },
     "/Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/Facade.ts": {
-      "time": 1723321247819.5127,
+      "time": 1723646218766.2568,
       "uuid": "3541dc23-cac4-4c0a-a00d-e6f7641396c2"
     },
     "/Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components.meta": {
@@ -2472,7 +2472,7 @@
       "time": 1723220100002.8115
     },
     "/Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/BattleComponent.ts": {
-      "time": 1723509244396.1504,
+      "time": 1723650647865.4639,
       "uuid": "e6820e08-b81b-425a-973d-140369d7a81f"
     },
     "/Users/artemfedorov/Documents/dev/rpg-mini/assets/art/Characters/Character1.meta": {
@@ -5300,14 +5300,14 @@
       "uuid": "f49f1007-c887-4526-9a63-5d46db56fc65"
     },
     "/Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/GameTypes.ts": {
-      "time": 1723321159274.998,
+      "time": 1723646013388.8064,
       "uuid": "caa7597f-c879-40a6-826c-be0d4d1d6730"
     },
     "/Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/TeamsBuilderComponent.ts.meta": {
       "time": 1723328063804.9685
     },
     "/Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/components/TeamsBuilderComponent.ts": {
-      "time": 1723563655585.4875,
+      "time": 1723645045016.2554,
       "uuid": "e56f1360-85b6-4c4b-95e5-08d066bd710f"
     },
     "/Users/artemfedorov/Documents/dev/rpg-mini/assets/Scripts/eventManager.meta": {
@@ -5426,7 +5426,7 @@
       "time": 1723070679366.6953
     },
     "/Users/artemfedorov/Documents/dev/rpg-mini/assets/prefabs/ImageSwitcher/ImageSwitcher.prefab": {
-      "time": 1723463270305.2727,
+      "time": 1723641383306.2966,
       "uuid": "c28d6993-6612-46fd-b56b-d37157b3046c"
     },
     "/Users/artemfedorov/Documents/dev/rpg-mini/assets/prefabs/bullet/Bullet.prefab.meta": {
@@ -5489,7 +5489,7 @@
       "time": 1723571068811.0137
     },
     "/Users/artemfedorov/Documents/dev/rpg-mini/assets/prefabs/auth/scripts/AuthComponent.ts": {
-      "time": 1723571164407.1833,
+      "time": 1723639827352.4927,
       "uuid": "56d7df84-d0b3-4923-8d4f-2dfc49e0666c"
     }
   },

@@ -1,4 +1,5 @@
 import { EditBox, Button, _decorator, Component, log } from "cc";
+import Facade from "../../../Scripts/Facade";
 
 const { ccclass, property } = _decorator;
 
@@ -14,7 +15,10 @@ export default class AuthComponent extends Component {
     @property(Button)
     private loginButton: Button = null;
 
+    private isRegistered: boolean = false;
+
     onLoad() {
+        this.isRegistered = this.checkIfRegistered();
         this.loadCredentials();
         this.loginButton.node.on('click', this.onLoginButtonClick, this);
     }
@@ -24,15 +28,37 @@ export default class AuthComponent extends Component {
         const password = this.passwordInput.string.trim();
 
         if (username && password) {
-            this.saveCredentials(username, password);
-            log('Login successful!');
+            if (this.isRegistered) {
+                if (this.authenticate(username, password)) {
+                    log('Login successful!');
+
+                    Facade.username = username;
+                } else {
+                    log('Invalid username or password.');
+                }
+            } else {
+                this.register(username, password);
+                log('Registration successful! You can now log in.');
+            }
         } else {
             log('Please enter both username and password.');
         }
     }
 
+    private authenticate(username: string, password: string): boolean {
+        const savedUsername = localStorage.getItem('username');
+        const savedPassword = localStorage.getItem('password');
+
+        return savedUsername === username && savedPassword === password;
+    }
+
+    private register(username: string, password: string) {
+        this.saveCredentials(username, password);
+        this.isRegistered = true;
+    }
+
     private saveCredentials(username: string, password: string) {
-        // Сохраняем данные в localStorage
+        // Save credentials to localStorage
         localStorage.setItem('username', username);
         localStorage.setItem('password', password);
     }
@@ -45,5 +71,12 @@ export default class AuthComponent extends Component {
             this.usernameInput.string = savedUsername;
             this.passwordInput.string = savedPassword;
         }
+    }
+
+    private checkIfRegistered(): boolean {
+        const savedUsername = localStorage.getItem('username');
+        const savedPassword = localStorage.getItem('password');
+
+        return !!(savedUsername && savedPassword);
     }
 }
