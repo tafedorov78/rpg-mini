@@ -32623,3 +32623,83 @@
 8-14-2024 12:10:20-debug: run build task Sort some build options to settings.json success in 2 ms√, progress: 15%
 8-14-2024 12:10:20-debug: // ---- build task Sort some build options to settings.json ---- (2ms)
 8-14-2024 12:10:20-debug: [Build Memory track]: Sort some build options to settings.json start:195.53MB, end 195.59MB, increase: 59.04KB
+8-14-2024 12:13:21-debug: refresh db internal success
+8-14-2024 12:13:21-debug: refresh db assets success
+8-14-2024 12:13:21-debug: Run asset db hook engine-extends:afterRefresh ...
+8-14-2024 12:13:21-debug: Run asset db hook engine-extends:afterRefresh success!
+8-14-2024 12:13:21-debug: asset-db:refresh-all-database (63ms)
+8-14-2024 12:13:21-debug: asset-db:worker-effect-data-processing (1ms)
+8-14-2024 12:13:21-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+8-14-2024 12:16:09-debug: refresh db internal success
+8-14-2024 12:16:09-debug: refresh db assets success
+8-14-2024 12:16:09-debug: Run asset db hook engine-extends:afterRefresh ...
+8-14-2024 12:16:09-debug: Run asset db hook engine-extends:afterRefresh success!
+8-14-2024 12:16:09-debug: asset-db:refresh-all-database (66ms)
+8-14-2024 12:16:15-debug: refresh db internal success
+8-14-2024 12:16:15-debug: refresh db assets success
+8-14-2024 12:16:15-debug: Run asset db hook engine-extends:afterRefresh ...
+8-14-2024 12:16:15-debug: Run asset db hook engine-extends:afterRefresh success!
+8-14-2024 12:16:15-debug: asset-db:refresh-all-database (82ms)
+8-14-2024 12:16:15-debug: asset-db:worker-effect-data-processing (1ms)
+8-14-2024 12:16:15-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+8-14-2024 12:26:32-debug: refresh db internal success
+8-14-2024 12:26:32-debug: refresh db assets success
+8-14-2024 12:26:32-debug: Run asset db hook engine-extends:afterRefresh ...
+8-14-2024 12:26:32-debug: Run asset db hook engine-extends:afterRefresh success!
+8-14-2024 12:26:32-debug: asset-db:refresh-all-database (80ms)
+8-14-2024 12:26:32-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+8-14-2024 12:26:43-debug: refresh db internal success
+8-14-2024 12:26:43-debug: refresh db assets success
+8-14-2024 12:26:43-debug: Run asset db hook engine-extends:afterRefresh ...
+8-14-2024 12:26:43-debug: Run asset db hook engine-extends:afterRefresh success!
+8-14-2024 12:26:43-debug: asset-db:refresh-all-database (53ms)
+8-14-2024 12:26:43-debug: asset-db:worker-effect-data-processing (1ms)
+8-14-2024 12:26:43-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+8-14-2024 12:27:12-debug: start refresh asset from /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/MainMenuScene.scene...
+8-14-2024 12:27:12-debug: %cImport%c: /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/MainMenuScene.scenebackground: #aaff85; color: #000;color: #000;
+8-14-2024 12:27:12-debug: refresh asset /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes success
+8-14-2024 12:27:13-debug: start refresh asset from /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/MainMenuScene.scene...
+8-14-2024 12:27:13-debug: %cImport%c: /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/MainMenuScene.scenebackground: #aaff85; color: #000;color: #000;
+8-14-2024 12:27:13-debug: refresh asset /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes success
+8-14-2024 12:27:20-debug: Query all assets info in project
+8-14-2024 12:27:20-debug: init custom config: keepNodeUuid: false, useCache: true
+8-14-2024 12:27:20-debug: // ---- build task Query asset bundle ----
+8-14-2024 12:27:20-debug: Query asset bundle start, progress: 0%
+8-14-2024 12:27:20-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+8-14-2024 12:27:20-debug:   Number of all scenes: 4
+8-14-2024 12:27:20-debug:   Number of all scripts: 24
+8-14-2024 12:27:20-debug:   Number of other assets: 1850
+8-14-2024 12:27:20-debug: // ---- build task Query asset bundle ---- (28ms)
+8-14-2024 12:27:20-debug: // ---- build task Query asset bundle ----
+8-14-2024 12:27:20-debug: [Build Memory track]: Query asset bundle start:185.67MB, end 187.89MB, increase: 2.22MB
+8-14-2024 12:27:20-debug: Query asset bundle start, progress: 5%
+8-14-2024 12:27:20-debug: run build task Query asset bundle success in 28 ms√, progress: 5%
+8-14-2024 12:27:20-debug: // ---- build task Query asset bundle ---- (2ms)
+8-14-2024 12:27:20-debug: // ---- build task Sort some build options to settings.json ----
+8-14-2024 12:27:20-debug: [Build Memory track]: Query asset bundle start:187.90MB, end 188.16MB, increase: 273.40KB
+8-14-2024 12:27:20-debug: Sort some build options to settings.json start, progress: 10%
+8-14-2024 12:27:20-debug: run build task Query asset bundle success in 2 ms√, progress: 10%
+8-14-2024 12:27:20-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+8-14-2024 12:27:20-debug: run build task Sort some build options to settings.json success in 1 ms√, progress: 12%
+8-14-2024 12:27:20-debug: [Build Memory track]: Sort some build options to settings.json start:188.17MB, end 188.18MB, increase: 10.16KB
+8-14-2024 12:27:20-debug: Fill script data to settings start, progress: 12%
+8-14-2024 12:27:20-debug: // ---- build task Fill script data to settings ----
+8-14-2024 12:27:20-debug: // ---- build task Fill script data to settings ---- (1ms)
+8-14-2024 12:27:20-debug: // ---- build task Sort some build options to settings.json ----
+8-14-2024 12:27:20-debug: Sort some build options to settings.json start, progress: 13%
+8-14-2024 12:27:20-debug: [Build Memory track]: Fill script data to settings start:188.19MB, end 188.23MB, increase: 43.79KB
+8-14-2024 12:27:20-debug: run build task Fill script data to settings success in 1 ms√, progress: 13%
+8-14-2024 12:27:20-debug: run build task Sort some build options to settings.json success in 3 ms√, progress: 15%
+8-14-2024 12:27:20-debug: // ---- build task Sort some build options to settings.json ---- (3ms)
+8-14-2024 12:27:20-debug: [Build Memory track]: Sort some build options to settings.json start:188.24MB, end 188.29MB, increase: 50.65KB
+8-14-2024 12:27:26-debug: refresh db internal success
+8-14-2024 12:27:26-debug: refresh db assets success
+8-14-2024 12:27:26-debug: Run asset db hook engine-extends:afterRefresh ...
+8-14-2024 12:27:26-debug: Run asset db hook engine-extends:afterRefresh success!
+8-14-2024 12:27:26-debug: asset-db:refresh-all-database (43ms)
+8-14-2024 12:27:27-debug: start refresh asset from /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/MainMenuScene.scene...
+8-14-2024 12:27:27-debug: %cImport%c: /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/MainMenuScene.scenebackground: #aaff85; color: #000;color: #000;
+8-14-2024 12:27:27-debug: refresh asset /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes success
+8-14-2024 12:27:27-debug: start refresh asset from /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/MainMenuScene.scene...
+8-14-2024 12:27:27-debug: %cImport%c: /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes/MainMenuScene.scenebackground: #aaff85; color: #000;color: #000;
+8-14-2024 12:27:27-debug: refresh asset /Users/artemfedorov/Documents/dev/rpg-mini/assets/scenes success

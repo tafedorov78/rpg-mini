@@ -187,7 +187,7 @@
     "_priority": 0,
     "_fov": 45,
     "_fovAxis": 0,
-    "_orthoHeight": 677.0538243626063,
+    "_orthoHeight": 650,
     "_near": 0,
     "_far": 1000,
     "_color": {
@@ -1660,7 +1660,7 @@
     ],
     "value": {
       "__type__": "cc.Size",
-      "width": 97.35997878120574,
+      "width": 97.3599853515625,
       "height": 50.4
     }
   },
@@ -1886,7 +1886,7 @@
     ],
     "value": {
       "__type__": "cc.Size",
-      "width": 133.83995394756258,
+      "width": 133.83995056152344,
       "height": 50.4
     }
   },
@@ -2155,7 +2155,7 @@
     ],
     "value": {
       "__type__": "cc.Size",
-      "width": 121.359979127014,
+      "width": 121.35997009277344,
       "height": 50.4
     }
   },
@@ -2589,7 +2589,7 @@
     ],
     "value": {
       "__type__": "cc.Size",
-      "width": 149.31995942977605,
+      "width": 149.31997680664062,
       "height": 50.4
     }
   },
@@ -3552,7 +3552,7 @@
     "_string": "",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 21.18,
+    "_actualFontSize": 20,
     "_fontSize": 20,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
