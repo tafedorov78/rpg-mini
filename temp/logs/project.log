@@ -5452,3 +5452,4 @@ See more tips at https://vuejs.org/guide/deployment.html
 8-13-2024 14:39:13 - error: Failed to load import map at project://: Error: EISDIR: illegal operation on a directory, read
 8-13-2024 14:39:41 - error: Failed to load import map at project://: Error: EISDIR: illegal operation on a directory, read
 8-13-2024 14:48:55 - error: Failed to load import map at project://: Error: EISDIR: illegal operation on a directory, read
+8-14-2024 00:10:51 - error: Failed to load import map at project://: Error: EISDIR: illegal operation on a directory, read

@@ -84,6 +84,30 @@
         },
         "time": "8-13-2024 14:48:49",
         "dirty": false
+      },
+      "buildBundle": {
+        "id": "buildBundle",
+        "progress": 1,
+        "state": "success",
+        "message": "8-14-2024 00:10:53Build Bundle success in 1 s!",
+        "detailMessage": "[build-script]enter sub process 45761, /Applications/Cocos/Creator/3.8.3/CocosCreator.app/Contents/Frameworks/CocosCreator Helper (Renderer).app/Contents/MacOS/CocosCreator Helper (Renderer),/Applicat...",
+        "options": {
+          "dest": "project://build/build-bundle",
+          "buildTaskIds": [
+            "1723574375879"
+          ],
+          "taskName": "build bundle db://assets/art/Barrack",
+          "bundleConfigs": [
+            {
+              "root": "db://assets/art/Barrack",
+              "name": "Barrack",
+              "output": true
+            }
+          ],
+          "packages": {}
+        },
+        "time": "",
+        "type": "bundle"
       }
     }
   }

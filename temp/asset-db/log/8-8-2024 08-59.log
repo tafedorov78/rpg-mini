@@ -28474,3 +28474,137 @@
 8-13-2024 14:49:00-debug: [Build Memory track]: builder:build-project-total start:190.15MB, end 241.57MB, increase: 51.42MB
 8-13-2024 14:49:00-debug: ================================ build Task (web-mobile) Finished in (10 s)ms ================================
 8-13-2024 14:49:00-debug: Stop record console. {file(/Users/artemfedorov/Documents/dev/rpg-mini/temp/builder/log/web-mobile8-13-2024 14-39.log)}
+8-14-2024 00:09:21-debug: refresh db internal success
+8-14-2024 00:09:21-debug: refresh db assets success
+8-14-2024 00:09:21-debug: Run asset db hook engine-extends:afterRefresh ...
+8-14-2024 00:09:21-debug: Run asset db hook engine-extends:afterRefresh success!
+8-14-2024 00:09:21-debug: asset-db:refresh-all-database (84ms)
+8-14-2024 00:09:21-debug: asset-db:worker-effect-data-processing (1ms)
+8-14-2024 00:09:21-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+8-14-2024 00:10:28-debug: refresh db internal success
+8-14-2024 00:10:28-debug: refresh db assets success
+8-14-2024 00:10:28-debug: Run asset db hook engine-extends:afterRefresh ...
+8-14-2024 00:10:28-debug: Run asset db hook engine-extends:afterRefresh success!
+8-14-2024 00:10:28-debug: asset-db:refresh-all-database (58ms)
+8-14-2024 00:10:28-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+8-14-2024 00:10:51-debug: Build with Cocos Creator 3.8.3
+8-14-2024 00:10:51-debug: =================================== build bundle db://assets/art/Barrack Task (web-mobile) Start ================================
+8-14-2024 00:10:51-debug: Start build task, options:{"name":"test","server":"","platform":"web-mobile","buildPath":"project://build","debug":false,"md5Cache":false,"skipCompressTexture":false,"sourceMaps":false,"overwriteProjectSettings":{"includeModules":{"gfx-webgl2":"on","physics":"inherit-project-setting","physics-2d":"inherit-project-setting"},"macroConfig":{"cleanupImageCache":"inherit-project-setting"}},"nativeCodeBundleMode":"both","polyfills":{"asyncFunctions":true},"experimentalEraseModules":false,"startSceneAssetBundle":false,"bundleConfigs":[{"root":"db://assets/art/Barrack","name":"Barrack","output":true}],"useBuiltinServer":false,"mainBundleIsRemote":false,"mainBundleCompressionType":"merge_dep","useSplashScreen":true,"bundleCommonChunk":false,"packAutoAtlas":true,"startScene":"54d1f9e3-8212-4bd0-8f2b-c71890d84453","outputName":"web-mobile","taskName":"build bundle db://assets/art/Barrack","scenes":[{"url":"db://assets/scenes/GameScene.scene","uuid":"6eee9438-993f-40ed-9527-5c8877905d3e"},{"url":"db://assets/scenes/LoadingScene.scene","uuid":"54d1f9e3-8212-4bd0-8f2b-c71890d84453"},{"url":"db://assets/scenes/MainMenuScene.scene","uuid":"b31e9165-ac58-4bf8-a353-af2180cb1dbe"},{"url":"db://assets/scenes/SplashScreenScene.scene","uuid":"6d83f52c-2473-4b4b-9d63-f688d14dc9bd"}],"wasmCompressionMode":false,"packages":{"adsense-h5g-plugin":{"enableAdsense":false,"enableTestAd":false,"__version__":"1.0.1","AFPHostPropertyCode":"ca-host-pub-5396158963872751","AFPHostDomain":"douyougame.com","otherAFPHostPropertyCode":"","otherAFPDomain":""},"cocos-service":{"configID":"c03d7c","services":[],"__version__":"3.0.7"},"web-mobile":{"orientation":"auto","embedWebDebugger":false,"__version__":"1.0.1"}},"__version__":"1.3.8","logDest":"project://temp/builder/log/build-bundle-8-14-2024 00-10.log","dest":"/Users/artemfedorov/Documents/dev/rpg-mini/build/build-bundle/web-mobile","buildBundleOnly":true,"id":"buildBundle"}
+8-14-2024 00:10:51-debug: Start record console... {file(/Users/artemfedorov/Documents/dev/rpg-mini/temp/builder/log/build-bundle-8-14-2024 00-10.log)}
+8-14-2024 00:10:51-debug: // ---- build task adsense-h5g-plugin：onBeforeBundleInit ----
+8-14-2024 00:10:51-debug: [adsense-h5g-plugin] remove script success
+8-14-2024 00:10:51-debug: // ---- build task adsense-h5g-plugin：onBeforeBundleInit ---- (7ms)
+8-14-2024 00:10:51-debug: // ---- build task web-mobile：onAfterBundleInit ----
+8-14-2024 00:10:51-debug: // ---- build task web-mobile：onAfterBundleInit ---- (11ms)
+8-14-2024 00:10:51-debug:   Number of all scripts: 24
+8-14-2024 00:10:51-debug:   Number of all scenes: 4
+8-14-2024 00:10:51-debug:   Number of other assets: 1850
+8-14-2024 00:10:51-debug: reload all scripts.
+8-14-2024 00:10:51-debug: Set detail map pack:///resolution-detail-map.json: {}
+8-14-2024 00:10:51-debug: Unregister HeroesTabComponent
+8-14-2024 00:10:51-debug: Unregister BulletComponent
+8-14-2024 00:10:51-debug: Unregister HeroComponent
+8-14-2024 00:10:51-debug: Unregister PoolObjectComponent
+8-14-2024 00:10:51-debug: Unregister TeamsBuilderComponent
+8-14-2024 00:10:51-debug: Unregister GameScene
+8-14-2024 00:10:51-debug: Unregister LoadingScene
+8-14-2024 00:10:51-debug: Unregister MainMenuScene
+8-14-2024 00:10:51-debug: Unregister SplashScene
+8-14-2024 00:10:51-debug: Unregister FrameSwitcher
+8-14-2024 00:10:51-debug: Unregister AuthComponent
+8-14-2024 00:10:51-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+8-14-2024 00:10:51-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+8-14-2024 00:10:51-debug: Invalidating 'pack:///chunks/31/31e3c2f26607ebb67e59edfae1b48b9458089fb9.js'
+8-14-2024 00:10:51-debug: Invalidating 'pack:///chunks/43/43bc543f774c4a99beed58f9b99e51eb37f3cd2b.js'
+8-14-2024 00:10:51-debug: Invalidating 'pack:///chunks/ac/ac29c888d2b3c018f09e63e09d7afe3d09c5c988.js'
+8-14-2024 00:10:51-debug: Invalidating 'pack:///chunks/93/93d422f297ce421b813108716d551ebfda2e1ff0.js'
+8-14-2024 00:10:51-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+8-14-2024 00:10:51-debug: Invalidating 'pack:///chunks/ee/ee1d442b0ea0f99bddd801b4ad63410d5e150a93.js'
+8-14-2024 00:10:51-debug: Invalidating 'pack:///chunks/29/2944b6005af60a5d98ace1312dbf48a85d7a9155.js'
+8-14-2024 00:10:51-debug: Invalidating 'pack:///chunks/4b/4b92c57f6beb6351cf30108b3148ea8aa2523f36.js'
+8-14-2024 00:10:51-debug: Invalidating 'pack:///chunks/56/566a862660f4bda301a34c60526d63ca3f83a237.js'
+8-14-2024 00:10:51-debug: Invalidating 'pack:///chunks/91/918d1937e878890ea34304f711a5a2e7c4ba7612.js'
+8-14-2024 00:10:51-debug: Invalidating 'pack:///chunks/9c/9c1ac6ae1b615a0ea3516444413c58a3e41633e0.js'
+8-14-2024 00:10:51-debug: Unregister HeroCardComponent
+8-14-2024 00:10:51-debug: Invalidating 'pack:///chunks/30/30d06e77b734eddeab10f0b4743a735a070cc296.js'
+8-14-2024 00:10:51-debug: Invalidating 'pack:///chunks/6b/6b52bac560769ba5d52043ae1c963113c905ed23.js'
+8-14-2024 00:10:51-debug: Invalidating 'pack:///chunks/4d/4d5562698e441ffb1f9bcaca967797b791f781af.js'
+8-14-2024 00:10:51-debug: Invalidating 'pack:///chunks/10/10a955e015414ccf8ead24087ac20d0823e446f0.js'
+8-14-2024 00:10:51-debug: Invalidating 'pack:///chunks/0f/0f39d870a8bdc819c446eaacb2fccd004d7cf2e5.js'
+8-14-2024 00:10:51-debug: Invalidating 'pack:///chunks/01/01f87aa1846637fae3144b4a7ea197c0d9a24c97.js'
+8-14-2024 00:10:51-debug: Invalidating 'pack:///chunks/16/16a31ff9c1943f1ce1e28af0881cf4c5f8b48d96.js'
+8-14-2024 00:10:51-debug: Invalidating 'pack:///chunks/b4/b49538a528a9e92daf72f9ea5b76e799f5a177df.js'
+8-14-2024 00:10:51-debug: Invalidating 'pack:///chunks/23/2369e8c1c84ac7af95060143548bf4441aeda9fd.js'
+8-14-2024 00:10:51-debug: Invalidating 'pack:///chunks/43/433e03e4504ba52b919b4d68a1acb99327486745.js'
+8-14-2024 00:10:51-debug: Invalidating 'pack:///chunks/5b/5b9fc0aad823670c7031a8bca03be4b944f19e7e.js'
+8-14-2024 00:10:51-debug: Invalidating 'pack:///chunks/db/db0d38c16cba760b922e87a3b681af6dfa625715.js'
+8-14-2024 00:10:51-debug: Invalidating 'pack:///chunks/d4/d408e9d9ae49205507799cf76038b7af1cd30d1d.js'
+8-14-2024 00:10:51-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+8-14-2024 00:10:51-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+8-14-2024 00:10:51-debug: [[Executor]] Register DebugViewRuntimeControl
+8-14-2024 00:10:51-debug: [[Executor]] Module "pack:///chunks/31/31e3c2f26607ebb67e59edfae1b48b9458089fb9.js" loaded.
+8-14-2024 00:10:51-debug: [[Executor]] Module "pack:///chunks/43/43bc543f774c4a99beed58f9b99e51eb37f3cd2b.js" loaded.
+8-14-2024 00:10:51-debug: [[Executor]] Module "pack:///chunks/ac/ac29c888d2b3c018f09e63e09d7afe3d09c5c988.js" loaded.
+8-14-2024 00:10:51-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+8-14-2024 00:10:51-debug: [[Executor]] Module "pack:///chunks/93/93d422f297ce421b813108716d551ebfda2e1ff0.js" loaded.
+8-14-2024 00:10:51-debug: [[Executor]] Module "pack:///chunks/29/2944b6005af60a5d98ace1312dbf48a85d7a9155.js" loaded.
+8-14-2024 00:10:51-debug: [[Executor]] Register BattleComponent
+8-14-2024 00:10:51-debug: [[Executor]] Module "pack:///chunks/ee/ee1d442b0ea0f99bddd801b4ad63410d5e150a93.js" loaded.
+8-14-2024 00:10:51-debug: [[Executor]] Register HeroCardComponent
+8-14-2024 00:10:51-debug: [[Executor]] Module "pack:///chunks/56/566a862660f4bda301a34c60526d63ca3f83a237.js" loaded.
+8-14-2024 00:10:51-debug: [[Executor]] Register HeroesTabComponent
+8-14-2024 00:10:51-debug: [[Executor]] Module "pack:///chunks/4b/4b92c57f6beb6351cf30108b3148ea8aa2523f36.js" loaded.
+8-14-2024 00:10:51-debug: [[Executor]] Register BulletComponent
+8-14-2024 00:10:51-debug: [[Executor]] Module "pack:///chunks/30/30d06e77b734eddeab10f0b4743a735a070cc296.js" loaded.
+8-14-2024 00:10:51-debug: [[Executor]] Register HeroComponent
+8-14-2024 00:10:51-debug: [[Executor]] Module "pack:///chunks/9c/9c1ac6ae1b615a0ea3516444413c58a3e41633e0.js" loaded.
+8-14-2024 00:10:51-debug: [[Executor]] Register PoolObjectComponent
+8-14-2024 00:10:51-debug: [[Executor]] Module "pack:///chunks/7a/7a90a80d644192e0774f765a6aefccfc05bcbf02.js" loaded.
+8-14-2024 00:10:51-debug: [[Executor]] Register TeamsBuilderComponent
+8-14-2024 00:10:51-debug: [[Executor]] Module "pack:///chunks/91/918d1937e878890ea34304f711a5a2e7c4ba7612.js" loaded.
+8-14-2024 00:10:51-debug: [[Executor]] Module "pack:///chunks/6b/6b52bac560769ba5d52043ae1c963113c905ed23.js" loaded.
+8-14-2024 00:10:51-debug: [[Executor]] Register GameScene
+8-14-2024 00:10:51-debug: [[Executor]] Module "pack:///chunks/4d/4d5562698e441ffb1f9bcaca967797b791f781af.js" loaded.
+8-14-2024 00:10:51-debug: [[Executor]] Register LoadingScene
+8-14-2024 00:10:51-debug: [[Executor]] Module "pack:///chunks/10/10a955e015414ccf8ead24087ac20d0823e446f0.js" loaded.
+8-14-2024 00:10:51-debug: [[Executor]] Register MainMenuScene
+8-14-2024 00:10:51-debug: [[Executor]] Module "pack:///chunks/0f/0f39d870a8bdc819c446eaacb2fccd004d7cf2e5.js" loaded.
+8-14-2024 00:10:51-debug: [[Executor]] Register SplashScene
+8-14-2024 00:10:51-debug: [[Executor]] Module "pack:///chunks/01/01f87aa1846637fae3144b4a7ea197c0d9a24c97.js" loaded.
+8-14-2024 00:10:51-debug: [[Executor]] Module "pack:///chunks/16/16a31ff9c1943f1ce1e28af0881cf4c5f8b48d96.js" loaded.
+8-14-2024 00:10:51-debug: [[Executor]] Module "pack:///chunks/b4/b49538a528a9e92daf72f9ea5b76e799f5a177df.js" loaded.
+8-14-2024 00:10:51-debug: [[Executor]] Module "pack:///chunks/43/433e03e4504ba52b919b4d68a1acb99327486745.js" loaded.
+8-14-2024 00:10:51-debug: [[Executor]] Module "pack:///chunks/5b/5b9fc0aad823670c7031a8bca03be4b944f19e7e.js" loaded.
+8-14-2024 00:10:51-debug: [[Executor]] Module "pack:///chunks/23/2369e8c1c84ac7af95060143548bf4441aeda9fd.js" loaded.
+8-14-2024 00:10:51-debug: [[Executor]] Register FrameSwitcher
+8-14-2024 00:10:51-debug: [[Executor]] Module "pack:///chunks/db/db0d38c16cba760b922e87a3b681af6dfa625715.js" loaded.
+8-14-2024 00:10:51-debug: [[Executor]] Register AuthComponent
+8-14-2024 00:10:51-debug: [[Executor]] Module "pack:///chunks/d4/d408e9d9ae49205507799cf76038b7af1cd30d1d.js" loaded.
+8-14-2024 00:10:51-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+8-14-2024 00:10:51-debug: Incremental keys: 
+8-14-2024 00:10:51-debug: Unregister DebugViewRuntimeControl
+8-14-2024 00:10:51-debug: Unregister BattleComponent
+8-14-2024 00:10:51-debug: Invalidating 'pack:///chunks/7a/7a90a80d644192e0774f765a6aefccfc05bcbf02.js'
+8-14-2024 00:10:51-debug: handle json group in bundle Barrack
+8-14-2024 00:10:51-debug: init image compress task 0 in bundle Barrack
+8-14-2024 00:10:51-debug: handle json group in bundle Barrack success
+8-14-2024 00:10:52-log: Run build task(build-script) in child, see: chrome://inspect/#devices
+8-14-2024 00:10:52-log: [build-script]enter sub process 45761, /Applications/Cocos/Creator/3.8.3/CocosCreator.app/Contents/Frameworks/CocosCreator Helper (Renderer).app/Contents/MacOS/CocosCreator Helper (Renderer),/Applications/Cocos/Creator/3.8.3/CocosCreator.app/Contents/Resources/app.asar/builtin/builder/static/sub-process-index
+8-14-2024 00:10:53-debug: excute-script over with build-script 1349ms
+8-14-2024 00:10:53-debug: Copy externalScripts success!
+8-14-2024 00:10:53-debug: builder:pack-auto-atlas-image (15ms)
+8-14-2024 00:10:53-debug: sort compress task {}
+8-14-2024 00:10:53-debug: Num of all image compress task 0, really: 0, configTasks: 0
+8-14-2024 00:10:53-debug: No image need to compress
+8-14-2024 00:10:53-debug: Handle all json groups in bundle Barrack
+8-14-2024 00:10:53-debug: handle json group
+8-14-2024 00:10:53-debug: handle single json
+8-14-2024 00:10:53-debug: compress config of bundle Barrack...
+8-14-2024 00:10:53-debug: compress config of bundle Barrack success
+8-14-2024 00:10:53-debug: output config of bundle Barrack success
+8-14-2024 00:10:53-debug: [Build Memory track]: builder:build-bundle-total start:242.78MB, end 244.04MB, increase: 1.26MB
+8-14-2024 00:10:53-debug: 8-14-2024 00:10:53Build Bundle success in 1 s!
+8-14-2024 00:10:53-debug: ================================ build bundle db://assets/art/Barrack Task (build bundle db://assets/art/Barrack) Finished in (1 s)ms ================================
+8-14-2024 00:10:53-debug: output config of bundle Barrack
+8-14-2024 00:10:53-log: build bundle db://assets/art/Barrack (web-mobile) in {link(/Users/artemfedorov/Documents/dev/rpg-mini/build/build-bundle/web-mobile)} success!
+8-14-2024 00:10:53-debug: Stop record console. {file(/Users/artemfedorov/Documents/dev/rpg-mini/temp/builder/log/build-bundle-8-14-2024 00-10.log)}
